@@ -2,7 +2,7 @@
 
 **Lead Researcher & Developer:** Boyan Zhang (bzhang@student.eae.es)  
 **Institution:** EAE Business School Barcelona  
-**Academic Supervisor:** Aleix Ruiz de Villa Robert  
+**Academic Supervisor:** Aleix Ruiz de Villa Robert (aleix.ruizdevillarobert@campus.eae.es)
 
 ---
 
