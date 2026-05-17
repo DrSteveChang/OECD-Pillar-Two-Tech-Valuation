@@ -1,0 +1,6 @@
+,Firm_Size,Leverage,RD_Intensity,Intangible_Ratio,ETR
+Firm_Size,1.0,0.072,-0.1774,,0.1817
+Leverage,0.072,1.0,-0.0764,,-0.0124
+RD_Intensity,-0.1774,-0.0764,1.0,,-0.1277
+Intangible_Ratio,,,,,
+ETR,0.1817,-0.0124,-0.1277,,1.0
