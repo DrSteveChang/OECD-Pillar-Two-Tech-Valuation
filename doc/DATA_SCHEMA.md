@@ -20,12 +20,12 @@ This document provides a comprehensive codebook and data schema mapping protocol
 
 | Variable Identifier | Storage Type | Numeric Scale | Econometric / Mathematical Definition & Scope | Formula Representation |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ticker** | String (UTF-8) | Discrete Key | Stock ticker asset symbol identifying the unique multinational entity. Act as the index tracking key and cluster group anchor. | N/A |
+| **Ticker** | String (UTF-8) | Discrete Key | Stock ticker asset symbol identifying the unique multinational entity. Acts as the index tracking key and cluster group anchor. | N/A |
 | **Year** | Integer | Discrete Time | Calendar reporting fiscal cycle year matching international financial disclosures. | $t \in [2014, 2026]$ |
 | **TotalRevenue** | Float | Continuous | Raw annualized gross revenue scale reported by the corporate entity, denominated in millions of Euros. | $Y_{\text{raw}}$ |
-| **Log_Revenue** | Float | Continuous | Natural logarithm of the annualized total revenue scale. Serves as the primary dependent variable ($Y$) across baseline regressions. | $Log\_Revenue_{it} = \ln(TotalRevenue_{it})$ |
+| **Log_Revenue** | Float | Continuous | Natural logarithm of the annualized total revenue scale. Serves as the primary dependent variable ($Y$) across baseline regressions. | $\text{Log\_Revenue}_{it} = \ln(\text{TotalRevenue}_{it})$ |
 | **Treatment_Group** | Binary | $\{0, 1\}$ Flag | Policy exposure assignment layer. $1$ indicates mega-cap MNEs with global turnover exceeding 750M EUR (subject to GloBE rules), $0$ indicates donor pool tech firms. | $G_i \in \{0, 1\}$ |
-| **DiD_Estimator** | Binary | $\{0, 1\}$ Flag | The core interaction parameter representing the net treatment effect. Triggers 1 only for treated firms after the initial rule announcement window. | $DiD_{it} = Group_i \times Post_t$ |
+| **DiD_Estimator** | Binary | $\{0, 1\}$ Flag | The core interaction parameter representing the net treatment effect. Triggers 1 only for treated firms after the initial rule announcement window. | $DiD_{it} = G_i \times Post_t$ |
 | **Leverage** | Float | Continuous Ratio | Financial capital framework modifier representing corporate structural risk. Total liabilities divided by total asset foundations. | $Lev_{it} = \frac{\text{Total Debt}_{it}}{\text{Total Assets}_{it}}$ |
 | **RD_Intensity** | Float | Continuous Ratio | Research & Development investment ratio. R&D expenditure divided by gross total revenue. High shares imply hyper-mobile IP pathways. | $RD_{it} = \frac{\text{R\&D Expense}_{it}}{\text{Total Revenue}_{it}}$ |
 | **Intangible_Ratio** | Float | Continuous Ratio | Intangible asset structural concentration density. Excluded inside standard linear OLS layers due to high collinearity and design matrix rank deficiencies. | $Int_{it} = \frac{\text{Intangible Assets}_{it}}{\text{Total Assets}_{it}}$ |
