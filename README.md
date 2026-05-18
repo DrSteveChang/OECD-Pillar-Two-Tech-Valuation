@@ -27,28 +27,55 @@ Furthermore, to unpack the high-dimensional cross-sectional heterogeneity within
 
 ```text
 OECD-Pillar-Two-Tech-Valuation/
-├── data/                                 # Storage layer for raw and derived datasets
+├── .vscode/                              # IDE environment configurations
+├── data/                                 # Storage layer for raw, analytic, and derived datasets
+│   ├── derived_results/                  # Convex-optimized matrix outputs and aggregations
+│   │   ├── AAPL_synthetic_trajectory_indexed.csv
+│   │   ├── AAPL_synthetic_trajectory.csv
+│   │   ├── full_cohort_scm_trajectories.csv
+│   │   └── global_scm_att_results.csv
+│   ├── .gitkeep
 │   ├── analytical_panel_dataset.csv      # Baseline integrated macro-micro panel (508 Obs)
-│   └── derived_results/                  # Convex-optimized matrix outputs and aggregations
-│       ├── full_cohort_scm_trajectories.csv  # High-dimensional individual firm counterfactuals
-│       ├── global_scm_att_results.csv        # Consolidated cohort mean ATT gaps
-│       └── derived_data_clusters.csv         # Unsupervised K-Means behavioral labels
+│   ├── raw_balance_sheets.csv            # Unprocessed structural balance sheet pulls
+│   ├── raw_corporate_financials.csv      # Ingested XBRL fundamental disclosures
+│   ├── raw_market_dimensions.csv         # High-frequency financial market metrics
+│   └── verified_100_constituents.csv     # Harmonized stratified sampling master list
+├── doc/                                  # Theoretical and data dictionary documentation
+│   ├── DATA_SCHEMA.md                    # Econometric codebook and variable schemas
+│   └── SAMPLE_SELECTION_METHODOLOGY.md   # Statutory screening logic and definitions
+├── docs/
+│   └── analysis_reports/                 # Hardcopy output assets and textual deliverables
+│       ├── figures/                      # High-resolution vector PDF/PNG charts
+│       │   ├── Figure1_SCM_Global_ATT.pdf
+│       │   ├── Figure1_SCM_Global_ATT.png
+│       │   ├── Figure2_DiD_Event_Study.pdf
+│       │   ├── Figure2_DiD_Event_Study.png
+│       │   ├── Figure3_SCM_Distribution_Gaps.pdf
+│       │   ├── Figure3_SCM_Distribution_Gaps.png
+│       │   ├── Figure4_KMeans_SCM_Clusters.pdf
+│       │   ├── Figure4_KMeans_SCM_Clusters.png
+│       │   ├── Figure5_CausalML_Feature_Importance.pdf
+│       │   └── Figure5_CausalML_Feature_Importance.png
+│       ├── derived_data_clusters.csv     # Unsupervised K-Means behavioral cohort labels
+│       ├── Table1_Summary_Statistics.csv # Descriptive moments tracking matrix
+│       ├── Table2_Correlation_Matrix.csv # Multicollinearity linear association grid
+│       ├── Table3_DiD_Regression_Results.txt # TWFE baseline panel regression summary
+│       ├── Table4_Secondary_OLS_Audit.txt    # Rank deficiency and matrix singularity diagnostic
+│       └── Table5_ML_Feature_Importances.csv # Permutation information share statistics
 ├── src/                                  # Pure execution and algorithm layer
-│   ├── models/
-│   │   ├── did_regression.py             # Linear TWFE OLS model with clustered standard errors
-│   │   └── synthetic_control.py          # Full-cohort convex-optimized non-parametric SCM solver
-│   └── analysis/
-│       ├── plot_scm_results.py           # Canvas alignment and rendering engine for Figure 1
-│       ├── plot_supplementary_figures.py # Mathematical graphics engines for Figure 2 & 3
-│       └── advanced_data_science_models.py # Heterogeneity forest, secondary audits & K-Means pipelines
-└── docs/                                 # Hardcopy output assets and textual deliverables
-    └── analysis_reports/                 # Publication-ready econometric summaries 
-        ├── Table3_DiD_Regression_Results.txt  # Linear baseline summary (Pooled bias)
-        ├── Table4_Secondary_OLS_Audit.txt     # Matrix singularity and collinearity diagnostic report
-        ├── Table5_ML_Feature_Importances.csv  # Informational variance shares from forest splits
-        └── figures/                      # High-resolution vector PDF/PNG charts (Type-42 Embedded)
-            ├── Figure1_SCM_Global_ATT.pdf
-            ├── Figure2_DiD_Event_Study.pdf
-            ├── Figure3_SCM_Distribution_Gaps.pdf
-            ├── Figure4_KMeans_SCM_Clusters.pdf
-            └── Figure5_CausalML_Feature_Importance.pdf
+│   ├── analysis/                         # Analytical plotting and machine learning engines
+│   │   ├── advanced_data_science_models.py
+│   │   ├── descriptive_stats.py          # Generates Table 1 and Table 2 descriptive matrices
+│   │   ├── plot_scm_results.py           # Core visualization engine for Figure 1
+│   │   └── plot_supplementary_figures.py # Graphical vector compilers for Figures 2 & 3
+│   ├── cleaning/                         # Pre-processing scripts
+│   │   └── clean_data.py                 # XBRL parser and data harmonization script
+│   ├── model/                            # Structural econometric estimators
+│   │   ├── did_regression.py             # Computes multi-period panel TWFE equations
+│   │   └── synthetic_control.py          # Solves SLSQP non-parametric donor weights
+│   ├── .gitkeep
+│   ├── fetch_data.py                     # Automated async API macro-micro data retriever
+│   └── validate_sample.py                # Ingestion pipeline currency normalizer script
+├── .gitignore
+├── LICENSE
+└── README.md
