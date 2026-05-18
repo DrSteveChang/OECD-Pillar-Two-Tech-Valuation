@@ -6,43 +6,49 @@
 
 ---
 
-## 🔒 Intellectual Property & Contribution Notice
+## 1. Intellectual Property & Contribution Notice
 **All rights reserved.** This repository contains the original code, empirical architecture, and data processing logic developed exclusively by **Boyan Zhang** for the Master in Big Data & Analytics (TFM). 
 
-* **Code Sovereignty:** The core Python implementation for data normalization, Difference-in-Differences (DiD) modeling, and Synthetic Control Method (SCM) optimization is the sole intellectual property of the lead researcher.
+* **Code Sovereignty:** The core Python implementation for data normalization, Difference-in-Differences (DiD) modeling, Synthetic Control Method (SCM) optimization, and Causal ML heterogeneity estimation is the sole intellectual property of the lead researcher.
 * **Collaboration Policy:** Access to this private repository is granted for academic review purposes. Any unauthorized duplication or inclusion of this logic in external submissions without explicit written consent is strictly prohibited.
 
 ---
 
-## 📝 Abstract
-When the OECD/G20 Inclusive Framework reached its historic agreement on Pillar Two in October 2021, it established a 15% global minimum tax floor that, by design, targeted the world’s largest technology companies. This study examines the real-world consequences of that shift for their market valuations. For decades, Big Tech has navigated complex tax positions across low-tax jurisdictions; Pillar Two represents a direct, structural response to these long-standing practices. 
+## 2. Abstract
+When the OECD/G20 Inclusive Framework reached its historic agreement on Pillar Two in October 2021, it established a 15% global minimum tax floor that, by design, targeted the world's largest technology companies. This study examines the real-world consequences of that shift for their market valuations. 
 
-Utilizing a quasi-experimental **Big Data framework**, this research integrates heterogeneous datasets—ranging from structured corporate tax disclosures (XBRL) to high-frequency financial market data. The primary analytical strategy employs a **Difference-in-Differences (DiD)** panel regression to isolate the valuation impact of the 2021 policy shock. However, recognizing that mega-capitalization firms often follow unique, idiosyncratic trajectories that challenge the "parallel trends" assumption, the study incorporates the **Synthetic Control Method (SCM)** as a robust complementary check. This dual-model architecture allows for the construction of mathematically weighted counterfactuals, significantly strengthening the internal validity of the causal inference.
+Utilizing a quasi-experimental **Big Data framework**, this research integrates heterogeneous datasets ranging from structured corporate tax disclosures (XBRL) to financial market indicators. The primary analytical strategy employs a **Difference-in-Differences (DiD)** panel regression to isolate the valuation impact of the policy shock. However, recognizing that mega-capitalization firms often follow unique, idiosyncratic trajectories that challenge the "parallel trends" assumption, the study incorporates the **Synthetic Control Method (SCM)** as a robust complementary check. 
 
-**Keywords:** OECD Pillar Two, Global Minimum Tax, Technology Sector Valuation, Difference-in-Differences, Synthetic Control Method, Big Data Analytics, Causal Inference.
-
----
-
-## 🛠 Technical Implementation
-
-### 1. Dual-Model Causal Inference
-* **Baseline (DiD):** Captures sector-wide average treatment effects (ATE) following the October 8, 2021 threshold.
-* **Robustness (SCM):** Constructs "synthetic" counterparts for idiosyncratic mega-caps (e.g., Apple, Microsoft) to mitigate pre-trend deviations.
-
-### 2. Automated Data Pipeline
-* **Normalization:** Automated mapping of heterogeneous tax tags into a unified schema for 50 technology MNEs.
-* **Cleaning:** Implementation of Winsorization (1%/99%) and historical exchange rate alignment.
+Furthermore, to unpack the high-dimensional cross-sectional heterogeneity within the treatment group, the pipeline integrates **Unsupervised Time-Series Clustering (K-Means)** and **Non-parametric Causal Machine Learning (Random Forest Feature Importance)**. This dual econometric and data science architecture allows for the construction of mathematically weighted counterfactuals and the non-parametric unmasking of policy elasticity determinants, significantly strengthening the internal and external validity of the causal inference.
 
 ---
 
-## 📂 Repository Structure
-- `/data`: Normalized financial datasets and macro-governance indices.
-- `/src/cleaning`: Python scripts for data standardization and XBRL mapping.
-- `/src/models`: Core implementation of DiD and SCM optimization loops.
-- `/notebooks`: Exploratory Data Analysis (EDA) and visualization.
-- `/docs`: Literature review and methodological foundations.
+## 3. Repository Topology Architecture
 
----
-
-## 📊 Development Status & Audit
-Current phase: **Phase 2 - Data Normalization & Structural Mapping.** All technical milestones and code contributions are tracked via the GitHub Commit History to ensure absolute transparency of individual contributions.
+```text
+OECD-Pillar-Two-Tech-Valuation/
+├── data/                                 # Storage layer for raw and derived datasets
+│   ├── analytical_panel_dataset.csv      # Baseline integrated macro-micro panel (508 Obs)
+│   └── derived_results/                  # Convex-optimized matrix outputs and aggregations
+│       ├── full_cohort_scm_trajectories.csv  # High-dimensional individual firm counterfactuals
+│       ├── global_scm_att_results.csv        # Consolidated cohort mean ATT gaps
+│       └── derived_data_clusters.csv         # Unsupervised K-Means behavioral labels
+├── src/                                  # Pure execution and algorithm layer
+│   ├── models/
+│   │   ├── did_regression.py             # Linear TWFE OLS model with clustered standard errors
+│   │   └── synthetic_control.py          # Full-cohort convex-optimized non-parametric SCM solver
+│   └── analysis/
+│       ├── plot_scm_results.py           # Canvas alignment and rendering engine for Figure 1
+│       ├── plot_supplementary_figures.py # Mathematical graphics engines for Figure 2 & 3
+│       └── advanced_data_science_models.py # Heterogeneity forest, secondary audits & K-Means pipelines
+└── docs/                                 # Hardcopy output assets and textual deliverables
+    └── analysis_reports/                 # Publication-ready econometric summaries 
+        ├── Table3_DiD_Regression_Results.txt  # Linear baseline summary (Pooled bias)
+        ├── Table4_Secondary_OLS_Audit.txt     # Matrix singularity and collinearity diagnostic report
+        ├── Table5_ML_Feature_Importances.csv  # Informational variance shares from forest splits
+        └── figures/                      # High-resolution vector PDF/PNG charts (Type-42 Embedded)
+            ├── Figure1_SCM_Global_ATT.pdf
+            ├── Figure2_DiD_Event_Study.pdf
+            ├── Figure3_SCM_Distribution_Gaps.pdf
+            ├── Figure4_KMeans_SCM_Clusters.pdf
+            └── Figure5_CausalML_Feature_Importance.pdf
