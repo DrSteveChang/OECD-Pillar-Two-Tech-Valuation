@@ -1,0 +1,20 @@
+=== First-Difference Causal Forest Calibration Results ===
+
+Best linear fit using forest predictions (on held-out data)
+as well as the mean forest prediction as regressors, along
+with one-sided heteroskedasticity-robust (HC3) SEs:
+
+                                Estimate Std. Error t value Pr(>t)
+mean.forest.prediction          -0.97759   17.71908 -0.0552 0.5219
+differential.forest.prediction -46.65742    7.19754 -6.4824 1.0000
+
+
+=== Estimated Average Treatment Effect on Treated (ATT) ===
+   estimate     std.err 
+-0.04766643  0.06822733 
+
+=== Non-parametric Variable Importance Matrix ===
+                  [,1]
+Leverage     0.3350980
+RD_Intensity 0.2441263
+ETR          0.1232147

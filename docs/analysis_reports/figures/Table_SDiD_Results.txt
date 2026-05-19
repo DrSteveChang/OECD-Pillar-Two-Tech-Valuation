@@ -1,0 +1,2 @@
+SDiD ATT Estimate: -0.0101
+Jackknife Standard Error: 0.0518

@@ -1,0 +1,22 @@
+
+Call:
+aggte(MP = cs_results, type = "dynamic", na.rm = TRUE)
+
+Reference: Callaway, Brantly and Pedro H.C. Sant'Anna.  "Difference-in-Differences with Multiple Time Periods." Journal of Econometrics, Vol. 225, No. 2, pp. 200-230, 2021. <https://doi.org/10.1016/j.jeconom.2020.12.001>, <https://arxiv.org/abs/1803.09015> 
+
+
+Overall summary of ATT's based on event-study/dynamic aggregation:  
+    ATT    Std. Error     [ 95%  Conf. Int.] 
+ -0.112        0.0642    -0.2379      0.0139 
+
+
+Dynamic Effects:
+ Event time Estimate Std. Error [95% Simult.  Conf. Band]  
+          0   0.0302     0.0714       -0.1363      0.1968  
+          1  -0.1064     0.0782       -0.2886      0.0758  
+          2  -0.2599     0.1036       -0.5015     -0.0182 *
+---
+Signif. codes: `*' confidence band does not cover 0
+
+Control Group:  Never Treated,  Anticipation Periods:  0
+Estimation Method:  Doubly Robust
