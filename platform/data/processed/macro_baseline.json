@@ -1,0 +1,92 @@
+{
+    "dataset_source": "OECD Anonymised and Aggregated CbCR Data Table I",
+    "global_metrics": {
+        "total_jurisdictions_analyzed": 55,
+        "jurisdictions_below_15_percent_etr": 20,
+        "aggregate_profit_exposed_to_pillar_two": 12067886929724.82,
+        "global_average_etr": 0.19592759429125287
+    },
+    "high_risk_jurisdictions_sample": [
+        {
+            "Jurisdiction": "Lithuania",
+            "Macro_ETR": 0.0314757039486157
+        },
+        {
+            "Jurisdiction": "Belgium",
+            "Macro_ETR": 0.056313542342683355
+        },
+        {
+            "Jurisdiction": "Romania",
+            "Macro_ETR": 0.05761791248666819
+        },
+        {
+            "Jurisdiction": "Isle of Man",
+            "Macro_ETR": 0.058840537195385255
+        },
+        {
+            "Jurisdiction": "Czechia",
+            "Macro_ETR": 0.060961793165983935
+        },
+        {
+            "Jurisdiction": "Panama",
+            "Macro_ETR": 0.06198232764712367
+        },
+        {
+            "Jurisdiction": "Bahrain",
+            "Macro_ETR": 0.07963567528466996
+        },
+        {
+            "Jurisdiction": "United Arab Emirates",
+            "Macro_ETR": 0.0831934758099469
+        },
+        {
+            "Jurisdiction": "Bulgaria",
+            "Macro_ETR": 0.08818240798366507
+        },
+        {
+            "Jurisdiction": "Portugal",
+            "Macro_ETR": 0.09574158630086411
+        },
+        {
+            "Jurisdiction": "Canada",
+            "Macro_ETR": 0.10428514989839456
+        },
+        {
+            "Jurisdiction": "Hungary",
+            "Macro_ETR": 0.10492728453790973
+        },
+        {
+            "Jurisdiction": "Macau (China)",
+            "Macro_ETR": 0.11063323411998005
+        },
+        {
+            "Jurisdiction": "Denmark",
+            "Macro_ETR": 0.11668374698562158
+        },
+        {
+            "Jurisdiction": "Azerbaijan",
+            "Macro_ETR": 0.11818632804027444
+        },
+        {
+            "Jurisdiction": "Singapore",
+            "Macro_ETR": 0.12124206658933123
+        },
+        {
+            "Jurisdiction": "Colombia",
+            "Macro_ETR": 0.12179325409205306
+        },
+        {
+            "Jurisdiction": "Chile",
+            "Macro_ETR": 0.12427462368242852
+        },
+        {
+            "Jurisdiction": "Greece",
+            "Macro_ETR": 0.14122602492776953
+        },
+        {
+            "Jurisdiction": "Argentina",
+            "Macro_ETR": 0.14498321789215882
+        }
+    ],
+    "methodological_note": "Calculated strictly from aggregate pre-treatment multi-national group variables. Baseline targets with ETR < 0.15 serve as the causal reference foundation."
+}

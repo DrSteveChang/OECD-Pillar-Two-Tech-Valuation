@@ -1,0 +1,6 @@
+{
+    "BASE_PLATFORM_DIR": "/Users/boyanzhang/Downloads/Project/OECD-Pillar-Two-Tech-Valuation/platform",
+    "CLOUD_LLM_API_KEY": "YOUR_ACTUAL_CLOUD_LLM_API_KEY",
+    "CLOUD_LLM_BASE_URL": "https://api.openai.com/v1",
+    "TARGET_MODEL": "gpt-4o"
+}

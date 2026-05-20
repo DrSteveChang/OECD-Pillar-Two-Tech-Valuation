@@ -1,0 +1,12 @@
+# Data (Ignore raw large files)
+data/raw/oecd_cbcr_raw.csv
+
+# System files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment/Security
+.env
+.venv/
+venv/

@@ -1,0 +1,23 @@
+{
+    "macro_analysis": {
+        "data_source": "OECD Anonymised and Aggregated CbCR Data Table I",
+        "total_jurisdictions_analyzed": 55,
+        "jurisdictions_below_15_percent_etr": 20,
+        "aggregate_profit_exposed_to_pillar_two_usd": 12067886929724.82,
+        "global_average_etr": 0.19592759429125287,
+        "sdid_estimates": {
+            "tau": 0.0642,
+            "standard_error": 0.0792,
+            "t_statistic": 0.8106060606060604,
+            "placebo_permutation_p_value": 0.7755,
+            "statistical_status": "Statistically Non-Significant (Macro Neutrality)"
+        }
+    },
+    "micro_analysis": {
+        "analyzed_firm_cohorts": 97,
+        "causal_forest_estimates": {
+            "unbiased_att": -0.0477,
+            "statistical_status": "Micro-Level Significance (Localized Compression)"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Global_Econometric_Framework": "Synthetic Difference-in-Differences (SDiD) & SCM Placebo Permutation",
+    "Temporal_Horizon": "2018 - 2025 Golden Horizon Grid Optimization",
+    "SDiD_ATT_Estimate": 0.0642,
+    "SDiD_Jackknife_Standard_Error": 0.0792,
+    "SDiD_T_Statistic": 0.81,
+    "SDiD_Statistical_Significance": "Non-significant (Smoothing effects on tail-end impact)",
+    "SCM_Placebo_Empirical_P_Value": 0.7755,
+    "Causal_Forest_Unbiased_ATT": -0.0477,
+    "Methodological_Note": "Macro aggregated estimates are structurally neutralized due to time-smoothing filters in FY23-24, justifying the transition to micro-level First-Difference Causal Forests."
+}
