@@ -1,12 +1,21 @@
-# Data (Ignore raw large files)
-data/raw/oecd_cbcr_raw.csv
-
-# System files
+# OS Metadata
 .DS_Store
-__pycache__/
-.ipynb_checkpoints/
+Thumbs.db
 
-# Environment/Security
-.env
-.venv/
+# Python Caches
+__pycache__/
+*.pyc
+
+# Data & Databases (The heavy stuff)
+platform/data/raw/oecd_cbcr_raw.csv
+platform/data/processed/chroma_db/
+platform/data/vector_db/
+platform/data/raw/academic_pdfs/
+
+# Temporary Output
+platform/output/
+
+# Environment
 venv/
+.venv/
+.env

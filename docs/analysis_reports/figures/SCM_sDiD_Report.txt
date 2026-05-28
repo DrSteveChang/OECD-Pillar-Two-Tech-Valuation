@@ -1,0 +1,6 @@
+--- SCM IN-SPACE PLACEBO INFERENCE ---
+Empirical P-Value: 0.7755
+--- SYNTHETIC DIFFERENCE-IN-DIFFERENCES (SDiD) ---
+SDiD Estimate (ATT): -0.0101
+Jackknife Standard Error: 0.0518
+--- Pipeline Execution Finished Successfully ---

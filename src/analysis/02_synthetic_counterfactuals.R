@@ -87,11 +87,21 @@ main_df <- data.frame(
   Group = "Treated_Agg"
 )
 
-# Placebo Loop with console suppression
+# Placebo Loop with console suppression and progress monitoring
 placebo_list <- list()
+
+# Initialize counter and total length for monitoring
+counter <- 1
+total_placebos <- length(control_ids)
+
 for (p_id in control_ids) {
   p_controls <- control_ids[control_ids != p_id]
   p_name <- entity_key %>% filter(Entity_ID == p_id) %>% pull(Entity)
+  
+  # Explicit console output to monitor progress and prevent perceived freezing
+  message(sprintf("Processing Placebo %d of %d: Entity ID %s", counter, total_placebos, p_name))
+  counter <- counter + 1
+  
   tryCatch({
     dataprep_p <- dataprep(
       foo = df_agg,
@@ -174,8 +184,31 @@ sdid_report <- c(
 )
 writeLines(sdid_report, con = "Table_SDiD_Results.txt")
 
-pdf("Figure_SDiD_Parallel_Trends.pdf", width = 8, height = 6)
-plot(tau_sdid)
-dev.off()
+# Ensure robust rendering in non-interactive sessions via ggsave
+p_sdid <- plot(tau_sdid)
+ggsave("Figure_SDiD_Parallel_Trends.pdf", plot = p_sdid, width = 8, height = 6, dpi = 300)
 
 print("--- Pipeline Execution Finished Successfully ---")
+
+# ------------------------------------------------------------------------------
+# PART C: UNIFIED EXECUTION REPORT GENERATION
+# ------------------------------------------------------------------------------
+# Construct the formatted comprehensive report content
+unified_report <- c(
+  "--- SCM IN-SPACE PLACEBO INFERENCE ---",
+  paste("Empirical P-Value:", round(exact_p_value, 4)),
+  "--- SYNTHETIC DIFFERENCE-IN-DIFFERENCES (SDiD) ---",
+  paste("SDiD Estimate (ATT):", round(as.numeric(tau_sdid), 4)),
+  paste("Jackknife Standard Error:", round(as.numeric(se_sdid), 4)),
+  "--- Pipeline Execution Finished Successfully ---"
+)
+
+# 1. Print to console (using cat to eliminate the [1] index from base print for cleaner formatting)
+cat(paste(unified_report, collapse = "\n"), "\n")
+
+# 2. Automatically save as a comprehensive log file
+writeLines(unified_report, con = "SCM_sDiD_Report.txt")
+
+# Ensure robust rendering in non-interactive sessions via ggsave
+p_sdid <- plot(tau_sdid)
+ggsave("Figure_SDiD_Parallel_Trends.pdf", plot = p_sdid, width = 8, height = 6, dpi = 300)
