@@ -13,6 +13,21 @@ The platform is designed as a three-stage pipeline, moving from raw data ingesti
 *   **Causal Inference Engine:** Utilizes Synthetic Difference-in-Differences (SDiD) for macro impacts and Causal Forest models to isolate micro-level valuation compression.
 *   **RAG-Powered Synthesis:** An intelligent orchestrator retrieves relevant academic literature and SEC 10-K filings from a ChromaDB-backed vector store to provide contextual depth to quantitative findings.
 
+#### Methodology
+This project employs a mixed-method approach to investigate policy efficacy:
+
+Quantitative Modeling:
+
+SDiD: Used to create a synthetic counterfactual for low-tax jurisdictions to estimate the causal impact of Pillar Two on profit shifting.
+
+Causal Forest: Applied to micro-panel data to estimate the heterogeneous treatment effect (HTE) of tax framework exposure on firm valuation.
+
+Qualitative Synthesis (RAG):
+
+Embeds technical documentation and financial reports using SentenceTransformer (all-MiniLM-L6-v2).
+
+The app_orchestrator dynamically retrieves these insights to contextualize econometric results in reports for policymakers and corporate executives.
+
 ## Directory Structure
 
 ```text
@@ -47,3 +62,4 @@ platform/
 ├── .gitignore                             # Git ignore rules
 ├── README.md                              # Project documentation
 └── requirements.txt                       # Python dependencies
+
