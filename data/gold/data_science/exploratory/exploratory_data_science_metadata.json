@@ -1,0 +1,15 @@
+{
+  "evidence_role": "exploratory_only",
+  "causal_claim_allowed": false,
+  "features": [
+    "threshold_distance_log",
+    "Firm_Size",
+    "Leverage",
+    "RD_Intensity",
+    "ETR",
+    "Intangible_Ratio",
+    "pre_policy_tax_exposure_score"
+  ],
+  "eligible_firms": 72,
+  "limitation": "Feature profiles and correlations describe observed attributes; they do not estimate causal effects."
+}

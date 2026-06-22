@@ -1,0 +1,894 @@
+citation_id,document_type,source,source_path,source_url,page,section,ticker,sha256
+PDF-df3a84f439,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,1,page_1_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-4742333974,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,1,page_1_chunk_1,,349f9f2665a3fd1e54c479945e6e1d09c71f8e90bb4f790fcc789f2da543a3bd
+PDF-6479bb2436,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,2,page_2_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-ec67ae446d,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,2,page_2_chunk_1,,d5bdfaa664978983d7f061e1b18019515e2de49ee08f34991c9c9b55808d254b
+PDF-5715c5704d,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,3,page_3_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-b11570d013,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,3,page_3_chunk_1,,31d45e5fad58b6720009772ddabb88d123ea3fb86dd5c23c1d136c1150a3a8a8
+PDF-461c022547,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,4,page_4_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-6bbfb7ce7d,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,4,page_4_chunk_1,,471a6e4bdb078fbf63710e7e145af87af683db8e5639728ae9622a9426b02fe9
+PDF-d41ed58aec,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,5,page_5_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-c35f52627e,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,5,page_5_chunk_1,,50ad7a94ddb871081ddcd63690ebb6c24f2c7186eabbbb9baf8cbf49ae041ba9
+PDF-1d6c82d13b,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,6,page_6_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-ef34c78945,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,6,page_6_chunk_1,,4e042a163c0c77b5a1df1d467ac2806fdf389942c98505155d74c23f6aa160c5
+PDF-7046818d02,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,7,page_7_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-7c91abc56d,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,7,page_7_chunk_1,,6552a384c2385df513d40281ee839cc6f91ec3f69343ef110ee5bac921b657e4
+PDF-1e936d8256,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,8,page_8_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-452e227169,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,8,page_8_chunk_1,,e10b197d993ea4c89066609a8c1ca54aa11b176a128392f520694130c7f23cd3
+PDF-244c6d6509,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,9,page_9_chunk_0,,a5b48a5a28df9abbc422200a9daa4faccd7497d72244fe84b4a2ac9cb94a1097
+PDF-b53ef0c9ab,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,9,page_9_chunk_1,,2125c5754a87376add1e3a8871b3aa7d82b0a6716b87934614408e19d9892cc7
+PDF-fd3db11768,literature,Deloitte.pdf,bronze/literature/Deloitte.pdf,,10,page_10_chunk_0,,7ade154733be67fc8368cb8157cf8a53f7d94a1107647c086209c4c5d4feb698
+PDF-76786337a9,literature,Deloitte01.pdf,bronze/literature/Deloitte01.pdf,,1,page_1_chunk_0,,74e2e6e74e371d0f761c6b6796fe686c9d0752fee6aca5e09f66b6a36a6ceedc
+PDF-2832ade98b,literature,Deloitte01.pdf,bronze/literature/Deloitte01.pdf,,1,page_1_chunk_1,,02744667d234524349b3a6f8b4ea08a8f66f9b955f5f48019ddf43ed90e96c8a
+PDF-635f32066a,literature,EY.pdf,bronze/literature/EY.pdf,,1,page_1_chunk_0,,264a92af85a1e1c3cce7051e11a667638fcab64c1d1a8f90267cc32200f11cdb
+PDF-326bbd9261,literature,EY.pdf,bronze/literature/EY.pdf,,2,page_2_chunk_0,,5ca81116b941e27822334fe92bb13e74280bf04499d39cbf36d6f6e8dd255534
+PDF-4da8d867fd,literature,EY.pdf,bronze/literature/EY.pdf,,2,page_2_chunk_1,,54ce2d9b41e065d8643a8b48231b1096a2ed5c2104b9b5b046381a8ccb536f84
+PDF-3015f42e55,literature,EY.pdf,bronze/literature/EY.pdf,,3,page_3_chunk_0,,5ca81116b941e27822334fe92bb13e74280bf04499d39cbf36d6f6e8dd255534
+PDF-220cb671b5,literature,EY.pdf,bronze/literature/EY.pdf,,3,page_3_chunk_1,,c875ae5bbae1f5a8692193b472ae248dc8bb6194800a8f00824edddbd7b7dbd8
+PDF-a06b7b0d36,literature,EY.pdf,bronze/literature/EY.pdf,,4,page_4_chunk_0,,5ca81116b941e27822334fe92bb13e74280bf04499d39cbf36d6f6e8dd255534
+PDF-c9cbb1ceed,literature,EY.pdf,bronze/literature/EY.pdf,,4,page_4_chunk_1,,5706def14099d86382ac09a8f17895a5aa7412ce95841860607eb60c024e5c0f
+PDF-2bd43eada3,literature,EY.pdf,bronze/literature/EY.pdf,,5,page_5_chunk_0,,5ca81116b941e27822334fe92bb13e74280bf04499d39cbf36d6f6e8dd255534
+PDF-ed4837536a,literature,EY.pdf,bronze/literature/EY.pdf,,5,page_5_chunk_1,,1c09080467b5dcba5877e0270476ee76c0a38033383fa6c719ca28105df48f8e
+PDF-4c2c9bf874,literature,EY.pdf,bronze/literature/EY.pdf,,6,page_6_chunk_0,,5ca81116b941e27822334fe92bb13e74280bf04499d39cbf36d6f6e8dd255534
+PDF-e71dd0241f,literature,EY.pdf,bronze/literature/EY.pdf,,6,page_6_chunk_1,,75034c4f8a751e9d87fc85972f66e8a436dec7b6e1f8fd6f3f3117dd6f5b7de2
+PDF-04cf8c3b3e,literature,EY.pdf,bronze/literature/EY.pdf,,7,page_7_chunk_0,,16b6b3b564b57b4ce0962eaa4390d266a2ccd3607efdabdd1f35b3f293d38f8e
+PDF-47eab2d792,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,1,page_1_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-9dd634da33,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,1,page_1_chunk_1,,ea5905a2e388cf6eccf3c86b7aafa709ba47199adb2064d5b804bc32d8430cdf
+PDF-0e5425b93b,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,2,page_2_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-b36202f991,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,2,page_2_chunk_1,,a292e98021f26911f22b9316e853580e47ca70fcb91226a3e97f68a687c42987
+PDF-9dc58101a0,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,3,page_3_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-c9dd06432c,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,3,page_3_chunk_1,,e5a8bdb3e760b7c8513a8b6999b7d3e48629fe20a494ce05587bb126ec428c3f
+PDF-2117c2abe8,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,4,page_4_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-467be36024,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,4,page_4_chunk_1,,9f2bb0f70f0b3e2de898c7854acef09231de7078e8e3ddc45f7e9c6633faf805
+PDF-f89c7dd1d2,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,5,page_5_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-f7834476c3,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,5,page_5_chunk_1,,d19576c8aef74dbd66d67df747f691f17330b85268b1e4d530a7665aa34c5e07
+PDF-b7cc7642d9,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,6,page_6_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-b3c3c65041,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,6,page_6_chunk_1,,8591dc5e55f7e443b2b1f3dfe24d807e7d476e137d4ea38144da7eb692d9737e
+PDF-f7b44af7fc,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,7,page_7_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-74ac1f8b0e,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,7,page_7_chunk_1,,e494fd9703884e05728a35b42368524783e9d840357eb43aaf4448d4d0f3a7f3
+PDF-b639f30eb1,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,8,page_8_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-d4b433b69c,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,8,page_8_chunk_1,,8dc7416a14a588cb160267a7405bad928c3906205e1e87b266989eb1c6985396
+PDF-0548a756b7,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,9,page_9_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-aaa9105039,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,9,page_9_chunk_1,,cef11bdb29a0dd5cca6cba1de483990a385ec010519b4bd8ef8ff0257ad605cf
+PDF-eea21be574,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,10,page_10_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-a8d64b7764,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,10,page_10_chunk_1,,67f542ec55b463cf33202c314093b75ccdf34c6ddacea957467f83b7dc42970d
+PDF-596d1f4b30,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,11,page_11_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-b069b1f877,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,11,page_11_chunk_1,,0471e1b4290861207337efc6aed1478df453876bf699542a0ed943c701ae07dc
+PDF-6b5a259d35,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,12,page_12_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-187f0aa3a4,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,12,page_12_chunk_1,,df923c705f0082bc0aa3eb2ea9fbc7a31212887174aa39823013b350cdea275d
+PDF-2ac11f004c,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,13,page_13_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-fadad1bb21,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,13,page_13_chunk_1,,08ed5a75b28fd31733894b3184a6540e28aecccde35869bc8c192cc03af50021
+PDF-495399da1d,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,14,page_14_chunk_0,,d237cf47acc3264d93e56a157e2e7d1e8c8511c276c9db1b170c06da07224745
+PDF-40c48619f0,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,15,page_15_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-d36c8a6533,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,15,page_15_chunk_1,,64e1d0f754bbfd2781fb1fc55ce364d8010377a32b2830e0b6c541d43a3f4673
+PDF-7aad4e989f,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,16,page_16_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-5977fa2084,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,16,page_16_chunk_1,,a1ac654a51b4116c0afa23efaa2c2e3b75450090500a80645c6af34247e4d2ad
+PDF-29369d4f64,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,17,page_17_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-3935717486,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,17,page_17_chunk_1,,d98b246766221601140c1f7ba580b6449ee3aa6d7ba69065f390759790ba97dd
+PDF-dcb1b74e74,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,18,page_18_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-9e7b943043,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,18,page_18_chunk_1,,95cf9c0f5432243f2500010083a9b20a516c96235c57851e16de219f674685b8
+PDF-2bedfccfca,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,19,page_19_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-7a46438a81,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,19,page_19_chunk_1,,14055b56049eab4aedf018e2183754ad24b176db2ac1f5d928a130ee152d8717
+PDF-9ba8a7a384,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,20,page_20_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-5155118633,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,20,page_20_chunk_1,,f6414a644b41ee02edd23f864ab3eda6cef7d2aef5e1d65c54014ea7064615c3
+PDF-dce932cb16,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,21,page_21_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-5b7b00a46f,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,21,page_21_chunk_1,,564b3b60981589367793bdc91b9dcc3d2433d066651d2a107eb6eefa41ac8423
+PDF-4f6c55c7e0,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,22,page_22_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-f98757813c,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,22,page_22_chunk_1,,a3f1e7d2b975f1e7221c88a64ac055b7e8ca845d3df97b179e27f53c016f21ec
+PDF-5d90ea285c,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,23,page_23_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-14d03a5b91,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,23,page_23_chunk_1,,549b1c89cf19a098b6eeec3ee93a4619e9d5890faed127fd6da9897f3fc22e54
+PDF-83bbfb4f80,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,24,page_24_chunk_0,,ecedfd5a9853402c9bf0189ea07210e510d5fcbfad2b7a9968b1480315909f50
+PDF-13ff4fc164,literature,KPMG.pdf,bronze/literature/KPMG.pdf,,24,page_24_chunk_1,,8158020fcbce842317976edd2fe5a597599a6803eb4bfce52ec0b484d151c116
+PDF-541530e27e,literature,PwC.pdf,bronze/literature/PwC.pdf,,2,page_2_chunk_0,,e03e0d03296d50871e8aac731dac670e4854727bb8f46f6e9c0ecd8436c05056
+PDF-fed4aaf0db,literature,PwC.pdf,bronze/literature/PwC.pdf,,3,page_3_chunk_0,,bb39f133cfaf54a395efb9ae6b09371f554c1fba430d4d1f412cd766ec8c25d5
+PDF-62fdfbf4e9,literature,PwC.pdf,bronze/literature/PwC.pdf,,5,page_5_chunk_0,,c0ef6f6deadc84a674aa7c58b02c45deef6da108ac0cad91f08a3938deab83c5
+PDF-76d85cb2ef,literature,PwC.pdf,bronze/literature/PwC.pdf,,6,page_6_chunk_0,,81d2664ca867d25f86406efa27b39f70e2a8497ae174053f650c9666f2e6bf8c
+PDF-af3994dda1,literature,PwC.pdf,bronze/literature/PwC.pdf,,7,page_7_chunk_0,,f155e4bc379beadb785d42c265d2356d797fef9004a7183d92fad2e508d2bca5
+PDF-f11a700453,literature,PwC.pdf,bronze/literature/PwC.pdf,,9,page_9_chunk_0,,ec760faec1728015fddf0a42ec6ad91fd6b1b459c453098c2b1c624f7206900e
+PDF-3334770f88,literature,PwC.pdf,bronze/literature/PwC.pdf,,10,page_10_chunk_0,,4222a6f7472444365aef4f4642c04b81857891c4ea518423bba7aeb8daea09cd
+PDF-60c963cd53,literature,PwC.pdf,bronze/literature/PwC.pdf,,11,page_11_chunk_0,,3e59b056c36e0091bb23e1dd8dac3e424a99e7924f3ee0860d90721951f25fe7
+PDF-3f69c0c56a,literature,PwC.pdf,bronze/literature/PwC.pdf,,12,page_12_chunk_0,,124a2e3cc45e6774249999388816bce025a2022834fc0cef2aa4ab040039dd10
+PDF-be944510dd,literature,PwC.pdf,bronze/literature/PwC.pdf,,13,page_13_chunk_0,,7474350ebba83f5cf324a5742c22c5ab3372b27d9ae7f103691bc7b8755f2096
+PDF-26b3754001,literature,PwC.pdf,bronze/literature/PwC.pdf,,16,page_16_chunk_0,,a8921c6800b16f472128fbbb0c21d48021aea14b1377cb05b845bc4d308651b3
+PDF-29417eed31,literature,PwC.pdf,bronze/literature/PwC.pdf,,17,page_17_chunk_0,,ad1a98898f351af657bbfc171357a18cac525af28f92a3df9d2a6063d819f997
+PDF-27aa001068,literature,PwC.pdf,bronze/literature/PwC.pdf,,18,page_18_chunk_0,,7aab3513b1012e0a0e544ae935b3c918c2b2d3a5dd38e629cd69ff9f870dbd74
+PDF-654511e69a,literature,PwC.pdf,bronze/literature/PwC.pdf,,18,page_18_chunk_1,,a08ce92b1538a2735a0ee1a35dcc48a408e22df56b2a4d19c96040222969ab92
+PDF-67e5d2d808,literature,PwC.pdf,bronze/literature/PwC.pdf,,19,page_19_chunk_0,,7aab3513b1012e0a0e544ae935b3c918c2b2d3a5dd38e629cd69ff9f870dbd74
+PDF-3d63b74106,literature,PwC.pdf,bronze/literature/PwC.pdf,,19,page_19_chunk_1,,e9f5a98ca0c2f35eb5def0367136d29b1e117be28a12982aff3e9b268542e844
+PDF-92efce7518,literature,PwC.pdf,bronze/literature/PwC.pdf,,21,page_21_chunk_0,,b430fa7b6e89a8434c291b122ea5fbcd495b5e7b82194bc5d36d1268c3e97dd0
+PDF-4ff9c3cbf3,literature,PwC.pdf,bronze/literature/PwC.pdf,,22,page_22_chunk_0,,0628bb11fc0684ca0317e9f573d8f4329020caffb8424647d6eb66455da0d561
+PDF-0ffbc42eb8,literature,PwC.pdf,bronze/literature/PwC.pdf,,23,page_23_chunk_0,,031e85c1ff3ceac4c7904d0086d1e9f85629a073102b092a9d501d27e86699a8
+PDF-338136df4d,literature,PwC.pdf,bronze/literature/PwC.pdf,,24,page_24_chunk_0,,b1fcaf88a3f994ce543c994e398de79834cb54ed2c42e554dda7bc10dbcbad97
+PDF-70ea7642e0,literature,PwC.pdf,bronze/literature/PwC.pdf,,25,page_25_chunk_0,,7a76579ef51c240965b14126b175597a36769f261f42166dbc4841345cbb092a
+PDF-b753e9fb90,literature,PwC.pdf,bronze/literature/PwC.pdf,,26,page_26_chunk_0,,7cf79b906d3d477371dfaf0df18f6c76832af2bf53d225c0d69d0bb4b7714b49
+PDF-7b0a9e27b8,literature,PwC.pdf,bronze/literature/PwC.pdf,,28,page_28_chunk_0,,9be15d29f18feb07aae7f5b7d075605eba365f4f745f851c0907ca33b3eb5f19
+PDF-5c9f8d6580,literature,PwC.pdf,bronze/literature/PwC.pdf,,30,page_30_chunk_0,,6aa1bdd022045da629c86e3f26a36cde7e586271fa12ae3f040719bd8befee59
+PDF-8ba4692eff,literature,PwC.pdf,bronze/literature/PwC.pdf,,31,page_31_chunk_0,,1e78cd67d5e969add5277543d2491aa3a6dc7284558f332f77d641fb226b1107
+PDF-a7ca0b1092,literature,PwC.pdf,bronze/literature/PwC.pdf,,32,page_32_chunk_0,,f37a3070ff5822bfc98167a2652938d2bc2e6f368858d156b98d5272ec811e8c
+PDF-9a5e0ba718,literature,PwC.pdf,bronze/literature/PwC.pdf,,33,page_33_chunk_0,,ad6db3d5a176952643fd053eec0448deae430cb6ab00df8db80f5ef25c7100f1
+PDF-fbf4fc7b90,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,1,page_1_chunk_0,,9316e37b4bd6e6de5ce4e85903e95f3eb8a1cdcccd1f8033bc8ef80e7ed2dcc8
+PDF-2c6d91f168,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,2,page_2_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-0eb26b072d,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,2,page_2_chunk_1,,404e4ee9e05f44c8202d8bff3b3c00083a65b9c3359ee140f6d544510971cd32
+PDF-5264a80eed,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,3,page_3_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-5547b63154,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,3,page_3_chunk_1,,cb177a6d9b8bbffbd324f349ef5b165c659ee304b973d735adcf9e8c7e234ddb
+PDF-33e0772be3,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,4,page_4_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-3a4169079c,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,4,page_4_chunk_1,,17ba2c5a3ebbb140dca1a7d7d8574b6a2e0ca9495c6033e768f99b2f065810ac
+PDF-a68ce02195,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,5,page_5_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-44d516aed0,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,5,page_5_chunk_1,,68af2a013adb3457c61d4c18549d1439476e3e2ab24e20302d7b3555f3ffdedd
+PDF-b2bdc25f6e,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,6,page_6_chunk_0,,1ef48a6280cf6ad9ad4bcbc08596b0b3a48b60936415101a94fd0ee1dc2bb203
+PDF-0ee35291cf,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,7,page_7_chunk_0,,efaea9404c079b5dc8a95f9d64a2f6f692fd1ef76bc580defa9d41bad7991ad2
+PDF-c0575cc5fc,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,8,page_8_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-bf6250270d,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,8,page_8_chunk_1,,c591e36d37501d62b9b9a332599727a1780d80cc7365d2a54c20e34992c97586
+PDF-c1ff4cd782,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,9,page_9_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-5f1059bc2f,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,9,page_9_chunk_1,,0756603d53a0f6a822e7d1a70f4f1684823e2c4eb5f5f32acdfd74d8c05a34b8
+PDF-962bd8eea4,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,10,page_10_chunk_0,,64fa0fa61d03fee7eb7e59069b97033672e0c9e51aeb4fd5bdbd5b1ba57b914a
+PDF-fd13c8ee86,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,11,page_11_chunk_0,,86ee046294c44daa894c07c509a3cc4e93cead1a0eeafcaf109e50f7cc3378d7
+PDF-a571832199,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,12,page_12_chunk_0,,52746802fcc0db065433e16b91a66f061463b790d30c95c671e04455df9ee0d5
+PDF-7d5f9d6ea3,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,13,page_13_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-c51a7c0de8,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,13,page_13_chunk_1,,7be073f7278ec1cbf4d2d8dc58f7e532895febb7e55a62728d54570ef71feb48
+PDF-2e10936c31,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,14,page_14_chunk_0,,e44fe7d4ec9ca8589777c9d2ede1ffb8fdaadcdfc3f5dfa8ca1219a8afd29a86
+PDF-491088228a,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,15,page_15_chunk_0,,386a846a4c5b26d5b9085f8ab2bb621bc7f4fa5b7a51f113f96b086b33293a24
+PDF-c0891a66fc,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,15,page_15_chunk_1,,71366548bd1c85c8903302f1ae8236e3d889164ee9346c21b23b647a263ac634
+PDF-e7adfc33b5,literature,"Rule Order, Incentives, and Tax Competition.pdf","bronze/literature/Rule Order, Incentives, and Tax Competition.pdf",,16,page_16_chunk_0,,fbeaefbc147d0459d97154997f697415d56b22f8dd4469af166bf52b6fe4c8c3
+PDF-c21ed79109,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,1,page_1_chunk_0,,656160562700aab8aa20894053aff441bf7c627c04257325c0063504009fef2c
+PDF-78f3d742e2,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,2,page_2_chunk_0,,ccc6a0dc038c2a7fc740bc179a7b05481e01cfb9d530a47d44250b4194e54e41
+PDF-ceb02cf6cd,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,3,page_3_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-b45ee66355,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,3,page_3_chunk_1,,f40c1e0e44563b9c2101a5f68fff059046996f12379b44084d608c02c6cdb8f8
+PDF-eef7a4c0f2,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,4,page_4_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-c42f3eccef,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,4,page_4_chunk_1,,795491ad82e911e303afe7b8f1e35df6d5373f87f50ac9e1de758758aee69fc5
+PDF-f3d9a60139,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,5,page_5_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-bdcaa2d39e,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,5,page_5_chunk_1,,53525927a7337d957d2d55ab6273dcdcb32b0dddfb440287a672ba81848f5a72
+PDF-3a3513c0c1,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,6,page_6_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-b82e06a8a7,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,6,page_6_chunk_1,,e4656c581bf7f613f7d0b7802b24c7d5a6959877f61100a2cf1dfc528950c512
+PDF-355a106fea,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,7,page_7_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-93fca12aec,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,7,page_7_chunk_1,,e5d71783ecb9ac5ec782d7454e3cde2576395065bfe469830bbce0c5dafa4802
+PDF-9ea6803db7,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,8,page_8_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-776c67e76a,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,8,page_8_chunk_1,,afcda313a0b20fb4bbff89c86eab00b25c98b3a894fcea86fc22953cd01ce6f3
+PDF-fdef2ea415,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,9,page_9_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-674f6c3e5a,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,9,page_9_chunk_1,,7eacf851c0a83b3cc1ec6f3155bdfa7ef30c77decf36cead1d80a8607b45b588
+PDF-499c49b629,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,10,page_10_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-dab0d5ca51,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,10,page_10_chunk_1,,18c86a691268f5c9e784e160650996a89e6bee39518d15bba19548844d6d6562
+PDF-5a4da6e513,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,11,page_11_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-3d31a5efd1,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,11,page_11_chunk_1,,c14324b105e9265b28fc7c8ac62aea274c1332e5611a5782c68d6253ec8dfd54
+PDF-4928738c5e,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,12,page_12_chunk_0,,c05358a3fe7df62eb578a4d836f84503488e27b28e7770bc535d3f5c682b6f63
+PDF-8d61bd19ab,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,13,page_13_chunk_0,,5579775c6f4a32df63fc37b84016697e28e5a8afc6613619b9af5564aba10787
+PDF-cea65448be,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,14,page_14_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-59455d39f5,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,14,page_14_chunk_1,,73e74a5b8bab1b66db132397c22c8b67c283decdadc90b06151e78ced7499538
+PDF-b931c1a39d,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,15,page_15_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-28a928c23b,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,15,page_15_chunk_1,,a72a0c545be708956ca93adb83b250d3e7b6b124fa0be6a766f89776fe2a5743
+PDF-d6af2de18b,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,16,page_16_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-70dd389765,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,16,page_16_chunk_1,,99b93b4b7cd597e50e28532fb9e5b9eae2781920a57aac0e8951fa13fd35cb49
+PDF-4db63832a6,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,17,page_17_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-6000085f7f,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,17,page_17_chunk_1,,9d8499858da7ceb1a4e155a85d885ed834a5653e1f3f018282871f520fa01429
+PDF-67c0b63104,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,18,page_18_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-f14f77c60e,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,18,page_18_chunk_1,,3c7aba324680385956e0965ba8c7bfbea2985c7ec83f5748a7e4ef3ffabacae6
+PDF-2271f3792d,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,19,page_19_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-9fd8aa9652,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,19,page_19_chunk_1,,1e4090c1299139e796c98fea402c25e8e6eb93eff117b6f6dcd9bb7c1358cd21
+PDF-45a6995a0d,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,20,page_20_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-9e12a15595,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,20,page_20_chunk_1,,e1ab9cc9ab1150fa944396eec5971a59d93e4585e0441540b0d9327c707a6e61
+PDF-963bbdb499,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,21,page_21_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-f4f55720c0,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,21,page_21_chunk_1,,d61c8ac03ad09b741893b4c830a01d328c12047106a01d1bfd61d5488b242be3
+PDF-b071aa2257,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,22,page_22_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-c25a5757e2,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,22,page_22_chunk_1,,13e2963213568bb3a65e3cc1728a828b78664cf520e4df25a48f8d7028028e45
+PDF-567647c9da,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,23,page_23_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-16c01a3258,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,23,page_23_chunk_1,,25e58aaaaddf830454cc891cc1adbc9c53c30a227fe071da31b46b73617cdfe8
+PDF-5eb4c0bddf,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,24,page_24_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-f914fb50a0,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,24,page_24_chunk_1,,a0965e7faad14de913dca6face2f2a17c12c76a02f92ba5b7ec7dc52ef231802
+PDF-6b4a5451e6,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,25,page_25_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-21511a2008,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,25,page_25_chunk_1,,a0bedb4364a88346c866c0e870c8bbb0656908525b8cd58553a3fd4f1976505f
+PDF-32deaeff33,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,26,page_26_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-3f7e27e6d5,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,26,page_26_chunk_1,,fca01eea313d2dad0cfb6bd9efa8c1ca95957dbab0d90c0b1689f125c93a5a1b
+PDF-6574893616,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,27,page_27_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-fea5260314,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,27,page_27_chunk_1,,736a916f6bb19b2b204032240b2fe0e6e44d06d68dda44c9590ebe677da0ddd9
+PDF-aad7102e39,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,28,page_28_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-0357a66eca,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,28,page_28_chunk_1,,12a081cb7d64297aa53708996dbfd6bff469d50c56573105cbd7f3be306d5827
+PDF-29839456fe,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,29,page_29_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-edf7882186,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,29,page_29_chunk_1,,460e773b8ccbad7c9f39a5191fd5caae3816a0cb60d5f20e80a959451522f5cb
+PDF-0727311503,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,30,page_30_chunk_0,,115fd7ecd2b7260cc64be353d9c926ee5548f838182554a830234f5d1d1c2d6a
+PDF-c7979e5539,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,30,page_30_chunk_1,,a376d6a1df0b13528c407942a472aff3bf8a7c16b098db322c4155ecb5b0751e
+PDF-3b28d13889,literature,The STTR and GloBE Implementation.pdf,bronze/literature/The STTR and GloBE Implementation.pdf,,31,page_31_chunk_0,,165a29248b363d3b605c5c1ad3e7ddd74b24663ab81a2e4fdaf654695109f30a
+PDF-5d64ed3600,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,1,page_1_chunk_0,,36c43fa914a40e14b356f52c151e62b5f7d50933bf7b7e0b31c550ad3b8dd98c
+PDF-f3928a7ac3,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,2,page_2_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-b43f18c053,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,2,page_2_chunk_1,,e0eb7f04b5676080f6711ac7912a19d9add26c84a5b831c6610492079ef28875
+PDF-49452fbdec,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,3,page_3_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-8acce3afed,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,3,page_3_chunk_1,,57eff54687a5f44406d8f30a7be9d0d1f6d96d6d6b8e82dff982c05cbd6fc879
+PDF-766ce1839e,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,4,page_4_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-d9d0c63780,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,4,page_4_chunk_1,,15ed2bbcf2aa3e500acd2d8fa59122207777502612fb1e10c7a72d1bb449dcde
+PDF-919423d091,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,5,page_5_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-c19bdba36e,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,5,page_5_chunk_1,,54b5a892c490aa1b5b4563b1772379237bf88f99006858f240ed2e33fe239dd8
+PDF-b69c7752af,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,6,page_6_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-4766ce1abf,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,6,page_6_chunk_1,,a41ad7037223ff4583c1a2a258cca934b1f0d0f005641c933125ba54423c5f7d
+PDF-c96d06a9ff,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,7,page_7_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-373b146f83,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,7,page_7_chunk_1,,a16b4d1be046466efe01c0588b2a1919a4d5b3b91cf5d2693fcf843c001c2604
+PDF-38dae7b49a,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,8,page_8_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-4b3955b070,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,8,page_8_chunk_1,,b2f4f0b7118f933552a8faf1d2aa1c4fd5344e2006a26fb0f245e2c80a90128f
+PDF-50509c92b1,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,9,page_9_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-ca3e5fcbb3,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,9,page_9_chunk_1,,f5c11738a4ddfec3f21e72790c1581ea1780885edf21c06b309afb4a56c345ac
+PDF-458998e0bf,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,10,page_10_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-4ab78850bc,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,10,page_10_chunk_1,,6f0b41afc721e72487c1563ca2a41c37b122eb2950edcc325d1d3a5d0db0335c
+PDF-4ed208b20a,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,11,page_11_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-cbd42edf24,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,11,page_11_chunk_1,,8c5686c9e53d83580322041cd62986ee2c9af432bd26df2b8758c939a267ddbb
+PDF-75f0dc68d5,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,12,page_12_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-6210d768ea,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,12,page_12_chunk_1,,92a206992ad44729b593c9611de249f5a79ed105384e5aa14fa4c534ffcd990f
+PDF-5a990905d1,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,13,page_13_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-d9bf91f212,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,13,page_13_chunk_1,,3b71ecc9dc467a8488156c9dcbd5e70eba482f6894fd7ed6540492cdd97b172a
+PDF-6be90055c2,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,14,page_14_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-e3e569f85e,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,14,page_14_chunk_1,,04d0c9b676a2cddb493bd7fe9854389df01c6c67c5b413870e32a7c42af46740
+PDF-9d3ff62ea0,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,15,page_15_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-191a5d4ec3,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,15,page_15_chunk_1,,895f6db9b9103914542099bd2d6dcb9b8cea492dd7740eeb60bcfd4ebdc2e8ef
+PDF-1bb1812ddc,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,16,page_16_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-9debe071e6,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,16,page_16_chunk_1,,f90e4f22e03e2862ec7349f40011bac2da6aa2741d9cbacd97bd3147e9986e8e
+PDF-92d0803b55,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,17,page_17_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-41e8d7115c,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,17,page_17_chunk_1,,312ae68becf9c4c7ffbcdad544af0435a976c64ccb4da7edac5c06632808864f
+PDF-059cabb6ea,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,18,page_18_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-35f7ba86ce,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,18,page_18_chunk_1,,c8c7c49c746af7d0075b1287c32428d59348f43ee8ca608a734b5cf1fd68bb4e
+PDF-19875a972b,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,19,page_19_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-5ffca61540,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,19,page_19_chunk_1,,0dc0259e96df7c5a44802f5a45c400b6dd967ea26dfdc6de58bd78db2fc872b4
+PDF-4e03d68b29,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,20,page_20_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-55d84025d9,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,20,page_20_chunk_1,,cb8ddfc74a8131ab61ca964cd58db744a8fff791d6ac133bd69c92e0233136dd
+PDF-8ccfd54e19,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,21,page_21_chunk_0,,b2e350dda3a6b63bbed0cd1415acd7d792e13e5d22d02aa3d7e442a1fc8ba7fe
+PDF-348f331834,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,22,page_22_chunk_0,,b812bc3b40de37992803fda771b5d65f5e00c14dec87a6b4de19796e90464207
+PDF-2ac8c34727,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,22,page_22_chunk_1,,52d8b3bd85a3dd91a492aa00eb7224d15ab2c993966392fbf0eec4535340f3bd
+PDF-e3e7440bfc,literature,The Treatment of Tax Incentives under Pillar Two.pdf,bronze/literature/The Treatment of Tax Incentives under Pillar Two.pdf,,23,page_23_chunk_0,,328fe752ed1a063be93882d2571f92b65782a75bb5991f819249d4240a53f19c
+PDF-1810f66a85,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,1,page_1_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-5b84e4f2f8,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,1,page_1_chunk_1,,bef26ef040f157dc6d2072735b3999956ef4740d94be238b4260171b5cb9c008
+PDF-7364ee8d07,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,2,page_2_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-129893ddeb,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,2,page_2_chunk_1,,dd37c4cfa58812698fa1dd643eccf5f851c7b6d0ae4f3043efb4f2c3c36fe64a
+PDF-031e30a98c,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,3,page_3_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-9e2a2079f8,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,3,page_3_chunk_1,,83df5b923170f457e52ac7a3e265c85eade6cea4a53634317b6261a0c2ce7bff
+PDF-793917783b,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,4,page_4_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-75c27203f5,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,4,page_4_chunk_1,,607f79546c0fb663e83ebe58a085fd25cbbb71deb3c5989d129c20bee2c6eba8
+PDF-e50ca48ee8,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,5,page_5_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-4891caa05a,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,5,page_5_chunk_1,,88f148a4115f7d168ec8840bd7f3ab6e4c11b0149a5f0c9c28df432ed7e173a2
+PDF-6c81e72407,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,6,page_6_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-a6f7bd64f5,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,6,page_6_chunk_1,,48336d1601f8da28e256b60780f3a859e0e01f858c73ed4777b50d300a43d5ea
+PDF-a77424df23,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,7,page_7_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-91b771d044,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,7,page_7_chunk_1,,f56bf77b1b566212726208b937e00818e2d5dbe7a75647418b15880af962c06e
+PDF-1d469d1187,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,8,page_8_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-4ee14ebdb8,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,8,page_8_chunk_1,,46b6ee653d8b45d74e8faeddb6d186994a77132a8368dd51e733c90ea1a24aa0
+PDF-258a94527b,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,9,page_9_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-865ac2594e,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,9,page_9_chunk_1,,bf8033ce3b20c07c7b00b8559a4a44403b9034e4ded0fbcc9224f8020dfa68a3
+PDF-70cbf691d6,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,10,page_10_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-277f8b08c3,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,10,page_10_chunk_1,,e1aead920d464b873db793c95d03d82c226b4790e4a262d7cd73a64da4586703
+PDF-64fac0e16f,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,11,page_11_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-4a2a24f731,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,11,page_11_chunk_1,,9eaa225efb68ba6fc31781164bd6d0ccb17702c69db6d8a31a7c60fe037742b8
+PDF-a6f454551f,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,12,page_12_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-5eacbbe6a8,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,12,page_12_chunk_1,,d80ed5feb77dc3e40e9af8bfaa33838f83eae4e87a8853da7c6414e3dbbeb460
+PDF-bad2025778,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,13,page_13_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-53317a2114,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,13,page_13_chunk_1,,eca3f4540cb90523151e7b08f553eab4fc56777750daa263b8701717b6e8ad03
+PDF-a3a87d8466,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,14,page_14_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-ef3ba756ff,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,14,page_14_chunk_1,,b943e1e41eea303d9aa34bb81b257d7b93ac16ac51ec12afc84779548f3f99c9
+PDF-cb561df471,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,15,page_15_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-7fe4e10637,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,15,page_15_chunk_1,,94b71a645bb0f42ac12f30baed4c9209817057b76a89950e0f14dc4e5ba9deff
+PDF-c4f76058dc,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,16,page_16_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-a265c2fa8f,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,16,page_16_chunk_1,,ecd795ceca2f5bb964d166c1f13a9864b128ac5314b62ee5d1aa78f60e5ec96c
+PDF-7023cdd1ee,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,17,page_17_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-a856f993a2,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,17,page_17_chunk_1,,a2fc431f94871fb6cf2892de5a18a231f3519369a9ee1804cf68352cd57d0e07
+PDF-a7aa352467,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,18,page_18_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-f555e20625,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,18,page_18_chunk_1,,7741748daaacce8e208bde0cd175f090905bf7f153d346a8590539584f873020
+PDF-37733ae89c,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,19,page_19_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-21102d89ab,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,19,page_19_chunk_1,,7d088dba86c7ba112d029d0b36ce55a94bd16e9ecd4c2bb72f53f1466ceb4482
+PDF-7685d30c20,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,20,page_20_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-1e78be2e8d,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,20,page_20_chunk_1,,ac5efafb2d743d1512f3888c5a7b45498557c6cd8a39d4ccf079ec329360e73c
+PDF-2cc5208989,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,21,page_21_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-6dc43f4369,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,21,page_21_chunk_1,,fc54e092386a09e6691da6747991bd00d4550384e2d85579ddbace70b42806dc
+PDF-6a713c8f37,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,22,page_22_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-47ad9b0376,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,22,page_22_chunk_1,,a9ce9284bab020ff2cd09b841eb89043433a9902c627e0a97ea49fefcf32936b
+PDF-88b43bbf1d,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,23,page_23_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-6e85f4b126,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,23,page_23_chunk_1,,b0d7a8af481a7affedf951eb52905d826e40c5c89b4e1138256c2aa860f66bd9
+PDF-8afd8e0a84,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,24,page_24_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-2b3c684bd3,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,24,page_24_chunk_1,,8620116f2866d4f99afec967b0ae90399c21e1009d63047594c7dfb395ab87dc
+PDF-80eeae3665,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,25,page_25_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-387bf313b2,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,25,page_25_chunk_1,,fe4c20c0e1d6014107b407a18961cd63a044c950713fa69d84d17ec816200e54
+PDF-c49b78dd71,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,26,page_26_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-c69f87557a,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,26,page_26_chunk_1,,a03e0b4d59f4b53b08cdd69d1e7b6cc44a9f8fd8a4b633f0d09d85f2e55c633a
+PDF-50ec0919e1,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,27,page_27_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-cf7c16ce5b,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,27,page_27_chunk_1,,8974643346efa3fdf74ed74d7b52e84ae34b4f7da0ba75f466a7393dad92f128
+PDF-db717e331e,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,28,page_28_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-51e2eb44be,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,28,page_28_chunk_1,,da0ae629d41c13b9534138981e6758e115b46cf23eb2f44bbc16845ec9aa755d
+PDF-c1f5d2e928,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,29,page_29_chunk_0,,974b402e4c5ea62a43931e77d76c214b38b482a9d57709aa1b60a5241a47926a
+PDF-23dd180f47,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,30,page_30_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-5829edbbab,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,30,page_30_chunk_1,,c134eb5e112808d24c5befbfa329018f17234ee6d819e6e71fe475408967290e
+PDF-85663eea4a,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,31,page_31_chunk_0,,99ef9268661b979af6632b50ffe672ceb0cc689ad7b0fd8c9be63bfb9f1da631
+PDF-8800b8b65b,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,32,page_32_chunk_0,,d2126e0feea98df3d045d5ddc046bc41abbab3a7551d7c6d5526341078045b4d
+PDF-d62d878709,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,33,page_33_chunk_0,,da0507173170b94eb18002178a8932be10f029a8a4b8b53231bff3b5d0ccfcad
+PDF-280c20029b,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,33,page_33_chunk_1,,9b272624681add3c998b0e7c3da561c4cc1aab25133d2c924cee71e441a77748
+PDF-eadd11b5a3,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,34,page_34_chunk_0,,5debe005b78eff6d5d39d7fcd8d9328ec7c16717d2800757d57f2510e305435e
+PDF-778d4a4e0e,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,35,page_35_chunk_0,,01b1238e589696ee57fa1f75e2501dfc7dbb2184ed5314eb0173ad7e9dcaa260
+PDF-a1ead306d7,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,36,page_36_chunk_0,,95ea07f7fb32c6c29502431c5ce8e8303b187c5606b2678c4479a75e26352ebb
+PDF-9c7d44b14c,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,37,page_37_chunk_0,,d4d2911270508871a4f2499aec848ca3aa0843544156ce105aec1af33be6981b
+PDF-919a13a268,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,38,page_38_chunk_0,,e07e570cfdf2949629716300a64e54ce624f7d0767dafa3c9c38e31ce8d8829a
+PDF-481236b434,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,39,page_39_chunk_0,,44e042a3661d0d305d8d65e47875d133029b25b126d371062354563b7d8d3cf7
+PDF-0f9de2edb4,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,40,page_40_chunk_0,,5f5cf3056267888a03c4c4929c12f583658c00fc4657a063680732d14dafe614
+PDF-c0fd443bc7,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,41,page_41_chunk_0,,822eb7652e737f9cfbbb86bc186f6195733a51237da0a9514e61c58c44463c16
+PDF-5e03620521,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,42,page_42_chunk_0,,69b34201368dd54d5a5e36603ba7cbb19e8fc5b1e9b55ab98e8b2cf5a7f64749
+PDF-3d0bfebec3,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,43,page_43_chunk_0,,b65877dc0b2e726382113f649ebdfd52000ab2d6923dd8b851252f1384b5eced
+PDF-d65613a726,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,44,page_44_chunk_0,,7d5eeb6d5033d2412a1c36628d460a1ce1ac3be4dcdf2fb9705292225fc87c6c
+PDF-adf3f30e31,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,45,page_45_chunk_0,,326bc17c63a8a1ab65e6ad798c144f5be327aaec075f14ad1a0e30ef09de245b
+PDF-89e0f97c6a,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,46,page_46_chunk_0,,c6e2721a09dedcf529382e5b4ddb348d7b3daa14a4309239c209435c49bd3bfb
+PDF-827c89bbc7,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,47,page_47_chunk_0,,84ad12c48b944012d7f57069a45cc2daf5371101273c72214463d27b7f7a40f8
+PDF-7f0979e564,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,48,page_48_chunk_0,,39e6f0387de3a127cfbd9e3bd0c14ad8640b4c5e116155d1486d1b31664bfd31
+PDF-2168f2a8fe,literature,The Two-Pillar Policy for the RMB.pdf,bronze/literature/The Two-Pillar Policy for the RMB.pdf,,49,page_49_chunk_0,,d68c14bed196f8faa9c962aa7d02ddbec42cc546dac33bc938c703d8303a92df
+PDF-243cdeaf34,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,1,page_1_chunk_0,,1ebcce861f691835c8bfaa021b4e83f04cb5de470269f46679ba755a2b5c7c05
+PDF-88c4e7a194,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,1,page_1_chunk_1,,db73faf17330c4f4be31241acbf2aee2ff8633d09c81d871a17528763457fabb
+PDF-c19dfce318,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,2,page_2_chunk_0,,1ebcce861f691835c8bfaa021b4e83f04cb5de470269f46679ba755a2b5c7c05
+PDF-abc12b43f4,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,2,page_2_chunk_1,,1c6df5d602e49ff14fc85d40cfb450a45b01fe23df549ddb6d728dc506e7cdfc
+PDF-1cd80b7074,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,3,page_3_chunk_0,,1ebcce861f691835c8bfaa021b4e83f04cb5de470269f46679ba755a2b5c7c05
+PDF-1d21e593c6,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,3,page_3_chunk_1,,ee74c5f8f4a71405427dfbd221ab992665c08609ad1b4a54704d208892d49b4a
+PDF-dc7b11c499,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,4,page_4_chunk_0,,1ebcce861f691835c8bfaa021b4e83f04cb5de470269f46679ba755a2b5c7c05
+PDF-94f57e258d,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,4,page_4_chunk_1,,f3804656968742be1c4b6aa56637d0e16fbcbd082a53420a8e9f5e3f8b5fd367
+PDF-116488620d,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,5,page_5_chunk_0,,1ebcce861f691835c8bfaa021b4e83f04cb5de470269f46679ba755a2b5c7c05
+PDF-16aa363e86,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,5,page_5_chunk_1,,05f895720b663d6bb98675f0761e1cd627efd57d8d57bf4f71c4764da8312707
+PDF-0fa9e7f263,literature,Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,bronze/literature/Why Pillar Two Top-Up Taxation Requires Tax Treaty Modification.pdf,,6,page_6_chunk_0,,019997f7dabd8b37ea4bd61f045b0910e2aa8d9b956beac6cc0278cc59e9d547
+PDF-33e691d5d2,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,1,page_1_chunk_0,,ecce1bfaa099fb086e25a71c4055b6687076de3a0278a6cee6167617a5707e6f
+PDF-a6213f9ca1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,2,page_2_chunk_0,,0c2c16f186929c5f3a36c186b66381f10cc32e7e561cc248b5d1b6c7f8b0d8e6
+PDF-22a583e7ff,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,3,page_3_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-a49feb0140,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,3,page_3_chunk_1,,ce7472a2e4ed8e1635889b13029f50ee4949366bf4cfee265ce20eaa8a1fd4bf
+PDF-d36df318ff,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,4,page_4_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-409d353ee8,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,4,page_4_chunk_1,,7d64ed43d94b22f9cc4542235a5255c795f06cd23e45a43a476a29c86e9c207f
+PDF-a3264115d0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,5,Chapter 1: Trends in global offshore tax evasion,,b54a5a0960d2693bc9e49be71860c25e1c5c44e36bafcb31cff334b254c00486
+PDF-ec8ccc9359,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,5,Chapter 2: Trends in global corporate profit shifting,,ccff4aa6af76410cb5f7845afb307242f0b8075027911aead1d38e14428daf1e
+PDF-40ba2dfa97,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,5,Chapter 3: New forms of international tax competition,,ae87ecce157c5a2f62bdeeae3e04f150237c0ac5277adf3d53c36f11221869c7
+PDF-1e394b72a5,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,5,Chapter 4: Tax deficits of high-net-worth individuals,,e6626519ba8720a2f07a42ee54f4a3ef42a5239161c0b1f19a12a68da933d27c
+PDF-fbf2f84437,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,5,Chapter 5: Policies to collect the tax deficit of,,06e2b368f3896418f0ad3ca4473f1b53b79c5d5edf566db24143a966e67a61f9
+PDF-e08c42450f,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,6,page_6_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b23eea973e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,6,page_6_chunk_1,,469a891be3e558b66fc4eec8b2dc6a6aaf5f6f5f6b781600ed5dd20ef21231ac
+PDF-9bc289ad9c,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,7,page_7_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-173b6bdeb0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,7,page_7_chunk_1,,7cf7a9d385c71e1fe02b2ccaa92f06d3c29f5ceca245aaae9cc8ed75e8d437c5
+PDF-1330f504d6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,8,page_8_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-e15ab0b483,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,8,page_8_chunk_1,,69773e62c6ee0fff930e3d92453ff32a0941483f601996c98da5f04d9206c1cf
+PDF-b88f376b53,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,9,page_9_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-adc078cca7,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,9,page_9_chunk_1,,88b3f9209c69a68386874f2b2b88639a5ec1eb607fb213865eacaac078b5b327
+PDF-1c0a786b56,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,10,page_10_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-efbfab7f49,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,10,page_10_chunk_1,,f752bd3030a156bc6e543a66d2dbcea630d308a070fce594733767574f5760b5
+PDF-bd3ea3787e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,11,page_11_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-2997558f0d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,11,page_11_chunk_1,,d778c1ba10a8a58ead9ea1a7882736ceabd335e247be69be18d91f5eb6e9fb97
+PDF-984bc5b335,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,12,page_12_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-ff83df6eb3,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,12,page_12_chunk_1,,007929f4faf298417dd142ec248c0c50fd531fc7e6a3c1c51f6be0e4790d6715
+PDF-04b8607dfc,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,13,page_13_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-76c01919db,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,13,page_13_chunk_1,,ea9e14247601f953888a71094e2604354ae54c10b115b0466466db89d6f8153f
+PDF-2272e3a6a6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,14,page_14_chunk_0,,7661116387f8b2cbeb532db1689fa86522fa31c69033bfb32267cae5182ab93c
+PDF-37791e71d6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,15,page_15_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5fec238e70,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,15,page_15_chunk_1,,c863aab9ea192b8a272b0a042c1d36fa19e8013d57df833a36d223a859477a84
+PDF-d63864e808,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,16,page_16_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-bdc53ea9a5,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,16,page_16_chunk_1,,b6b167abc0f58b3c55dd2f96a34f95eac9a15653bf352795b630f43256be9cdb
+PDF-5c19ff24b0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,17,page_17_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b15d64b818,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,17,page_17_chunk_1,,8ad7e3a28b6080652e484715506da2be1a0c473f48203788eee111b122e37655
+PDF-58205fde66,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,18,page_18_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-3a1bc025df,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,18,page_18_chunk_1,,889bed617b67be8836419b896a35e9711902bf5fe45d6d6bfd52cede6919ffaf
+PDF-0893f1771b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,19,CHAPTER 1: TRENDS IN GLOBAL,,78ec24442d137983afcfeba8cb72371072c6602509b0afaaa0f157d297d54e7b
+PDF-72ac5f2c94,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,20,page_20_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-db5fcf1bd7,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,20,page_20_chunk_1,,e104dc8af054eb1e9d753339ab06c5c13425b796578757152efe9b45734cec8c
+PDF-cc84e224be,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,21,page_21_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-4ef84ca227,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,21,page_21_chunk_1,,88c6fd09f027bd86dd99f629a84d4ede835ce1f513a47135f69a2c1cd0102c87
+PDF-a046b49eca,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,22,page_22_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-24512e09a6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,22,page_22_chunk_1,,3ff2ff5fb6b64a6be23f579078ed42e6c5cfaf5c4f3725df5430a22a7930b8ec
+PDF-7c1108903a,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,23,page_23_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-656cb8f67d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,23,page_23_chunk_1,,b4029dcb84f7613ea249fe487cc9b065290be65832fe6ce5943e235950742a43
+PDF-be4fd4fc43,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,24,page_24_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-79ae401a3d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,24,page_24_chunk_1,,23d16dc519380ec6b29eee434fdc909ff56493578949bcb80ee6e809be726bb8
+PDF-c229433bb2,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,25,page_25_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-be1563f080,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,25,page_25_chunk_1,,d6d6ad8882bb51dd7bf974f7cb37693ea1cd20edffaab2ef0792d3d6ff9653ce
+PDF-5769868836,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,26,page_26_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-aae75e2e45,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,26,page_26_chunk_1,,b3b913d6a0d731db1ffc07442ca55160c4c6c52fd77edf3667475bc21ee78bd3
+PDF-9de189bbc8,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,27,page_27_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-370e6589ab,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,27,page_27_chunk_1,,ee29614374e2d254592ef8212bf15012d0cf19b2f8a91edfc46bdb175d7e7a53
+PDF-65f2bdfe97,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,28,page_28_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-52a75e59a1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,28,page_28_chunk_1,,46e08be8f8b7576f1c5836d9406fa1bd81d92a5954b0ca1521ec3b53dd7a08d6
+PDF-74b37b9d83,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,29,page_29_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-7e5fe17ae0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,29,page_29_chunk_1,,22d5e2f0c4f025de68b8102c73ac17c0e15abc374ff9a915ffc41da5c53fe624
+PDF-1bc6cd9d10,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,30,page_30_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b2bef282d0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,30,page_30_chunk_1,,3f49403e7bfe2476b79c84f4da2158c43895897fce7b0ae9b8747b401843c198
+PDF-66d0fe95e6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,31,page_31_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-d487bcac42,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,31,page_31_chunk_1,,d39b0430f8b7e44b4c84ebf025d8848391af59f2ade699d4c258941d35e881f7
+PDF-5d93f244b2,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,32,page_32_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-f3a9155173,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,32,page_32_chunk_1,,0b414e15fcb575b4f36d0f928eec7cc875777484dd6b39894714e72a53b9b994
+PDF-8ba9a37504,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,33,page_33_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-790d65595f,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,33,page_33_chunk_1,,57dbbc38be935cf5d662cff181c386289ccadedea61125e6c3ea2637123aa100
+PDF-9f659fbd71,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,34,page_34_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-2687c22df3,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,34,page_34_chunk_1,,3f86edd10dc3b89e95b67299e1e8fa4250e3505667a4d048e25e7e70bba0d126
+PDF-a4e17c960e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,35,page_35_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-e5e4fc9b59,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,35,page_35_chunk_1,,d4388b235696a0fbd63bf99e76023c33eca94d22b849ba34bbc32527d95e2234
+PDF-78ac2fdf04,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,36,CHAPTER 2: TRENDS IN GLOBAL,,87b955ad8608c6e7a35d3490adb0cd393032ed258c3912aeff20fe77078c8a33
+PDF-2d8af3362b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,37,page_37_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-061d6eea84,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,37,page_37_chunk_1,,d1a8882424681f8fbf3285013841ccce5ed39463fe61b2b94b8c70900c6eebf5
+PDF-441c0f87f3,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,38,page_38_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-f39b661e0c,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,38,page_38_chunk_1,,f9a7e911b48f708c333807bf892b509122c3feab72c90c3e1dd527c0db0d98db
+PDF-cd2d053031,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,39,page_39_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-ea293d1e6f,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,39,page_39_chunk_1,,2230d6df4bf357a897f5fd111f65625afcd1d23531abf9b5bd093f99acf21d08
+PDF-f878813820,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,40,page_40_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-17b193cefb,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,40,page_40_chunk_1,,7a2309847d06ff8c127ec0d3771c1c14120076e7400ddfbf58eda9004cc81f17
+PDF-f45a3acd6b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,41,page_41_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-f81b1e5508,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,41,page_41_chunk_1,,960ceaea2ebcae8d0a3883a162489d341c9eef0628324c4d4201fa199b6cd836
+PDF-76d9bfe4ec,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,42,page_42_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-d676930a98,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,42,page_42_chunk_1,,beff525b64cb250a14124e843e625b694e029e6d7cf52a01281e4a72c53b1417
+PDF-6178b1a00d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,43,page_43_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5fc8bb9b9c,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,43,page_43_chunk_1,,f0b7657d9f52b5fd8dda4a69ccbc6aac77ab38aa6909b47b5a35fd328c8b5a96
+PDF-1f4603641b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,44,page_44_chunk_0,,d3a8bddecd3f9ae2c57d9c9d66d469811cadf791f85fcf2edf6612819b89abe7
+PDF-d3a72ee81b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,45,page_45_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-7f0969dbc1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,45,page_45_chunk_1,,5897b2ece8b36c0492c83c2bbe12d0ece8f8a8a08c862b367aa3dab7dc73a29f
+PDF-aa9df2d643,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,46,page_46_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b72edb3380,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,46,page_46_chunk_1,,62bd493f569d9593b9d06e8a142b4c9e23e4dad7e2e18de59fe3b592484a654d
+PDF-f4613ad087,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,47,page_47_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-baf2907151,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,47,page_47_chunk_1,,187fbf53a415b4c2bca941db2a73e86d71349fb13e5c4ce31979f2ddd3920c88
+PDF-0ce14d4156,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,48,page_48_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-ccb0214790,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,48,page_48_chunk_1,,408c568fe94aa395cff618380d40ba41e732e1da3578073eec8598fda56f653b
+PDF-0cc4e69339,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,49,page_49_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-89fb9c9352,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,49,page_49_chunk_1,,68e08780855c57519b434409e3501594f8699bbf91fd8a5aaa005f35d34bd1ca
+PDF-0dc78b4d36,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,50,page_50_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-d7da473a44,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,50,page_50_chunk_1,,635592ca4230ae22340e7f999cc2085f2089088902f08d16ccdeb153a53ecf9e
+PDF-7914d4eb01,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,51,page_51_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-ea5ee6c7ef,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,51,page_51_chunk_1,,15cc0855c7d13d81bef990dad4d2b3d644a15e6b816f4617fb294a6863323d70
+PDF-90cafeb8f4,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,52,page_52_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-a060ecd601,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,52,page_52_chunk_1,,a116a80a0c596ff16f587a677aea9c65d95f10d109ef037208f39284d6d9f6ad
+PDF-e03aa65612,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,53,page_53_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-d274a623f0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,53,page_53_chunk_1,,eb258220759a08361145c04c6946a9edb840a1120ac2d0f98fb61d46d27ec680
+PDF-0502331c2a,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,54,page_54_chunk_0,,038e1d6c852b3756e5e7ed202ecfe2d7677b9d234bd09cf769155dc24ef60bfa
+PDF-ff08b23160,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,55,CHAPTER 3: NEW FORMS OF,,f5859b16c85113d2277041e662fdbdbe7c0c8a779ee3ee46d19a2d2cf43f2ed9
+PDF-9ba3ffd73d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,56,page_56_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-249d4b9afe,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,56,page_56_chunk_1,,c679334f68bfe1d9eb89ad5a5b222043b0ef1acd00713ed61eefdc986c024daf
+PDF-64b2e33bca,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,57,page_57_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-3bfb903a51,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,57,page_57_chunk_1,,af9344c9129d7846f8a13aa1df2e237bf95e20c39b8741972d6c43cdfe6f54a6
+PDF-58cf82dccf,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,58,page_58_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b3392ce197,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,58,page_58_chunk_1,,07d4d45bf003716ac9007644728266eb5001bd2915268b332399418fc4086c3b
+PDF-8f443671b7,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,59,page_59_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-fbc858a2bc,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,59,page_59_chunk_1,,50d9b16223f4a8fae82e879575a084844cffcedc6ebe20177e195dc59f22d917
+PDF-e91ee487b2,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,60,page_60_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5082f5c990,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,60,page_60_chunk_1,,8b8a9f94f9e5b856d71aca603963a470a0f1fe31d4aadfe0ce0f54258be33d61
+PDF-97cabfc8d8,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,61,page_61_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-0c56845409,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,61,page_61_chunk_1,,4b52d11b9efc6d80088ba2c55f548a1c76f0f1a10ca1ed3b66ebedda685f95d0
+PDF-e49cc503b0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,62,page_62_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-966e8eb8fd,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,62,page_62_chunk_1,,c1fbb9720d0884c15774421bde9c4e253d4483eea7d113a45e795c3c36b268a3
+PDF-fc969b46de,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,63,page_63_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-7ce42f6447,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,63,page_63_chunk_1,,ae12af79b2a5917d7f792f92f98092035f6ef0406f34e4fab669a87ba310fa17
+PDF-f2a3250e8c,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,64,page_64_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-81a283183a,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,64,page_64_chunk_1,,e00dacd4a4994ca37dcd7f14502dcb80de46c7673c78174bb814f2a2ab9f5201
+PDF-b0dfee5f0e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,65,page_65_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-7c4e76730d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,65,page_65_chunk_1,,184316ddf473028def1e818b469bccf653776207f10e11a156e6e3bae9259e9b
+PDF-1a1e882709,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,66,CHAPTER 4: TAX DEFICITS OF HIGH-,,0b0919b4587f82fc1979e4da023baf7bf6cfea5cd7a1b90a9a947e84a43c9144
+PDF-ab64d14f3d,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,67,page_67_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-fdf510f1b1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,67,page_67_chunk_1,,5c50ca106ddc0e7b0d76c0b2cf945e87fd82f741129bd407063c572ddc548f3f
+PDF-b163b988f9,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,68,page_68_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-48f82648d1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,68,page_68_chunk_1,,08e578ac8864142b5543b5883dd7402fdffb6c9abff107b155379c15ebc633c4
+PDF-5d98a903cb,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,69,page_69_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5f00dde2af,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,69,page_69_chunk_1,,bd797b4b95596d36094575ea434285432383d2ed20ae5d7e6dd109b6120f1ac0
+PDF-3b2fa8bebb,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,70,page_70_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-228b75095a,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,70,page_70_chunk_1,,361461f4bc0feb32d9f85d8828cebe98b6bbb2252c7c352ec354114609540834
+PDF-f4defcf3fe,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,71,CHAPTER 5: POLICIES TO COLLECT THE,,5bc3745daeb0a5abe3f40221a1f7e7a5ed4ed7d0a4a0f04d35f2d0601aee08b4
+PDF-b789403739,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,72,page_72_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-778fca4763,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,72,page_72_chunk_1,,c3e5ab1646dc02d7931b8e24eb33fda3c6725b7478cab0cc529526155ba771d3
+PDF-87136d6947,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,73,page_73_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-0475b4cbad,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,73,page_73_chunk_1,,9452c0c56e832756dfb24bde1dfa7061a0262d3e1ce94e91a9eb26964a046ad3
+PDF-2e1c95af42,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,74,page_74_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-947670c38b,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,74,page_74_chunk_1,,9561ecba1ec2827d58260813941d3072c1557e4c4be6635f71109d23138c05d6
+PDF-7594cb7b90,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,75,# countries,,5168c7b976538628396eb0bd6dd9fa01d23186d2d32d00308af2fc27a5011105
+PDF-511d5a0a74,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,76,page_76_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-f3193edabb,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,76,page_76_chunk_1,,8f595ea2c3acf2818e4c7b42e7dddc9eecd6ca556d5a79f29793ff8c58c9bde5
+PDF-5a32727e12,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,77,page_77_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-ee045834c7,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,77,page_77_chunk_1,,f04456e037be9733380e0f2d022a5b2a6cafb2131739bc470897c8a939584a43
+PDF-e8946e3a27,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,78,page_78_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-86318da62e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,78,page_78_chunk_1,,7af9158441a66343fbbc7b9eb8c194a08a8c5c3b6f464690ad145f797ffdc9f4
+PDF-2e449696fc,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,79,page_79_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-82dd19bde4,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,79,page_79_chunk_1,,b04d63fed3c68792f7f6799c2488526be6e42a2339f970ebc241796a91f060f3
+PDF-5109a0bca8,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,80,page_80_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5f6654cc2e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,80,page_80_chunk_1,,267d8789941aec19d5b9137947353c87672be2e484331b97bc0bad6aa708e088
+PDF-94806893e1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,81,page_81_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-a00010d2a3,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,81,page_81_chunk_1,,47326583098c9b5ee6f13e69af248421f2221fbe6521ae52774b4554d87a4529
+PDF-25201a4130,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,82,page_82_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-fe025cdd5e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,82,page_82_chunk_1,,5c06f15ea4ec492d6df30e915991ae9d74682791d1798806c0bae99fdeecf08c
+PDF-b9fcd04b83,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,83,page_83_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-24361d1e40,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,83,page_83_chunk_1,,d522f969d6d9d70ee3807893733f6cc870bc52f5668152203b46d38958f6a5e4
+PDF-3088c5cf27,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,84,page_84_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-6b0ddc3284,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,84,page_84_chunk_1,,27a44a2ec952a58375b90d9cdd9dfc7b4e229b59b3d371a5cf38e1f47872959a
+PDF-c8f1c5f4d0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,85,page_85_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-f6ffb18e27,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,85,page_85_chunk_1,,b554c9ae8f505d142ffd131b047932751839d01d1430ae35b97c50abf6bcf9a0
+PDF-65407b5fd8,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,86,page_86_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-3ba6e47858,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,86,page_86_chunk_1,,db252d33febdec249fa92508c9f0dd70f336cbfdc1ad8bee36eb6aa6ede4e323
+PDF-a409592628,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,87,page_87_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-b7afd8f498,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,87,page_87_chunk_1,,ca2be0758dde8dbc5f27d8ab230dfaabfbc78b32a4ecba3a4cb1dc81373b6999
+PDF-26cfef31c6,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,88,page_88_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-5cffd1b726,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,88,page_88_chunk_1,,518d5de05cbd62c40a64e15092eb1e721447c763667488c56a53dd561643be63
+PDF-91225aac7e,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,89,page_89_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-18ff7924a0,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,89,page_89_chunk_1,,12ef566b12cb6cf0edaa427acc5b882c3f38eb0a8c70409e1fd027599941a95c
+PDF-9933a6c7b1,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,90,page_90_chunk_0,,95ed1c58586a26eb68314486b18caab95b6579c6312bb40a9ccfaa3aca45ef8e
+PDF-2409b02145,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,90,page_90_chunk_1,,5102bc917fc5db0b084c73e89ddff06778203991e795578e12234a469587923c
+PDF-e0e9942def,literature,taxobservatory.pdf,bronze/literature/taxobservatory.pdf,,91,page_91_chunk_0,,dc76fd9afe1f4618a3e0797b2f01708e69191bb768a91734797b4c6dd478cff9
+MODEL-c178cdbda1,model_result,validation_summary.json,data/gold/statistical/verified/validation_summary.json,,,entries_1_4,,0a8129d7bec49c74ed134b4ac0efb6cc035d03242a2a9df187e9f29fc152332d
+MODEL-519ed405d9,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_1_35,,1f8eb12a8c565d19172d6ce666b9da3aed54c75e30f0a41b4626dddf3a478fdf
+MODEL-0e4e734ac5,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_36_70,,fc652269aa8c451f5f5fd2923cf6f1a00fb729582eb2daa403a7ad550c59e13f
+MODEL-a9cfa913fe,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_71_105,,82ad21be56630dcbd5e3c2d48f8413974920fdc5421f21824e58f7c2fed54ece
+MODEL-fd9be8b247,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_106_140,,136806465f1bc1239617bda40b261da21177c477652ca3e5886bafdcafd5231f
+MODEL-6d3b05f458,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_141_175,,cfd93da66684792538a98a5ee031d79f0fdd6c82f30f5b58c3ac47ef16c3dec3
+MODEL-68a87b22da,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_176_210,,2970ddbab00b06ece69171cc022543ef380cfbbb978fe6a4386db39a885d83e1
+MODEL-1f02518b5c,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_211_245,,39c5c5e71cd5da9a19845223036448f714f6392733ece19344506a4e99fbf6ee
+MODEL-15f55a4cfe,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_246_280,,410bc6ba01f867dfda0fb4e15ecee40de5790d436905b7e0b59fbc9c684c1528
+MODEL-6e7f586b7e,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_281_315,,69657f749f301c0d61359d51b11fef019cefede33833b5818d7b98dcb0c93918
+MODEL-7d8a0cfb28,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_316_350,,b25a0b22bda86424beccc2a0435118b7200b5f394d15a52e05515bd793be09f2
+MODEL-0b5976e863,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_351_385,,8703c7d20ac8ce242bf9600763002b9404e8a138573409591f98e19d05179a83
+MODEL-a6508c053e,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_386_420,,0c63cc74d8185d596ed0153bf9b74b9f93fc71176f00812ed1222eaaffc16841
+MODEL-c8731b0f15,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_421_455,,66d55628c9d0d973938452d69238b34e01ac7b9f91118a4ef60ea2c1a3ce03f7
+MODEL-4f7b0431ca,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_456_490,,ac4cf6fd86ed6da93067823ece8ff22e3cd879a857dea8d6c4d738844002ea8b
+MODEL-2dd58e678e,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_491_525,,a8b167956fd407fd4a437c5ac2bb5a901f902b73abfe0fd7145922e784b9c842
+MODEL-3bdb0c252b,model_result,verified_model_results.json,data/gold/statistical/verified/verified_model_results.json,,,entries_526_541,,6b602525ba656877f02f1c4c051eb3a7792ed8e66b3081b4880ecbff9b46db8f
+MODEL-e0a1c97aed,model_result,scoreboard.md,data/gold/scoreboards/scoreboard.md,,,complete_report,,caac460d539dff97f339c2b9d58126cfca2784c968496a9a363149e9d4af142d
+MODEL-e4ec389072,model_table,assumption_scoreboard.csv,data/gold/scoreboards/assumption_scoreboard.csv,,,rows_1_12,,562c3506ef5f09d03309d41cab19f1d5b9cf7559c2218d57ab3cab470cdbe017
+MODEL-2767e3c236,model_table,scoreboard.csv,data/gold/scoreboards/scoreboard.csv,,,rows_1_17,,3a026a0f490023dbb8ed398e7ac8767dd246db4e28af81d63c22bd8237ffd0b3
+MODEL-faf69c6b9c,model_table,dim_verified_model.csv,data/gold/statistical/verified/dim_verified_model.csv,,,rows_1_11,,42d249b5415bb58514d33b08bd129dda7edda02a180de74a9c41647dfd72022b
+MODEL-e213430c2b,model_table,fact_python_r_comparison.csv,data/gold/statistical/verified/fact_python_r_comparison.csv,,,rows_1_10,,20fd4ae6d24518b52da781cf25779b627a8be3b16488882a42c09aee64bf4cbf
+MODEL-d9d30cb809,model_table,fact_verified_assumption_diagnostic.csv,data/gold/statistical/verified/fact_verified_assumption_diagnostic.csv,,,rows_1_6,,4d0985704df1c1f1ca9e94da0f2454543a16a3e43e3603f591ac0364b2850e8d
+MODEL-52dcb4d1c7,model_table,fact_verified_estimate.csv,data/gold/statistical/verified/fact_verified_estimate.csv,,,rows_1_16,,ae33e9ad0af8c79af5a8c2477909187a803c3e1e22516abadf18dc06fad350ab
+MODEL-d1c2370b77,model_table,fact_event_confound_screen.csv,data/gold/analytical/fact_event_confound_screen.csv,,,rows_1_4,,89f8ec12531e4e7fd743fea1ff1a834592dda212d7ad4556bef2696c64be45d7
+MODEL-1a3133b241,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1_40,,52fb5598e7f7df44d4f64dc59767a9ea05beae2eb42b7c704f4f999a471aab95
+MODEL-c5ff28c650,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_41_80,,5ec4b91659faf12488b9e2a97d2b5669ecbc48ac2e66de19b7c132e254e6469e
+MODEL-0ec4a46a3a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_81_120,,4f51a14474e157a14fcfd4be10f99f1d93eb3ef77d4f37cc187ff9e0436755ed
+MODEL-cc1c492c09,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_121_160,,6e88977f00be3200329db505385b798e17d7efae25dee10115ebccd498a260d9
+MODEL-781adcb7b8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_161_200,,18bfc8431d7f46b8b8599e5cb8d6a36e3e02f761b6c39ec0cf340f8e82d38358
+MODEL-386a471e85,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_201_240,,117fa041e64ca4439918eb4f92a8888b7bd1fa2ede3d424cc812c879d9496a4f
+MODEL-074ee82ff4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_241_280,,3beb1e903edb06d6750c8bd1a290da586b4fccc67bc584c5d10db409a0738ceb
+MODEL-8ee4f84a91,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_281_320,,f84af1b67c1573128e864ddf629ffe13044711ec214be401607125cf53d4a5e3
+MODEL-2652a55e11,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_321_360,,aa19f75c65af5e6f9c097092d90459399d831a4b5c686d62c9271c5a56d14c1f
+MODEL-15ee7a5997,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_361_400,,0e24f9dea12c8fd9c54e8951fa6a4ff34dcea46cab51d75803cd93c90f5aba86
+MODEL-6995af4995,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_401_440,,d140e726dc1321858cfb3e2b5d823883662470fd2396d6be4635dec7cea93efe
+MODEL-be626b8c5f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_441_480,,5933b6b61d72e7c2a387d72b2a50a11e69cb3c5085a9f1547dc1ee3e9e67480c
+MODEL-9e03855dcf,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_481_520,,41deb136ae95d114e76ca74a56ca8b21f1b72bfebe845aca22b2815e5ef3d8a8
+MODEL-7e03f20c64,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_521_560,,6db51c18ad627a25fefe5e861f3248d65d6791ac293db22108a0ca6a17e7bd4c
+MODEL-dee0e38e78,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_561_600,,624deebfe18c3bb016057d560259988b4b81b5eccf1345bf519f771101baea80
+MODEL-564f8f64b7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_601_640,,a1a1635fb102c6f3871448f792736e55233d3596d4c7b6453a8538c2ba647ff0
+MODEL-fb1a51805e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_641_680,,76185727703c81ef08658604e8251087ab9fe2f84795435f0cd7a308694bb618
+MODEL-956a3c4b0d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_681_720,,73de1e0f4655e954f9c953d31a6fe3c335ab9521318ec786041f91ef9bfd9e50
+MODEL-a25dfff180,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_721_760,,8a8c21b98a766f38b7087a3007ca6874a56a0e194bf60351ebf2a0d23ee8cbfd
+MODEL-3baeac6917,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_761_800,,009af1080648fe6ba363393800e3d9f8914f3fe9d602e67850c688afa39ebc0c
+MODEL-31872d4911,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_801_840,,4bd9824272a2d84edd54630eb1671ae5db530fb2cf5e1732f7e1f0b61e5e1c81
+MODEL-63b549281d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_841_880,,03690ecd6bf74f6158fcc3a31405f99902e6ac613e642f8deedbd86ff24a8829
+MODEL-5ba82920a0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_881_920,,2808c925bebfe1fe961a65cce707bdb0a14b5cc532211c869d0feae664a736c7
+MODEL-18e82e3c5f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_921_960,,8c2bb70a64d4df5b94d042b3b57dad63e82a20fe8d97edadbebcde2daf848cb5
+MODEL-1249218d80,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_961_1000,,ac74ff934e192c8e7e1ba2e72760a8b586e0e4e0c7605c362d6a2fa3edf6e7c9
+MODEL-427f343045,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1001_1040,,fab759ede2325caea91a3a4ee8ce79f3ae0d3825e7662812878ba5f4ecd67334
+MODEL-91b21f91d5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1041_1080,,4c75d54768eed48a3500cab19ca7f4390f4ec4792cde49752ee73eaa69f0d952
+MODEL-7b1c1b717e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1081_1120,,8b428b2625a9f77744fa4c58b31e467319265123512cba1acad9be80b5161bdc
+MODEL-2f1054a648,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1121_1160,,924d0bd53c4691368ad13476d68a51c701b9bb1fa1037a00d69fd1fd750ca87b
+MODEL-370e18cc71,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1161_1200,,686ef1a3642f6726296a4b55793face9547f8b466796cd42f355f037a4d8810f
+MODEL-594c55b000,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1201_1240,,026667ac6e32142ffdfff16e54b477c24871b84c519586e1454a38c4973eb8ee
+MODEL-9f183c9281,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1241_1280,,be6cb2a31473b610183e014e4080a40f5f998b89dc0a296f3dd12ad0a386402b
+MODEL-24afbc02b9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1281_1320,,55116a54fff082ef3edaf8fa820ad5679b51d5e67bba0115b1c007d0e2cf695f
+MODEL-92fe7b5270,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1321_1360,,b8d3cb7774d41eba17cc9850cd270450fef1456ca0f1e664ac3cc08af8a8ec7c
+MODEL-e630b75079,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1361_1400,,64f29334ea9a6e4e6b34e9c91b90555c69207bec94b43004b44db4892204b2f7
+MODEL-520c6115b9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1401_1440,,a1afd83b9fdb18a583585efda18639101462106f4edc19c6eebcb5d3744a12cc
+MODEL-c9f7f8f9d1,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1441_1480,,c8be74ca271984eb5f27dce35c48fd0ee58d060e6d5ce353ad21f90d23497e14
+MODEL-dcad3d2488,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1481_1520,,3cb639780189e9d1b6b728d6ee430830b22823490a88cc4c6fd39ee204431c09
+MODEL-721fef8630,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1521_1560,,0b4fb2111fe4a724b9394b7223a366c8b2cfe468bc60cca83f1f212c5e767f35
+MODEL-baf1ee8626,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1561_1600,,4a1e9136c06337d4c7b8c19337751ab59d047f9de50b8ba7295057924fccec71
+MODEL-8a447252ce,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1601_1640,,48a2dd058d5cbc476649cece23856d475062a70086986a7f85aa4fed6bb69400
+MODEL-e4e04997fa,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1641_1680,,3abc55efe72d76a905c493ee5254fc0d52952601c6fefbd0f21c9983e637f587
+MODEL-8e501925ee,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1681_1720,,7104014eb22952b6476c9944ff2f6baf40f56af439d7f300869543fb1d5e8889
+MODEL-53e03e2980,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1721_1760,,2991a6442e90b02eae3e4da68090bcf35a30159b513e35004e0ad5deb92811dd
+MODEL-28d429880c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1761_1800,,1b5bc89780eebc09f1c67ee5cc68711c718938efb35e292850d2b874daf64fbd
+MODEL-9560632aff,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1801_1840,,c3381f9a97863a7d36704deccea01999130f4dbe9b96f1066b5084ddb6b2d467
+MODEL-9bf9c0274c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1841_1880,,a7692b6f2aae77e3b44ac1b93ba03a357c3d0e03ab03a1a3e600b50ac2b18f4f
+MODEL-af917ef2c1,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1881_1920,,5d1d04b0ded04d62eb75828520a4ae032aee9f6c33b46528ac0b79916a0475a0
+MODEL-2991d5bc4a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1921_1960,,2b9c8fa020b17401f3d3391d2912e5639458d829c32d74719f4c3b80019d2a33
+MODEL-23c041804e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_1961_2000,,a4e9ec4776439ff84fc6fe0bfd21c472c3bbe02e8889e98d2bd4aa514cac35d5
+MODEL-b7dd2a7152,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2001_2040,,3ba4a885a85588f3c181a9f88f6f7e003cd725e9d4733d612be83b18a838efb4
+MODEL-5f74e69dde,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2041_2080,,a8dcd2d506ecf6042fb12d08500234dbba0bf46786d38d0a883590bc5f530461
+MODEL-f61eb0ac94,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2081_2120,,2653b4472f947c6eb422aeb9a7a5d4f4379178aeaf1655634a82ebffa182894e
+MODEL-15a6df02f5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2121_2160,,ce0bdc62b58880fecb6df35e88fe0199c9aed2fb0ae82f58468f2748abc66e7b
+MODEL-9818cfd879,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2161_2200,,c298b4653856d02292657cb36765ac9d88c84bf5bc6f3c22c8089179805a93aa
+MODEL-620ba7c6f6,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2201_2240,,6bd2e99bd485478ae7ad5a1fc024ef4fb19fe3f6373f8226734cf0338324c5ad
+MODEL-a7a6d84632,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2241_2280,,3340ea20e957e456759a64e43d403ed8419cb69153746d254cb39f926f28b175
+MODEL-09b398a917,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2281_2320,,b600cf16ecb1fedb38fd3004b28f8fb45eef14bd8c81a1d7c56c9cf1a85ec40a
+MODEL-0a56731cb8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2321_2360,,69cc28ba053422d9bbfbf0c77a2527d2d25090113873bc63989cba5073ae2c1e
+MODEL-171d56a0d0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2361_2400,,d4cfb4bc0aba2708403d2919cf77087f1851547e863a3896ad6a936cb16f0880
+MODEL-2e6857ff0e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2401_2440,,5d8dfea8199258e6d1c24d7660ff19eebcf82523357e14d766f6c9c45189db47
+MODEL-65e1671668,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2441_2480,,60466ba06f8b749bfbaa6171233e928a67994c973265767ada51abdf7c795706
+MODEL-60efb24109,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2481_2520,,6410e28e4fc0fff3bf8ca2c36fd8fc09c37075435523b4da02549aa41a671240
+MODEL-1f0931a685,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2521_2560,,db25617858ffc982e8ec301ddc1586782ec772fa60e434c445fa59e89bb651a2
+MODEL-a9cf26d40b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2561_2600,,5af174246d1d42f24f89f2b43c7b7acd659385719e8d37aa6952e90335790112
+MODEL-50cb318486,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2601_2640,,3be6f786b9695ff4088616b520fd4266acd0df1307213c3b06f630d544930f46
+MODEL-3263c5d7dc,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2641_2680,,d45311156b6afade632045de48b3273be1e49b96c7c446570972df70c892052f
+MODEL-92aca50b30,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2681_2720,,a70275eee809310839e52362ae8272b7d0282176fa2438c34706d1dd01846b9b
+MODEL-481d5295d1,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2721_2760,,6b6964e859404f2a35ab065ced33e6e56dd7884f8c96f042f61e256967c7e569
+MODEL-76fd7aad53,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2761_2800,,071bd25d82fc59ceeb9f16368a6423bed9e336eff41de449eaaaff3f0fe6cba7
+MODEL-7fbf7f9a55,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2801_2840,,06b9bcbca14014a1b13c0f6db972d77af557cb3171b576f2804d35188c37fded
+MODEL-0b2f912d0a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2841_2880,,9a5c6d553c80d84066c9be118b53bb79759bb1fa3eea9d520768da77211d7d4b
+MODEL-82182ee8f3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2881_2920,,7259dd30c26f0564c8d3db531e84711adec2591343d284ab2d9e40d3ac6378db
+MODEL-aede6cf229,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2921_2960,,de5b81c01fe7822b402efa7b3b8daf8d2ae7bcefbf45a4c646ef1f6799585d6f
+MODEL-293630d4b4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_2961_3000,,1c9ba01f7cba72ba090e9c13b97bed92f86bbbe3ee5f54a5dba11cb2f78659e6
+MODEL-2e52f9a851,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3001_3040,,9ae859f3f5ffb8aee8407bb9e7faccc537e0bf1dc67d0ed1a4646c07f965fa93
+MODEL-c9a5986407,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3041_3080,,7fbfd0b162ea08f1a22b41c22cd5a1fc1c22ff7d956db31317c59eb906ae9595
+MODEL-eb2bb748fa,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3081_3120,,94cd5140c19014bc7d7511e5986e47719073c27b08e15008a9ac13f9f3289b32
+MODEL-5393ffcc96,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3121_3160,,8f3730d2f9cbfb385f9cc2fac766a084caa40a614edbd4f5d974cdb257afa175
+MODEL-3ac9108c7f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3161_3200,,7265755f936b0ffbcf6e49f4c0a6cda7beb972f27fa2c00b86ea022218d1188a
+MODEL-aa0fbee0fe,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3201_3240,,9994c69a9bd6f514b84e4dbd1c4814993bc0d50d28a3c580057c3d151fa32adb
+MODEL-1e17e1e50c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3241_3280,,609a99e01e3e1b91d06faa8925ad8716e7d5d28e05d407229dceced6b464118f
+MODEL-0b1658eb87,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3281_3320,,cef59e06f065e7156730d832a6012a4eb5a71bc2d4ec3aeccb01179e8b7923fd
+MODEL-f58d18256a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3321_3360,,787549f554aaaac92182b28d1340812cd1fffa4b0a78d2ff152417f53087dbb1
+MODEL-6861d02204,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3361_3400,,d5dce7a75a17c017894b3b88d7b41d2c88ea35d49471e0c7351c788d81023d1e
+MODEL-875a8ad62f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3401_3440,,dd14a7094f70537843c472daaf103a13a55c5fab3576d9b43615852288456ecd
+MODEL-7d0071fa3d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3441_3480,,c8a30080c8bf62fc4a243636f34738c488f4cc137987998b0c3bcd38b86c0c7b
+MODEL-ac958558db,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3481_3520,,d6d71b34231abf7f28527211b9bd294753152839afa6550e0edbaf4dc5e73b44
+MODEL-cc74aa6aa3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3521_3560,,fa5c2510802d62daade3b22f634e9fa2bae5932b541850e77ec2e6bb9f68c09d
+MODEL-9a4c1eb8b4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3561_3600,,76269e1d3ee53a3751340bcc9ef240134f79caa1605db5266fa45e5035dd2b4e
+MODEL-dcf1097e34,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3601_3640,,fef21802581364778ce4a64e974279932e48d07be226869358862b198a0c9bcd
+MODEL-6b9d621961,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3641_3680,,8864d860c2fceedb4d0ca7a475a23bf47f9bdcef919fa8d19c6decdafc924ce1
+MODEL-83ca287d26,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3681_3720,,ad4e403499315ec68fdedfdc22ac0235a64117b08984e49fa5b4176e8c67bd16
+MODEL-2ec4b8cbf4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3721_3760,,aa4b28050e02751cbf831b54142eaf16ffeb5215c01bd3b177a668e2e587b18c
+MODEL-439af16733,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3761_3800,,3d042f1336d661b866f85d341a7f7fac8536b05c22a0d97a78800824e8986ffd
+MODEL-98693b4eca,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3801_3840,,99c90d1517e11602add3d8a4207ef28597d589d3e6b1c0aa3cc499ee8ff85eaa
+MODEL-22ae854738,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3841_3880,,3330fb926881377315d3e0b42ce42d3b7696a09f5b957678f52446a87987f1c7
+MODEL-a34b9392e6,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3881_3920,,c1d1b427205b1ed2607688d59cde836f40de83d97ade1f64fe7099d372a4b1a2
+MODEL-4bcc5c874a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3921_3960,,357c8fd6de4334284439e0a8c9e23790b9bb70c65e7a970766bf95541862b740
+MODEL-e26338361a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_3961_4000,,6978e3bc5485bc3f80fb11e2de4aafc5baf77b2b00b4a97cb831efba46b41228
+MODEL-afdc0822ec,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4001_4040,,a60111dfdb5a170580cd264938447c795d36a329befa9355228c8f9a8f1911c3
+MODEL-73b355502b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4041_4080,,66d02702dc7be86b959c7900de2729a574677f3a8756a87e15e6a6d1f7486548
+MODEL-d16b24c4fd,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4081_4120,,8b512e85ee558ea2a2eec9e054befe7a7f7e3cc700f69528c6ac43e134ae9c32
+MODEL-c7f09b51ae,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4121_4160,,14803e5273fabd2b9d184187ff4b9b37abb581df0713960ba7c0c7c220ecb550
+MODEL-6dbff649af,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4161_4200,,f160c4847f4cf4fb01b2f532ddaf36a7be89efca00e0a132fd9016908627142a
+MODEL-d8cc1927fd,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4201_4240,,a99cc20b31c48ad7e16dcd3beef26710200a0401b7ea940d30c238d7b99f025e
+MODEL-871dfdfcbb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4241_4280,,6461ac6b95eb0d39c672091143bb5966d4d68e1b72d19e1feaa4469e85c02a25
+MODEL-f3262821e9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4281_4320,,71ffe01c416cad3cde7de47bde5402933d5ee8af553514f228f96556abb083bd
+MODEL-9d77606b00,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4321_4360,,83a01d3b776bc499e8886b43222e3333f21b4a27cb2d8540115d6d03518be329
+MODEL-ea049c5c5f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4361_4400,,afc34391741747c7010f8c50366e40bb5bfdd9445009025e0a5b2376cfd41d33
+MODEL-fcf5d2953d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4401_4440,,edf1874de774bc1bde48165388e689fc5ecfa333661d9ecb3a8fdc290aac98e1
+MODEL-50ead7eee8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4441_4480,,ae11a1bea9efc5252e8cab8499d918b21d166d3dfe68cf534a05cd4922cbb89c
+MODEL-e31a14cc6b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4481_4520,,09d3505a5268980d37210098b44c46df0cadfdc5558ded5a21f3d88da9a10ee9
+MODEL-bb58e04db7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4521_4560,,c73fc6505bdc231c000a5e99fceb1cce00b44cb7125b19bd3e1febf69769cc4f
+MODEL-e9a9c43539,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4561_4600,,79410009b5773ee4ff581e6898d751477e67c5f7b482935ce22ad220ec014b13
+MODEL-3a75bf8980,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4601_4640,,07a58a49943851603a96d23edd242c247f33f2dee6382077d13dcd331e786cae
+MODEL-bee31a8518,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4641_4680,,2463730ec757457e6520594b51174420878b00b3283180e6b4afa274e72521a5
+MODEL-1d269dbcfe,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4681_4720,,ef8706b250b0e60a13d5f39509d57ecaa653ab38cb0f92cb2850304c0f36a06f
+MODEL-efa5c4e27a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4721_4760,,d7ba631826e83a531d67151d137b0cad22351411e7adb6007aa79b4cf1a99cb6
+MODEL-79171db60e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4761_4800,,3bbadd23f7b9ac93ffa0eea4baa81972f534ba1ff0930e9e62e7df4418bb31d7
+MODEL-d21d78f80e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4801_4840,,93554c23f35bef9668ec677f4db52b32fd86747e10015bb8aa481f809f9b0140
+MODEL-334e1a9353,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4841_4880,,4d90e1a47361931968322233397fb1ca11ce022229b067454ac9ffc9b429a968
+MODEL-f3d9905f26,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4881_4920,,7e635a723035ec94d3a8c863fb53c7230b2dc6966fe3bee2b4cfbe0efa1a9ccf
+MODEL-b54e2a6d91,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4921_4960,,6e5f16efb73028a00c4b3df474adb01f62a5f35459fd6af6fc39502dda26e718
+MODEL-ee6055d326,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_4961_5000,,d178d44392376ac496606ff37bf50c283040b4f1459f703652f11b45001b030e
+MODEL-9259adb024,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5001_5040,,1d25be0e50d395a8e7ef6a80dc746053b32b9eb92f33eede9f0b7c70ebab9f41
+MODEL-73a06ba881,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5041_5080,,62a6898d7031f7975d4209a1d29135c32e224a97b32f8c9e3a52f7d45fba718a
+MODEL-5b2ed4fb34,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5081_5120,,dfe03d27d1b437fb3e8a900959f6be221b35827cee0ee0927210d49e2b89bf42
+MODEL-97dac5c071,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5121_5160,,02bd722bc1f3e673ecd4fed11ff912e22bc52049a2674a4c0cc1a6f0c86f1ccd
+MODEL-e3e98c0973,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5161_5200,,ec36033eb608b9ac2db2e1e7ec51495e4bd8d72de6a82f673e926dcce55c1af1
+MODEL-4d0d62363b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5201_5240,,713a4b34b5d652dc73feb51c365f51ff763512546589d6814b8132e975f301d5
+MODEL-4a19fae755,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5241_5280,,c15f0168c79c10a8be1384f411bfb1490ae200ac746ef3e8f2ff6ce862e15f45
+MODEL-78664002ef,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5281_5320,,20c543b3e2b8f6e5a4027bd1dac37c009574d54cc784df12f1aea56a5661ef86
+MODEL-f445832f17,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5321_5360,,99feaa281f9640c897d4815b5db5f7a6e2154e90ac2b7e3ecf1c621b5620747b
+MODEL-b39ed9a3ad,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5361_5400,,1fc66ef1e6bee6df2baedbb48f60e432f7a9222bedacc70c9d0c53695c56a5fb
+MODEL-7021e62dae,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5401_5440,,30af6bd47649fd9617376b708f4b8504684a870547ec5e62ce1212b06de66961
+MODEL-ceb7aec971,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5441_5480,,693e607b668b3b1ff03ee1d73084076c907e8b88f5d771f0ccd2784e607ac0a8
+MODEL-fe3d8810b3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5481_5520,,88eb4be2ca01505bb3975b4037568dbacbe41ea930e3481f233ecc5fd344dc8a
+MODEL-6291d0d8ab,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5521_5560,,58ca1d1c162f8a9fbf1caebdd541e7805747ea871acf2fa7667a1409513dbc47
+MODEL-30d11f2ebd,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5561_5600,,cec10542af16d9a2a56edcfe1db673b6e933cdbff169e376bbaf764867ecfe21
+MODEL-af8f3ef171,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5601_5640,,51aa751a6b241210d8d5bba1e4e40acfd3d6c7e4d3918008d6493cd0d3102761
+MODEL-b099cf016b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5641_5680,,3af4690cc281e50aa6e032c073cf87b5616c58c457cc0420e98af269d4d96f05
+MODEL-ebf3125615,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5681_5720,,dccae6a85c8d1eec8a971b12c5f90f5a209d1669b3cd4795e8ff00ed3314ea5c
+MODEL-0ecf62dc40,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5721_5760,,4c7ac0e2381ebbf4b8dc7de9e740122f7228ba98838c5c14c2998d856ef094b0
+MODEL-0bc2575201,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5761_5800,,1202f9954a363efb8f16abb47ccf5ea8a7711e36d98809d602ef8a8d7b017c4c
+MODEL-48edb27bbe,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5801_5840,,62836b6a1b09113664741490a888e41dd199dfd4cf03ffe015168d06845ff4d3
+MODEL-e2a2bed2bf,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5841_5880,,871d04130f53f6d36a62442a204575196457ee8b7460f34ac52326d4955a93f3
+MODEL-08e4756b34,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5881_5920,,26e14960d21e464b3b9c3c68d81c6ecb7e828a9bdae926b2f792dec65bca6357
+MODEL-f93a941e92,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5921_5960,,81db11adc39d7b154a699a561814a8f4b7a66c9f7a75d49c091d7bb1dc900e41
+MODEL-5fb9bd4a34,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_5961_6000,,1c8536013564b4e11e04c4b28687ac476a9f7b50329ff57029c5f05ef11e71a2
+MODEL-89bd531d6f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6001_6040,,34b8d31063cc43a49526e4ad37f95a3b8bc58aac31ed459769357f4140b777f3
+MODEL-bdbdd0c44f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6041_6080,,7a287aa2df7ecdda3c051b910221891dbcc85a67febd81c56015ab0263798bd9
+MODEL-1cbf3af3b3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6081_6120,,48770cf49786a1db542f92b6fba339d6219683659ea0380dccc00901415d493f
+MODEL-fd5bbb072d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6121_6160,,628965ea061fa8223bdb4bdb1141fa7cdc806454903d8fa5063c4a40e131e25c
+MODEL-f3ad5f41ce,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6161_6200,,30ba8d31274ead02d067aa0661f6b1b04afc3672833cda0258643974df723b07
+MODEL-b66dbe3401,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6201_6240,,54cee796efd71c5b63db64ee6c127562fb0d0156275c576fa8c0fdaba75c5fb8
+MODEL-9ea5925ef0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6241_6280,,c59dc139b9d68986ac7a61569d68eec4baaf74e683ae95380b31ad87456cc73b
+MODEL-ff539a8871,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6281_6320,,cc138d5ac0c443efe2b54e6d883e72feb11d0b38a75bae97085aa0cd8e0c7a4b
+MODEL-deca31ad52,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6321_6360,,f14877b1aa864e6c8cebc236e82860cb0d149d4a5d77c833b6f97b93c968e18f
+MODEL-778ac46687,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6361_6400,,c0e4ca54bae9e9858d9cf91f5173014470202b4aba79541b54c0da692c6a0408
+MODEL-0d706523ea,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6401_6440,,fc0d4e0e187faf803daef9df7365abad5aa2e52ac29fb1b015c1e81588ed110f
+MODEL-c16134cdd0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6441_6480,,666f51ef5b4dd56916c9d04a4a9e46b97e166c7d87b0f488a72b61016c70b260
+MODEL-9c73b3899b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6481_6520,,2d614d49e2d09bc12790cee29fbfbd0c3e2ad76f6880c37a69dd66499b909d2c
+MODEL-4322ea3a89,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6521_6560,,a82de2f68da06013b28ce8e9b976396aeb2e0a01a4112a04c719e81f716de54b
+MODEL-c51a60cbfc,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6561_6600,,2f8cbfd8f4a199755ef7d629b69ccb64c47888b2ec897819d11aa30046bb5880
+MODEL-a393ef2e69,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6601_6640,,b71efdd9475ed8ae5d6a23596486ee01686e0c7fa93f44884e1c5c033bb6b234
+MODEL-71b4a4d2e4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6641_6680,,76e05fd6f7691423096a9a4258db127029b2ba7948657f144f65b0fa28f6d246
+MODEL-72c4235a5c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6681_6720,,2d28bf6c51080052986749bde671c55d09d09500ed97bc33cae9bd92320386a2
+MODEL-46000dc4f9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6721_6760,,a681e369e53bab7ef69eab026ad27b3e38e4cfd230288923f4b68a11908b41b1
+MODEL-3994d0a72f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6761_6800,,dc014a3b75b72f984924e5349ef9f8e5bed05c865832b0de8e14a1ec27988211
+MODEL-d45f58a15a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6801_6840,,a3359c0814a04b93f5c46499ecbb3049706193b14471cb3fe5c25f61dee9803d
+MODEL-f3309b39e4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6841_6880,,3afb91d161b2240a2a2ef8c787dd053a131b4f69fe2d75918d4c2b2149ab246c
+MODEL-3de87291d3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6881_6920,,d3ba5e34d686d5e040c1bb07a11f56baa9e6381e4367722d78cbce68d55eb8ed
+MODEL-342c9f3f55,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6921_6960,,67f828f48e701beadbad8b111da674176b5d57f2c54dfcdcde59c9e4e1ad13bb
+MODEL-c3b9bdf929,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_6961_7000,,ed3ee6ac657b7d287d28554bb99d924e6262fa8af4ee0c8662d1aa9f01a03091
+MODEL-3af056c38a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7001_7040,,aa39721059e571bca9eef2ca65680e9473cb3f09b35cde1a369bfb163638f984
+MODEL-41d1b0bddb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7041_7080,,8a8bdff00611896d140062abcb68e7ff1f3bde01f7bc1b1f9beefbb05c656bc1
+MODEL-b03969c177,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7081_7120,,124d7eb4fd664df2504e96aab72e6ad5b11cd42d12c461e580b37125500d42bb
+MODEL-0f56aaa5ee,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7121_7160,,d465a598f4316a685914b181084c4be27a63a51b113c119b54e21c319dc0bb86
+MODEL-76ed9f56ba,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7161_7200,,50d707580221290aa9305abb0bcedfe18b4c1aa75e1b71d350c24f9b46c0e7f9
+MODEL-14a4bc4be7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7201_7240,,b8a7c7034b526489e2fd1a363a2ad3da49cca99cacaf61c7e2ce7f6c2f015deb
+MODEL-fb4708f97f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7241_7280,,5fdde219d335766259bfc36faddfa902f05edce4d07783e53f3c845949efb81a
+MODEL-4aedde4760,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7281_7320,,f59313283b7362193616fb2666feaaf16e856adbf9dee68c64b4f70aee72f118
+MODEL-5751e55653,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7321_7360,,84adf7753631b27f6640049b89a94ea05a377d638afaf07cab9d6b1e582eb3a7
+MODEL-3711185bf3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7361_7400,,7a98940159e428238b7b3d71cd6f0f274f9c8da36aecf2fb48663554ea54c200
+MODEL-9936fe3fbf,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7401_7440,,ae2be7edb3ab42a806a6acde61fa1bb2e8957e18542aaf625f6b57d8c0e5187d
+MODEL-f14f26405c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7441_7480,,46c8e343c8d7ecc7794e85e9b09dcc0792a317eab28c1d60d976189bac902db9
+MODEL-16f11b71a8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7481_7520,,aca60d1a7527f500304299087bf973dde338d64937486c7750da3f9c439b0ca6
+MODEL-85ef8de310,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7521_7560,,4d44f4499433697ae39d001298daf1644036032a247049f2a5bd47ca2190e044
+MODEL-d65e03ef96,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7561_7600,,d112b23bb4e5b154c904175e7451cf6f5c475f87e6fbee506c6680fea4d321d7
+MODEL-143ea8aaee,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7601_7640,,18f04b30f2b54ad35fce154a33a8d4cc145730aa31d39a9e438f4b85151c4b2a
+MODEL-449426d307,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7641_7680,,05b021f2fb14dadc07b041f56431fb1bafbd7ff38b414e164ee7c97788578bab
+MODEL-699137de57,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7681_7720,,0675971ddedd835e48b2105e9f549ca771ac9315d903716e9d53b7e6a7fcca50
+MODEL-58ace01006,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7721_7760,,6ccd1a727cdd81edfcdcaac0fbfb244eb4274ec6001e4eeed700a3d515695a65
+MODEL-8c2eeb4219,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7761_7800,,d331e77ca27eab259625a711191367900feceb96554c7d3d1d5f5e8db97cef0e
+MODEL-7f070cc7bc,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7801_7840,,2f13c6b64b1c4f85388e806acc88e7d17eda55313d47ce594816e56a3eb0ca80
+MODEL-500ef62624,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7841_7880,,b4de21e1829b3eb8e1bcf0fcd24bbd1f8da8f1228f63f17eda895b0b8775ed2c
+MODEL-ff23c56164,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7881_7920,,97c91581e14af3a3606532f302aaf02042531a2770022c898bf22704604e3330
+MODEL-e590bb4a58,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7921_7960,,afd61493715c8f722cc61f843cad047891c8cf8a83d5c356b4f6f2d036fb9c09
+MODEL-d6296e37c5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_7961_8000,,ae1b2fc61bd525c65b7dfc1efc1a767b51e9e6051afb0305b20022032eb0b94d
+MODEL-f4f97aa85d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8001_8040,,af87934298390f64f9b29a292c4f415eea221f8964696327ea1eaca07175d663
+MODEL-5bb4e2873f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8041_8080,,6179b8f6a03601e26b3b6368170fe6e0f50675de3aa90b08e73529e52db29400
+MODEL-7b28b3ae57,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8081_8120,,f93b90a29ff9cfe06e61e1bf39701e326e0064793133431d839bb4b152af6548
+MODEL-889130406a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8121_8160,,55f4259672d00e27919b944f553fb32a2a8a32e0676f3b62ea2f4a256afbdf1c
+MODEL-ebed4bd71f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8161_8200,,c5fc1b62af052f19f3e024fc22f45fa2f5a658a183e60178e7fa4d4314277235
+MODEL-7a4db9279c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8201_8240,,fa742ed00c824b611efb6c172537639f57e86efdd31e52579ed6b6953177f8dc
+MODEL-cec4b2883d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8241_8280,,59c488a7a079f14bb0227591912016e0c23958bb0a22af183f36b0f672df3b75
+MODEL-aa1c3aebf8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8281_8320,,823c064fdb9dd4687d9a38344e8bd893a6b553c785891725e408983a6a987633
+MODEL-7988c571e6,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8321_8360,,80666632603107bb9f8ed3bf448fdd46a25240c2485948be282afbf8d6d895da
+MODEL-8f6a888122,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8361_8400,,2a401f1fa06f7aae0aa2a76fda776084f1c1e77747ed5c554e474dbeb6479987
+MODEL-881f9966b3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8401_8440,,d8ef0a3e9766d2ea03d1cc3413899bf5821a3d873b470050c3229bcc587e73e0
+MODEL-9d584c32d5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8441_8480,,e6427eab9dc59f946c82cb65995f7fc1bc80267e0b2bae2ea57e363136aab4b3
+MODEL-044308d663,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8481_8520,,509ec4a5577e29d4795f5b29ca341fe827c31479cdc304b4a8b3a029feae3e6f
+MODEL-557c66a235,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8521_8560,,142ce4b4ad234e34d451899bee2e46d61424d66580621613af3bb3b3bcc00b48
+MODEL-4c800a3139,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8561_8600,,f73fb274c339677605b88a6005bed70d45168b77e6f1313120b51bed50094a44
+MODEL-ff1732ea8d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8601_8640,,57c7f60410be13ddbdcffc5118740fe9ddd47cdf44ee4d2efe4cf5871d721b61
+MODEL-ebc3709e38,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8641_8680,,07eb7a21aab5dfd275d31f3dabcd4f3028270c627cf77543f4ef260d299f9e1a
+MODEL-7e6cd93d5e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8681_8720,,6919b854e227e75201d041c4fd5b4302c8d59a4b133d38e96a2c517082afaa14
+MODEL-fa5bfe7b38,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8721_8760,,b18b960917454665c999afb1a64a60ea2ce1937edd47ee4e16c68c136e921360
+MODEL-e3b81e6da5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8761_8800,,ba139353a9a094b5b6f25dc9b4cf99bfa12eb527b3ed117fae60bd2a85ded831
+MODEL-fdb1574ae1,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8801_8840,,f14c129be555e71b66937263c7eb1a3fbc27443c7fc19f7f1d040926557d0910
+MODEL-45c42a17e7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8841_8880,,af35f3e25622a30c7695e49ec3b089eaabdd2d936b0a0ca941acd4b49adb95c9
+MODEL-7d2cf0bee3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8881_8920,,7cc140422c1bc5c4cb094a730b171cc93ebee15815f39313e2ee6bba44c0fb1f
+MODEL-0648eb6417,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8921_8960,,99dec5ed584a7bc18cabb478b88a976969845dc9147a932a12f15d0602573e76
+MODEL-0fe20ddc4a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_8961_9000,,cbca96750699d7a2d6179aab4a05289157b1ff32d7d585d938e0fa2b0106e2cf
+MODEL-8c7572a5bf,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9001_9040,,1d185c0b3b5b8498c69f18852470476c2ed881ac97a445f65a02e648d47b2d6b
+MODEL-57dc61e0e4,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9041_9080,,b9ef07f718c7f9a665bdba5aff2160e307a00ecd3ac4c483fdc0d647acaa66de
+MODEL-5d3c696939,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9081_9120,,1609e0c8deec23777b1e353a4a151986a4eed64521b2463169c894c18e094851
+MODEL-11aa883f1f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9121_9160,,9342817eb482f8ca2ca26d4e01f9df369b1d203dab8601c79571a727cac3bf00
+MODEL-f94c2757ab,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9161_9200,,4c8aec141874e51351f7c79de5911081ccaa93c6750f82c38290083f7c06ad86
+MODEL-3b81652230,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9201_9240,,c3a1daf920a7f486127fa9db418abda77d0da461e297a0bef503a8536d6a8b1a
+MODEL-d25978f3c9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9241_9280,,11e0b2c79bc6417588ad21690f39bc72dffcabfd916ed75b64e1de37827bcaea
+MODEL-7eb7702ec0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9281_9320,,5e7712d1931e8b60b0ee7409c53ff3ef820ee703ad7efb53e4d5848794c168d5
+MODEL-13dc4ebf35,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9321_9360,,f1541705cb56330a6e602591f5a07e92f822a938ba4dbdf294282758b55dfaa4
+MODEL-fe15d41c98,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9361_9400,,1d3b1160631ee99cd297b8cb88180ed90d9d687cc80bab41b23ba8fb6c399ce0
+MODEL-af9ce31c56,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9401_9440,,8165cd887685eeb3e2f76cdd3eb06fcdc0409d8e51f03a0cdf7996c33ded3df6
+MODEL-bba893cd01,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9441_9480,,7297d41c10daf850e4aac331873c3b4cc3941dc1ea868a9fa9229401ea18c28a
+MODEL-1903f52f12,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9481_9520,,214fae43dc497b18a249e5167873ec3170af4c27d0131ac3d5fd95547102c2a3
+MODEL-f6c20dabca,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9521_9560,,1fe8edf5108dd5f8bc54cbc748c413702b501f33f78327ac48aea64227e0357d
+MODEL-56e8f66096,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9561_9600,,a0994a73b3a470044cc91654e52321dce5b429a7c85c29360e0037910a8e30e3
+MODEL-df459c6deb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9601_9640,,00bf46413c9351735e5574ed81753c9b41a938361ce611f5bc804eb98e87dfb5
+MODEL-d00aca1edc,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9641_9680,,012ae069b1f27b1d0c4a2178d1a1c92ec54ffd0478a167a71a32477055fcb675
+MODEL-4d96261eca,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9681_9720,,0da80d8fb095d3725e1a2cd8ab13052769a917d14c9d90c4c89d46cd2d932bb1
+MODEL-de0e0cbbcb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9721_9760,,dc18c1d19b6c0d63a3de658a3353186269204a3ada815bd8fa8729b7e611cf66
+MODEL-89a0de8b23,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9761_9800,,d4e6e0043eb9fe43b1d10cde931a9c7a95663f70b9d25fe49311dc7faf462ee2
+MODEL-42fd99fc05,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9801_9840,,47c58ef29b8d591a39205347a3b7aea655e004972dedf6fbe6d605b18279ca17
+MODEL-9195864fe2,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9841_9880,,1fed36512aadb44ac16ced7110b09524db58d5fa379b303b0b35cceac1ce3202
+MODEL-7101ab76ba,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9881_9920,,68cb263b7518f6b863dcfda9967928d02bb07aad9382cda2cbec64305e049ebf
+MODEL-3db45ed4fd,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9921_9960,,44ec3c16e5977339d53853a8f71dd45d10e8af08b30510ca0fda3e31670eb211
+MODEL-b25e568e13,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_9961_10000,,de9a923023608dd35561f686a91a028e3878f6dcf8246ce6145d221d55a0f5c2
+MODEL-a23dee29a9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10001_10040,,3e63701c83064fec83c790a602f47508baaa23896cf46ceaa8c385daf061a436
+MODEL-bba1bef408,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10041_10080,,55e4f33f768b380c9e4cc8438f09fd06427e35a8332bf99254d8a5c6ac923ab4
+MODEL-d9044c8875,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10081_10120,,80d900dfa98d85486bad24db99f79e8b336298020664d639e36b75e733c1ae5f
+MODEL-2fdb2e7673,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10121_10160,,59350e3a403b3bcb4d6515a81fbdca58a32dfbd80d65ada898e91c9afa313daa
+MODEL-88a344aab5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10161_10200,,faa79fc0ee9a6b13902b66c94037c0b0e0d7ac2afd9af321ba21b54b614ae1c9
+MODEL-4b31f7dfd7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10201_10240,,3889edb0f4772e0736ca031a89d916c8c582b97a8ee89f5db9aee3440710325f
+MODEL-fa0a24ace0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10241_10280,,f2fbac60c6e83651d85c46187eb4b92a790f036a01e19ce3cbcf8a1ee6e5928c
+MODEL-6596f361c0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10281_10320,,6ad94c850c6584f676b174f2ca097814ac33490f03be4be7410a4a21c6f914af
+MODEL-d0a0ef6c5e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10321_10360,,83c83499227657fb90c0106903206723f58ea704efa51a34354cd128a24d8b6f
+MODEL-daf5f8d55a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10361_10400,,c765e92ee1fd95ce28d3467fae9ecb3ab9aeb785d653ff389f64724157c9edd2
+MODEL-f08005031b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10401_10440,,c8b1da48f081cbdfe97cc80e1785104e9cfb47795243844867b5ee618d223653
+MODEL-4be7dd2747,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10441_10480,,7c583c3739c3951ed3508dd99ec70fb8dab88e4795606b5e8549014d960629ea
+MODEL-6d01ce4372,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10481_10520,,89c21b7bfdb9b2915ca01153338420bc7fc4ee53200a298b903fa2c99cb6cf05
+MODEL-5f467d6143,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10521_10560,,c9e0e83b4621f1fe153c26945bcfce3692becd6988747b080e68e1f11bff317e
+MODEL-2131a0a763,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10561_10600,,de061a66ccf2159693298df56a77c90ffc967da1cc5cb0f4da22257dffc4f39e
+MODEL-ae6a767a28,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10601_10640,,2f62dec939ef318411a994b2bd9a05cd8b3551b0cf7a09f34d67ccdc85d129d1
+MODEL-3969a5b294,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10641_10680,,e602a0762d06c6310c19e78a4d41f1c89a88f092d8557c411f28d3ade5e8460c
+MODEL-6ef469a6a0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10681_10720,,7fc422a0bb216b0a23a2e8d99ab6216e8dc23590d37406b9c8dd0611af53f871
+MODEL-480fd88beb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10721_10760,,5f4aeb0b225a6caecb8313642eeba28e4f0589550920be2f10e54c15b50ee568
+MODEL-175f1dd10a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10761_10800,,3675cfbeb5855f186ba9e2105e5a7e1e2b14b8b647f2268f158aefe8f855dd16
+MODEL-6e5055ea9d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10801_10840,,1b9370efcec364c5c79a27a05dd13e5b59b62d6e852d81b385cc1c89eb34baca
+MODEL-e8e611d907,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10841_10880,,ecf5ba20f0280bed7a013113f7f05e288d9811f448b49e65cb436aebc97f8b89
+MODEL-8df6f1c7aa,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10881_10920,,014f2aa361fda9795bead4a73cfe821282af81a8df1a61ff3b37e0cab30bde39
+MODEL-923ad65453,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10921_10960,,158917cb77e8db568bcbdf7d7da94636d09d558650ead09d9939857b1cd81c55
+MODEL-6c44e05b74,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_10961_11000,,9f2357619180891518d5bf242a17c168729a4627a048f51e63871e17a55f5139
+MODEL-1b4bc29347,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11001_11040,,1dfdea6c26c1d84b931af268fb469faa93a4e28545df8c0199ac47689ebb0e7c
+MODEL-0641804a55,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11041_11080,,b58367660c92823dcec4d32b96cc4f4456b4c586671202412dfc0196e84cf26c
+MODEL-83159638a1,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11081_11120,,5e72406c2fef120cc6853709fa754f51a8394638a1f9ae5fdcf490b8333bae8c
+MODEL-429366b1da,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11121_11160,,cea743387a6613b84ff3e680f81966da723ffe13498a16e6671ec51478052b4c
+MODEL-cc5ced6280,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11161_11200,,b3f7683ab49b0b377b2d71b767831d50e2bd0f52f3c416cd254234adaf6fc13d
+MODEL-4a85877754,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11201_11240,,ae44805f3e64106c81b87cd09a422ec61b974c2ddce0871318030690e20d8061
+MODEL-0f6da9018a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11241_11280,,673e765a3d42f263a23abdd06cf4d18a27856534f566f08d85421a33dd17f59b
+MODEL-37da36df02,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11281_11320,,c822e66b3153db0a4b747401ef02942c234206f18c11cfbc89bba19436aefb9f
+MODEL-224877ade8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11321_11360,,f8a0ad97413337f6cf1db12f9431914f768e98e3dd0afd5b9f8a414749fc0a85
+MODEL-03d650e687,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11361_11400,,7cafe6d901a9e098c55bff7ee9315850a4d9412cd72405e89da76afbfd726083
+MODEL-a8eba339b5,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11401_11440,,16cd4a2af4f52e11ae5339ef840e10f96a38af2d7f866dc46067442f258d3f1a
+MODEL-807ba6c65f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11441_11480,,38e5840e22ffdf08ce83d29ea3ab343d36431cf456ecf22cb2d20d75197d2244
+MODEL-d792842e14,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11481_11520,,01bc8e82942715fb01c71e83bc8a070a840df8490d9ff469428c2eb56ff04f6b
+MODEL-76ac88a728,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11521_11560,,7c7566bd27235db98d9930271812404ac7acc1624c355166fd0c8e4f0f5849cb
+MODEL-5dcb61640f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11561_11600,,6bc064a450fc7a636c4ba2b8b5471a4f8486508cbf8fe1b615ed33577aa87263
+MODEL-c2608f4e2f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11601_11640,,99e907c538cc7779b751aaec2495aa4aa89f63145db221dcd266df10468d50b7
+MODEL-b300fc6a6b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11641_11680,,09586a7cd5e0e18491c25e67a832a23be784301f3e3d8e2eb2b786ae40d414c2
+MODEL-15b6315ff7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11681_11720,,c01f2d38ed2478978a1a4e0bf9e2823afe5e825ea298e56139b831cd8dd1c52e
+MODEL-4bce84f19f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11721_11760,,0b19ad0c63a3fc9f2476abf172ceec5594c7afce32e5a960f2b54a42e56961c4
+MODEL-abca8b0193,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11761_11800,,bfb96895271d5db404aca08bb2216f36ef85c4b95887a232b032d0bbcd962fc1
+MODEL-062b008f47,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11801_11840,,dde0e01f16ccf28103f77f8c8b75b3748374fc7e69301eab9475e048dc283a01
+MODEL-18f7abe5c3,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11841_11880,,b28553797c7883c024c4a7c99c01c866e42f1417704b10c18b3b6312d960a049
+MODEL-d38cd88d69,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11881_11920,,91655b006e4a3462440c2e8218b30cca8e812c69829575a580c5d45708e8a60f
+MODEL-200d791229,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11921_11960,,0facd9c39f444cab166320c951360b4e9afdfdf9aa1b6b3492baf69df643332c
+MODEL-8d80a1b0cc,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_11961_12000,,861ea19576ead1ded7e7a257c2f50e139e5bc03804dfe3bf161b9864bbb537b9
+MODEL-c2e53d84b8,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12001_12040,,c6fe890ea9631a5fbce9bce52ca0ddb9a97e5f248d02edb6ba7a10b82e44f314
+MODEL-fba59c4cb9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12041_12080,,ba554997193603504fc0bcd9ae8f3fd1cb2994400aa9d3121a850a8926fbe172
+MODEL-ab15cea3d9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12081_12120,,23f29f08986f51d8c906cb3e7ebfe95fae661fdba9c2efa1d0a1b0dd4209476c
+MODEL-589ab053ab,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12121_12160,,ee89a9b24befa2d1d09ef0fa767e44744e801de611cbeb601fc171a3c7b65c57
+MODEL-470b24069f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12161_12200,,01cbfafc8d891d8272461ec11f8f1c7f585c5f01b62738a33f0c93305ea92e4d
+MODEL-89e112b2ed,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12201_12240,,18e1e823ba0c8fcf868e6b2eded72fba8109fef75e916cf6d5b63de29d3cfe58
+MODEL-83803fcd73,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12241_12280,,4bf8d8a6b17ce766ae044fa5cf090dac5a0b7fb00c54bf0da7a4aa36bd0a86be
+MODEL-575087278e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12281_12320,,aed75562c5c499dcb71b03e1dfd1554f6c388b07d0cf1459d026b35de9966fba
+MODEL-0351fa3045,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12321_12360,,798a0d3de75f6d6754da358d10e2a3f241e766e910269b4616c9ce16d6457ac6
+MODEL-5a2d76460b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12361_12400,,bb6e97477b0aca8c7d0a57717ac02c490d06c8ced6da4ff26f905dbff8a0d24e
+MODEL-a366145913,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12401_12440,,a7cc95cec4c6f915db22807a4db3909b8c60c384b735cf570fdfd182caa5d580
+MODEL-cd3ac3441f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12441_12480,,6675ad8050eeb5d954773a4352e6a947d78874b4b5386a47dab86057809b06e2
+MODEL-6cc57e27eb,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12481_12520,,ec2abe0a6f09caf622568b194c5a5536c305b3f5518ac397a82c411a2d5b23be
+MODEL-8c60de0257,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12521_12560,,88aaa8cdc3f28de22e7348c76aac206b955d5e3b5d70729014352196dce62939
+MODEL-0845aeaa2f,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12561_12600,,64b95454665d698f79ec10aab914badbc60f0c62ced6c5474a98b5a54505cc52
+MODEL-8007390847,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12601_12640,,a60cfe8101bc5c8a51bf6aba9d3005446bc5bf3f5145d84f077d2bfbe5c76857
+MODEL-268f2cdbf9,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12641_12680,,ad695e5bb363bba6faeee811f116565657e3124ca3e9d7bf0d48543c4a72ccf7
+MODEL-3bda97ae29,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12681_12720,,a409d168823a48d9f6347e358205b03fefc777d36e83ce31464d2ae3c9323da7
+MODEL-145ffe19c6,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12721_12760,,517cdb8018ffa8c5f649d92b381b35b1c84592d9197ae95dec43ad75f22ce78d
+MODEL-c642f36b7a,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12761_12800,,beeb8f06f45bf68f19706ab07da0f2357b3f6808067f2fb48ffcc184d57ecc60
+MODEL-3d20d9a114,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12801_12840,,99ad657160b0e41ac11c816587021d55627281786ac48633064a58a26bbca772
+MODEL-0ec37a866e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12841_12880,,8989cda4672421a5ee3084d130954abd7c4eb6aeba5e7279949b03ad40241f45
+MODEL-5253aa0828,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12881_12920,,a960c74d779b6f3b9ac21cc72c31f1320749feb57d80ac8f6a1ede171dbcd965
+MODEL-54a3f6618c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12921_12960,,e1a1a54fa142c7b10b9c8d696bf11b1fb394e93accb5f379e7efc489cd9b6f80
+MODEL-a714315c38,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_12961_13000,,bd8fc73fe6049d079fac3cc849ccce959459e61a187103888ecc22e8f6251755
+MODEL-34a048fffd,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13001_13040,,bf737f0a3c718f47689540ec134a585147d798843f522e7fcdcfd6cb5f1f13e9
+MODEL-20e14c311b,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13041_13080,,88cc3320954919233f85115de4c6c0a1051c6024da47a8d94b50ffededaffc77
+MODEL-93b1ab43fe,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13081_13120,,c41325ec964e841fa70f88e92811b73798e5a8992b8c1cc5df121082296be860
+MODEL-4244f01237,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13121_13160,,1d88a19d65c280f81ffefad3ba7ad7400165c1995f34ff9911618b31dbb268d1
+MODEL-936c47050d,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13161_13200,,005b6ab4fa1245dc292d8bc6223c44a3ecf11cb72fb83a7b283fdd0e07176772
+MODEL-e55615a511,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13201_13240,,501249d144dbae18fb359c495bc67dc3b5bd35e5c71ba235aaca6ca36e57874c
+MODEL-b74736519e,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13241_13280,,f14be1b4bbda9128b479222d4d135fbf9d8b619035e658d8139792541dc86b8b
+MODEL-ab6b3430a0,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13281_13320,,8966329724a464e2c2f5dec15b30a41dc894231b7cb103bd43145d01ee640058
+MODEL-5b6d9f2439,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13321_13360,,861d143d2d313c90593c64457fcdcb964b1153049c593c1fe72cffd14c8552cc
+MODEL-39064c24aa,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13361_13400,,6e0ab50e27c4510ff50022b98aa17a9d016b75b9d1ad449eed313f59865e9d6c
+MODEL-04f3c72f44,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13401_13440,,b846387b0240fb78cb904ac92a5cbccfcc0571d6f16e2b93539f201296b30270
+MODEL-c0e5f7d623,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13441_13480,,69f61ea826b765985540f1bc8ce85fe7ddf812bf2dad14304d0e3fe5710e0d6c
+MODEL-5fa701de42,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13481_13520,,5e3a2f71947784fb4ce0b001986db9da8180f844513e28e766b61f5be8c3f5aa
+MODEL-90b42ce9e7,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13521_13560,,6c0b5cb28997d008a995de29c5f33169442c4e25fad94000632b0479a839f8a5
+MODEL-7177828d4c,model_table,fact_jurisdiction_policy_timing.csv,data/gold/analytical/fact_jurisdiction_policy_timing.csv,,,rows_13561_13588,,311ba395fc8b5c28c46b88b0167e43d74c264281d0f1f8d416e58c9c4bcae977
+MODEL-afae70aace,model_table,fact_modern_method_applicability.csv,data/gold/analytical/fact_modern_method_applicability.csv,,,rows_1_6,,f6bc83fcb48f156069e70bc76e08fb3001852b807175efc6411293a23c802207
+MODEL-50f6bca5af,model_table,fact_overlap_restricted_sample.csv,data/gold/analytical/fact_overlap_restricted_sample.csv,,,rows_1_40,,cf1570a1e8346b77ca621bdc59e073be9c65646c8a3c5ce744f540d813ad0eec
+MODEL-ad9c24f967,model_table,fact_overlap_restricted_sample.csv,data/gold/analytical/fact_overlap_restricted_sample.csv,,,rows_41_80,,3250cd63553be851575b5329e9ff6ce7e9dca606a1ddce2e3708a056fabf1376
+MODEL-b6df8ec4b3,model_table,fact_overlap_restricted_sample.csv,data/gold/analytical/fact_overlap_restricted_sample.csv,,,rows_81_120,,1cc123569fcc19618c4327128f6e6cc8a9ebf63a86293e3cc6a1454b8a7a5af6
+MODEL-963da6438c,model_table,fact_overlap_restricted_sample.csv,data/gold/analytical/fact_overlap_restricted_sample.csv,,,rows_121_132,,1e8985e6f46c85aebcadd2d359a471cc1a54c4282d6a2efcc8e003f56f5641d2
+MODEL-fd6c73b6fe,model_figure,Figure01_sample_and_market_coverage.png,data/gold/figures/Figure01_sample_and_market_coverage.png,,,descriptive,,6c9e4c8fa5e6d07626e84cda7ac5b08bc28a874018e5c993006ecf187166a1f3
+MODEL-c3d905fe2d,model_figure,Figure02_market_parallel_trends.png,data/gold/figures/Figure02_market_parallel_trends.png,,,diagnostic,,21f6d1802edbaf8404934a2d71d79f387b3b5f13fb2357d297c8809eb15c333f
+MODEL-33f7f7bd52,model_figure,Figure03_cumulative_abnormal_returns.png,data/gold/figures/Figure03_cumulative_abnormal_returns.png,,,descriptive,,077335a47413fbeba4ab363e9d8cfeae5f79f788b3eb92dddfb36a0c8b7ec341
+MODEL-939da82743,model_figure,Figure04_python_r_did_validation.png,data/gold/figures/Figure04_python_r_did_validation.png,,,formal,,152adb07182844dd871055f2320bfc83e9c8be8a143b3d547b4746e48e4b20d7
+MODEL-66bdd2dbce,model_figure,Figure05_event_study_forest.png,data/gold/figures/Figure05_event_study_forest.png,,,formal,,ed7c675da7ccb05224c5a9fef382df1da9a6464ec926d6068472097ea379af02
+MODEL-fc7541f559,model_figure,Figure06_event_car_distributions.png,data/gold/figures/Figure06_event_car_distributions.png,,,diagnostic,,778c97e49a7dd0a5cbf17b6517ac542630779459b57df26131f8ef87c19c0dfe
+MODEL-8ccefe3cd5,model_figure,Figure07_scm_cumulative_trajectory.png,data/gold/figures/Figure07_scm_cumulative_trajectory.png,,,complementary,,bf12d4f4fd3aa9d233297643ac2e1d934db62fa8d91b6a4c156cf29851d30ef9
+MODEL-d3a9405207,model_figure,Figure08_scm_monthly_gap.png,data/gold/figures/Figure08_scm_monthly_gap.png,,,complementary,,3f9c5e8585dd58a1bd616af95bf7b5f3196ddf79588042d9fc45883920520b1f
+MODEL-d4d5e215ac,model_figure,Figure09_scm_placebo_distribution.png,data/gold/figures/Figure09_scm_placebo_distribution.png,,,formal_complementary,,6c07c07cd1d3bea0d839486409c730ce94fb1806ee570d7afed03f7eaee9cf19
+MODEL-74e0a724d1,model_figure,Figure10_scm_donor_weights.png,data/gold/figures/Figure10_scm_donor_weights.png,,,diagnostic,,4efd0bba7e3679ca7dfa326277eda88ad863622c7e5cde52b59206ad3b9f9f9c
+MODEL-26af759b67,model_figure,Figure11_exploratory_revenue_trends.png,data/gold/figures/Figure11_exploratory_revenue_trends.png,,,exploratory,,5270a892ece9df301a0cacd71a3781c24f3fd7c49755c0295f16e6c6a665a4d5
+MODEL-0a5a1000ba,model_figure,Figure12_did_dynamic_pretrend_diagnostic.png,data/gold/figures/Figure12_did_dynamic_pretrend_diagnostic.png,,,assumption_diagnostic,,ccca243b536da16326181fe69110f2baab55cfeae97994b29b3e22370e95b3f8
+MODEL-5d7de1c8fa,model_figure,Figure13_did_baseline_covariate_balance.png,data/gold/figures/Figure13_did_baseline_covariate_balance.png,,,assumption_diagnostic,,35a06856d9f020374db574dfeaf0ee4479a75a0e84d15a426385237ea377acea
+MODEL-870957b4bc,model_figure,Figure14_did_robustness_specifications.png,data/gold/figures/Figure14_did_robustness_specifications.png,,,robustness,,1a8fa6a5ae3e8e1c32b17f2655e0b66f2dc1c1657a94ba3728174a035624aafc
+MODEL-2d36651013,model_figure,Figure15_scm_leave_one_out_sensitivity.png,data/gold/figures/Figure15_scm_leave_one_out_sensitivity.png,,,assumption_diagnostic,,52d0a5d725d84bc3bd8c4acbd0306937c5bc1feb56820657ace29508e30b40e6
+MODEL-2b81a087d1,model_figure,Figure16_four_year_scope_threshold.png,data/gold/figures/Figure16_four_year_scope_threshold.png,,,design_diagnostic,,f3209692941935a6c7581e97b68c34645f3b373c8c21f832e0dc5b9748812354
+MODEL-6b8efffe32,model_figure,Figure17_pre_policy_exposure_distribution.png,data/gold/figures/Figure17_pre_policy_exposure_distribution.png,,,design_diagnostic,,1db085da23ba6cf8720bd552a26707ccfc650ec8705411e9f8a462e1cd038b00
+MODEL-88a4dc7859,model_figure,Figure18_exposure_event_study.png,data/gold/figures/Figure18_exposure_event_study.png,,,main_model,,03a086e587f270d47c2d65efc873dd3a07540bb6db3e079c36f05973db3cc3fb
+MODEL-65574a52ec,model_figure,Figure19_propensity_common_support.png,data/gold/figures/Figure19_propensity_common_support.png,,,assumption_diagnostic,,b7fb274981a7276f460d38017c804145b4af4ef6d8bd7d416d86fbd627e706a6
+MODEL-2c73f8818f,model_figure,Figure20_weighted_covariate_balance.png,data/gold/figures/Figure20_weighted_covariate_balance.png,,,assumption_diagnostic,,e0feef45ef9dba8926543e942b50309d9d30d4a5b6c635bd441fe7438b1e9f0f
+MODEL-142064b25f,model_figure,Figure21_weighted_did_pretrend.png,data/gold/figures/Figure21_weighted_did_pretrend.png,,,assumption_diagnostic,,c670993fd55237d9138f43d45d831ee45a680f65895ea8602f27a1a2c75e9308
+MODEL-be021b3cfb,model_figure,Figure22_modern_method_applicability_matrix.png,data/gold/figures/Figure22_modern_method_applicability_matrix.png,,,design_diagnostic,,0a8143662355ccc3923467dfd933e917651e9d14855810bd7916bc627f3244f3
+MODEL-f243fca15d,model_figure,Figure23_treatment_timing_cohort_support.png,data/gold/figures/Figure23_treatment_timing_cohort_support.png,,,design_diagnostic,,d3f6937b26b03d347a5d37424a4ed44684e3ab5e0e11f13ced02f071ae371df9
+MODEL-98205d965a,model_figure,Figure24_gsynth_balanced_panel_attrition.png,data/gold/figures/Figure24_gsynth_balanced_panel_attrition.png,,,design_diagnostic,,ac3af3fbcba798cd972ce36530c9a4d7dc072f8d583e349b79ece538c03203c8
+MODEL-a88b4052f4,model_figure,Figure25_honestdid_preperiod_support.png,data/gold/figures/Figure25_honestdid_preperiod_support.png,,,design_diagnostic,,30676d54693ab8ca9404aaa6591fee19708ae76a03fea7f0a92b84b51f2dbe01
+MODEL-5a6ebf161e,model_figure,Figure26_grf_sample_and_covariate_support.png,data/gold/figures/Figure26_grf_sample_and_covariate_support.png,,,heterogeneity_diagnostic,,5e77b919130782eae2711b4d1a4f1de56a960ced176f7d396d35fbb0f9462422
+MODEL-704ca9fe11,model_figure,Figure27_restricted_sample_did_comparison.png,data/gold/figures/Figure27_restricted_sample_did_comparison.png,,,diagnostic_sensitivity,,bdb885f295606616cb7dffffce7aa95c19d0698b230e2d37070876a579f5ceb3
+MODEL-201c4e1964,model_figure,Figure28_event_confound_screen.png,data/gold/figures/Figure28_event_confound_screen.png,,,event_diagnostic,,fad717ab092871812bc9a0f90c998fdfa59d7c5dc0c30ebfed5ceeacbf125856
+MODEL-7d5a498d99,model_figure,Figure29_cbcr_low_tax_context.png,data/gold/figures/Figure29_cbcr_low_tax_context.png,,,context,,dcfc6a8e10bfb14fed874f7d478b8ca838e5a9e3d16012e22efef8c323469d97

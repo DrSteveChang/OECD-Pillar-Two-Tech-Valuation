@@ -1,0 +1,505 @@
+{
+  "status": "built",
+  "nodes": [
+    {
+      "node_id": "model_result:did_assumption_diagnostics.json",
+      "type": "model_result",
+      "source": "did_assumption_diagnostics.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/did_assumption_diagnostics.json"
+    },
+    {
+      "node_id": "model_result:did_baseline_balance.csv",
+      "type": "model_result",
+      "source": "did_baseline_balance.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/did_baseline_balance.csv"
+    },
+    {
+      "node_id": "model_result:did_dynamic_coefficients.csv",
+      "type": "model_result",
+      "source": "did_dynamic_coefficients.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/did_dynamic_coefficients.csv"
+    },
+    {
+      "node_id": "model_result:did_robustness_specifications.csv",
+      "type": "model_result",
+      "source": "did_robustness_specifications.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/did_robustness_specifications.csv"
+    },
+    {
+      "node_id": "model_result:event_study.json",
+      "type": "model_result",
+      "source": "event_study.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/event_study.json"
+    },
+    {
+      "node_id": "model_result:event_study_summary.csv",
+      "type": "model_result",
+      "source": "event_study_summary.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/event_study_summary.csv"
+    },
+    {
+      "node_id": "model_result:exposure_event_study.csv",
+      "type": "model_result",
+      "source": "exposure_event_study.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/exposure_event_study.csv"
+    },
+    {
+      "node_id": "model_result:exposure_event_study.json",
+      "type": "model_result",
+      "source": "exposure_event_study.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/exposure_event_study.json"
+    },
+    {
+      "node_id": "model_result:fact_assumption_diagnostic.csv",
+      "type": "model_result",
+      "source": "fact_assumption_diagnostic.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/fact_assumption_diagnostic.csv"
+    },
+    {
+      "node_id": "model_result:fact_covariate_balance.csv",
+      "type": "model_result",
+      "source": "fact_covariate_balance.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/fact_covariate_balance.csv"
+    },
+    {
+      "node_id": "model_result:fact_did_result.csv",
+      "type": "model_result",
+      "source": "fact_did_result.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/fact_did_result.csv"
+    },
+    {
+      "node_id": "model_result:fact_event_study_result.csv",
+      "type": "model_result",
+      "source": "fact_event_study_result.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/fact_event_study_result.csv"
+    },
+    {
+      "node_id": "model_result:fact_model_estimate.csv",
+      "type": "model_result",
+      "source": "fact_model_estimate.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/fact_model_estimate.csv"
+    },
+    {
+      "node_id": "model_result:market_did.json",
+      "type": "model_result",
+      "source": "market_did.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/market_did.json"
+    },
+    {
+      "node_id": "model_result:propensity_scores.csv",
+      "type": "model_result",
+      "source": "propensity_scores.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/propensity_scores.csv"
+    },
+    {
+      "node_id": "model_result:python_model_results.json",
+      "type": "model_result",
+      "source": "python_model_results.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/python_model_results.json"
+    },
+    {
+      "node_id": "model_result:restricted_sample_did.json",
+      "type": "model_result",
+      "source": "restricted_sample_did.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/restricted_sample_did.json"
+    },
+    {
+      "node_id": "model_result:revenue_mechanism.json",
+      "type": "model_result",
+      "source": "revenue_mechanism.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/revenue_mechanism.json"
+    },
+    {
+      "node_id": "model_result:scm.json",
+      "type": "model_result",
+      "source": "scm.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/scm.json"
+    },
+    {
+      "node_id": "model_result:scm_leave_one_out_sensitivity.csv",
+      "type": "model_result",
+      "source": "scm_leave_one_out_sensitivity.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/scm_leave_one_out_sensitivity.csv"
+    },
+    {
+      "node_id": "model_result:scm_monthly_trajectory.csv",
+      "type": "model_result",
+      "source": "scm_monthly_trajectory.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/scm_monthly_trajectory.csv"
+    },
+    {
+      "node_id": "model_result:scm_placebo_ratios.csv",
+      "type": "model_result",
+      "source": "scm_placebo_ratios.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/scm_placebo_ratios.csv"
+    },
+    {
+      "node_id": "model_result:weighted_did.json",
+      "type": "model_result",
+      "source": "weighted_did.json",
+      "runtime": "python",
+      "path": "gold/statistical/python/weighted_did.json"
+    },
+    {
+      "node_id": "model_result:weighted_did_balance.csv",
+      "type": "model_result",
+      "source": "weighted_did_balance.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/weighted_did_balance.csv"
+    },
+    {
+      "node_id": "model_result:weighted_did_dynamic.csv",
+      "type": "model_result",
+      "source": "weighted_did_dynamic.csv",
+      "runtime": "python",
+      "path": "gold/statistical/python/weighted_did_dynamic.csv"
+    },
+    {
+      "node_id": "model_result:r_bacon_decomposition.csv",
+      "type": "model_result",
+      "source": "r_bacon_decomposition.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_bacon_decomposition.csv"
+    },
+    {
+      "node_id": "model_result:r_cs_did_aggregate.json",
+      "type": "model_result",
+      "source": "r_cs_did_aggregate.json",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_cs_did_aggregate.json"
+    },
+    {
+      "node_id": "model_result:r_cs_did_att.csv",
+      "type": "model_result",
+      "source": "r_cs_did_att.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_cs_did_att.csv"
+    },
+    {
+      "node_id": "model_result:r_cs_did_event_study.csv",
+      "type": "model_result",
+      "source": "r_cs_did_event_study.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_cs_did_event_study.csv"
+    },
+    {
+      "node_id": "model_result:r_did_dynamic_coefficients.csv",
+      "type": "model_result",
+      "source": "r_did_dynamic_coefficients.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_did_dynamic_coefficients.csv"
+    },
+    {
+      "node_id": "model_result:r_event_study_summary.csv",
+      "type": "model_result",
+      "source": "r_event_study_summary.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_event_study_summary.csv"
+    },
+    {
+      "node_id": "model_result:r_exposure_event_study.csv",
+      "type": "model_result",
+      "source": "r_exposure_event_study.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_exposure_event_study.csv"
+    },
+    {
+      "node_id": "model_result:r_grf_blp.csv",
+      "type": "model_result",
+      "source": "r_grf_blp.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_grf_blp.csv"
+    },
+    {
+      "node_id": "model_result:r_grf_rates.csv",
+      "type": "model_result",
+      "source": "r_grf_rates.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_grf_rates.csv"
+    },
+    {
+      "node_id": "model_result:r_gsynth_att.csv",
+      "type": "model_result",
+      "source": "r_gsynth_att.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_gsynth_att.csv"
+    },
+    {
+      "node_id": "model_result:r_gsynth_factors.csv",
+      "type": "model_result",
+      "source": "r_gsynth_factors.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_gsynth_factors.csv"
+    },
+    {
+      "node_id": "model_result:r_honest_did_sensitivity.csv",
+      "type": "model_result",
+      "source": "r_honest_did_sensitivity.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_honest_did_sensitivity.csv"
+    },
+    {
+      "node_id": "model_result:r_sa_did_event_study.csv",
+      "type": "model_result",
+      "source": "r_sa_did_event_study.csv",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_sa_did_event_study.csv"
+    },
+    {
+      "node_id": "model_result:r_validation_results.json",
+      "type": "model_result",
+      "source": "r_validation_results.json",
+      "runtime": "r_validation",
+      "path": "gold/statistical/r_validation/r_validation_results.json"
+    },
+    {
+      "node_id": "silver:fact_cbcr_jurisdiction_year.csv",
+      "type": "silver_table",
+      "source": "fact_cbcr_jurisdiction_year.csv",
+      "path": "data/silver/fact_cbcr_jurisdiction_year.csv"
+    },
+    {
+      "node_id": "silver:fact_event_firm_car.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_event_firm_car.csv",
+      "path": "data/gold/analytical/fact_event_firm_car.csv"
+    },
+    {
+      "node_id": "silver:fact_exposure_score.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_exposure_score.csv",
+      "path": "data/gold/analytical/fact_exposure_score.csv"
+    },
+    {
+      "node_id": "silver:fact_firm_financial_year.csv",
+      "type": "silver_table",
+      "source": "fact_firm_financial_year.csv",
+      "path": "data/silver/fact_firm_financial_year.csv"
+    },
+    {
+      "node_id": "silver:fact_market_daily.csv",
+      "type": "silver_table",
+      "source": "fact_market_daily.csv",
+      "path": "data/silver/fact_market_daily.csv"
+    },
+    {
+      "node_id": "silver:fact_market_monthly.csv",
+      "type": "silver_table",
+      "source": "fact_market_monthly.csv",
+      "path": "data/silver/fact_market_monthly.csv"
+    },
+    {
+      "node_id": "gold_analytical:fact_event_confound_screen.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_event_confound_screen.csv",
+      "path": "data/gold/analytical/fact_event_confound_screen.csv"
+    },
+    {
+      "node_id": "gold_analytical:fact_jurisdiction_policy_timing.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_jurisdiction_policy_timing.csv",
+      "path": "data/gold/analytical/fact_jurisdiction_policy_timing.csv"
+    },
+    {
+      "node_id": "gold_analytical:fact_modern_method_applicability.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_modern_method_applicability.csv",
+      "path": "data/gold/analytical/fact_modern_method_applicability.csv"
+    },
+    {
+      "node_id": "gold_analytical:fact_overlap_restricted_sample.csv",
+      "type": "gold_analytical_table",
+      "source": "fact_overlap_restricted_sample.csv",
+      "path": "data/gold/analytical/fact_overlap_restricted_sample.csv"
+    },
+    {
+      "node_id": "reference:policy_events.csv",
+      "type": "reference_table",
+      "source": "policy_events.csv",
+      "path": "data/reference/policy_events.csv"
+    },
+    {
+      "node_id": "reference:pillar_two_jurisdiction_adoption.csv",
+      "type": "reference_table",
+      "source": "pillar_two_jurisdiction_adoption.csv",
+      "path": "data/reference/pillar_two_jurisdiction_adoption.csv"
+    },
+    {
+      "node_id": "bronze:sec/companyfacts/*.json",
+      "type": "bronze_source",
+      "source": "sec/companyfacts/*.json",
+      "description": "SEC EDGAR Company Facts"
+    },
+    {
+      "node_id": "bronze:yahoo/corporate_financials.csv",
+      "type": "bronze_source",
+      "source": "yahoo/corporate_financials.csv",
+      "description": "Yahoo Finance corporate financials"
+    },
+    {
+      "node_id": "bronze:yahoo/daily_prices.csv",
+      "type": "bronze_source",
+      "source": "yahoo/daily_prices.csv",
+      "description": "Yahoo Finance daily prices"
+    }
+  ],
+  "edges": [
+    {
+      "from": "model_result:market_did.json",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "silver:fact_market_monthly.csv",
+      "to": "bronze:yahoo/daily_prices.csv",
+      "relation": "sourced_from"
+    },
+    {
+      "from": "model_result:scm.json",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "model_result:event_study.json",
+      "to": "silver:fact_event_firm_car.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "silver:fact_event_firm_car.csv",
+      "to": "bronze:yahoo/daily_prices.csv",
+      "relation": "sourced_from"
+    },
+    {
+      "from": "model_result:exposure_event_study.json",
+      "to": "silver:fact_exposure_score.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "silver:fact_exposure_score.csv",
+      "to": "bronze:sec/companyfacts/*.json",
+      "relation": "sourced_from"
+    },
+    {
+      "from": "model_result:weighted_did.json",
+      "to": "silver:fact_exposure_score.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "model_result:revenue_mechanism.json",
+      "to": "silver:fact_firm_financial_year.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "silver:fact_firm_financial_year.csv",
+      "to": "bronze:yahoo/corporate_financials.csv",
+      "relation": "sourced_from"
+    },
+    {
+      "from": "model_result:r_gsynth_att.csv",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "model_result:r_bacon_decomposition.csv",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "model_result:r_honest_did_sensitivity.csv",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "model_result:r_grf_blp.csv",
+      "to": "silver:fact_firm_financial_year.csv",
+      "relation": "derived_from"
+    },
+    {
+      "from": "gold_analytical:fact_modern_method_applicability.csv",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "gold_analytical:fact_modern_method_applicability.csv",
+      "to": "gold_analytical:fact_overlap_restricted_sample.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "gold_analytical:fact_event_confound_screen.csv",
+      "to": "silver:fact_market_daily.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "gold_analytical:fact_event_confound_screen.csv",
+      "to": "reference:policy_events.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "gold_analytical:fact_jurisdiction_policy_timing.csv",
+      "to": "silver:fact_cbcr_jurisdiction_year.csv",
+      "relation": "context_uses"
+    },
+    {
+      "from": "gold_analytical:fact_jurisdiction_policy_timing.csv",
+      "to": "reference:pillar_two_jurisdiction_adoption.csv",
+      "relation": "context_uses"
+    },
+    {
+      "from": "gold_analytical:fact_overlap_restricted_sample.csv",
+      "to": "silver:fact_market_monthly.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "gold_analytical:fact_overlap_restricted_sample.csv",
+      "to": "silver:fact_exposure_score.csv",
+      "relation": "diagnostic_uses"
+    },
+    {
+      "from": "model_result:r_cs_did_aggregate.json",
+      "to": "gold_analytical:fact_modern_method_applicability.csv",
+      "relation": "diagnosed_by"
+    },
+    {
+      "from": "model_result:r_cs_did_att.csv",
+      "to": "gold_analytical:fact_modern_method_applicability.csv",
+      "relation": "diagnosed_by"
+    },
+    {
+      "from": "model_result:r_cs_did_event_study.csv",
+      "to": "gold_analytical:fact_modern_method_applicability.csv",
+      "relation": "diagnosed_by"
+    },
+    {
+      "from": "model_result:r_sa_did_event_study.csv",
+      "to": "gold_analytical:fact_modern_method_applicability.csv",
+      "relation": "diagnosed_by"
+    }
+  ],
+  "verified_results_source": "gold/statistical/verified/verified_model_results.json",
+  "node_count": 54,
+  "edge_count": 26,
+  "dangling_edge_count": 0,
+  "dangling_edges": []
+}

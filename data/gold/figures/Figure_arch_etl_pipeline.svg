@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 580" width="960" height="580" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#888" />
+    </marker>
+  </defs>
+  <text x="480" y="32" fill="#2F5597" font-size="17" font-weight="bold" text-anchor="middle">
+    <tspan x="480" dy="0">ETL Medallion Pipeline: Bronze to Silver to Gold to Serving</tspan>
+  </text>
+  <g>
+    <rect x="40" y="65" width="880" height="120" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="6" />
+    <text x="48" y="85" fill="#BF9000" font-weight="bold" font-size="12">BRONZE LAYER: Immutable Source Data</text>
+  </g>
+  <text x="908" y="81" fill="#666" font-size="11" font-style="italic" text-anchor="end">Raw ingest, never modified</text>
+  <g>
+    <rect x="70" y="100" width="155" height="62" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="4" />
+  </g>
+  <text x="147" y="123" fill="#8B6914" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="147" dy="0">SEC EDGAR</tspan>
+    <tspan x="147" dy="13">Company Facts</tspan>
+  </text>
+  <g>
+    <rect x="250" y="100" width="155" height="62" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="4" />
+  </g>
+  <text x="327" y="123" fill="#8B6914" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="327" dy="0">Yahoo Finance</tspan>
+    <tspan x="327" dy="13">Prices &amp; Financials</tspan>
+  </text>
+  <g>
+    <rect x="430" y="100" width="155" height="62" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="4" />
+  </g>
+  <text x="507" y="123" fill="#8B6914" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="507" dy="0">OECD</tspan>
+    <tspan x="507" dy="13">CbCR Statistics</tspan>
+  </text>
+  <g>
+    <rect x="610" y="100" width="155" height="62" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="4" />
+  </g>
+  <text x="687" y="123" fill="#8B6914" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="687" dy="0">Literature PDFs</tspan>
+    <tspan x="687" dy="13">Big Four + Academic</tspan>
+  </text>
+  <g>
+    <rect x="745" y="100" width="155" height="62" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="4" />
+  </g>
+  <text x="822" y="123" fill="#8B6914" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="822" dy="0">Policy Events</tspan>
+    <tspan x="822" dy="13">Manual Registry</tspan>
+  </text>
+  <line x1="148" y1="180" x2="148" y2="210" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="328" y1="180" x2="328" y2="210" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="508" y1="180" x2="508" y2="210" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="688" y1="180" x2="688" y2="210" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="823" y1="180" x2="823" y2="210" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <g>
+    <rect x="40" y="215" width="880" height="100" fill="#D9E2F3" stroke="#2F5597" stroke-width="2" rx="6" />
+    <text x="48" y="235" fill="#2F5597" font-weight="bold" font-size="12">SILVER LAYER: Canonical Cleaned Datasets</text>
+  </g>
+  <text x="908" y="231" fill="#666" font-size="11" font-style="italic" text-anchor="end">Star-schema dimensional model, unique keys enforced</text>
+  <g>
+    <rect x="70" y="247" width="190" height="54" fill="#F0F4FC" stroke="#4A6FA5" stroke-width="2" rx="4" />
+  </g>
+  <text x="165" y="263" fill="#2F5597" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="165" dy="0">dim_firm</tspan>
+    <tspan x="165" dy="12"> dim_date</tspan>
+    <tspan x="165" dy="12"> dim_jurisdiction</tspan>
+  </text>
+  <g>
+    <rect x="270" y="247" width="190" height="54" fill="#F0F4FC" stroke="#4A6FA5" stroke-width="2" rx="4" />
+  </g>
+  <text x="365" y="263" fill="#2F5597" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="365" dy="0">fact_market_monthly</tspan>
+    <tspan x="365" dy="12"> fact_market_daily</tspan>
+  </text>
+  <g>
+    <rect x="470" y="247" width="190" height="54" fill="#F0F4FC" stroke="#4A6FA5" stroke-width="2" rx="4" />
+  </g>
+  <text x="565" y="263" fill="#2F5597" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="565" dy="0">fact_firm_financial_year</tspan>
+    <tspan x="565" dy="12"> fact_firm_revenue_year</tspan>
+  </text>
+  <g>
+    <rect x="670" y="247" width="190" height="54" fill="#F0F4FC" stroke="#4A6FA5" stroke-width="2" rx="4" />
+  </g>
+  <text x="765" y="263" fill="#2F5597" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="765" dy="0">fact_cbcr_jurisdiction_year</tspan>
+    <tspan x="765" dy="12"> dim_policy_event</tspan>
+  </text>
+  <line x1="165" y1="310" x2="165" y2="340" stroke="#2F5597" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="365" y1="310" x2="365" y2="340" stroke="#2F5597" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="565" y1="310" x2="565" y2="340" stroke="#2F5597" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="765" y1="310" x2="765" y2="340" stroke="#2F5597" stroke-width="2" marker-end="url(#arrowhead)" />
+  <g>
+    <rect x="40" y="345" width="880" height="100" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="6" />
+    <text x="48" y="365" fill="#548235" font-weight="bold" font-size="12">GOLD LAYER: Analytical, Statistical, and Verified Results</text>
+  </g>
+  <text x="908" y="361" fill="#666" font-size="11" font-style="italic" text-anchor="end">Python/R verification and publication controls</text>
+  <g>
+    <rect x="65" y="377" width="148" height="54" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="4" />
+  </g>
+  <text x="139" y="399" fill="#385723" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="139" dy="0">Analytical</tspan>
+    <tspan x="139" dy="12">(exposure_score,</tspan>
+    <tspan x="139" dy="12"> event_CAR)</tspan>
+  </text>
+  <g>
+    <rect x="238" y="377" width="148" height="54" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="4" />
+  </g>
+  <text x="312" y="399" fill="#385723" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="312" dy="0">Statistical</tspan>
+    <tspan x="312" dy="12">(Python + R</tspan>
+    <tspan x="312" dy="12"> results)</tspan>
+  </text>
+  <g>
+    <rect x="411" y="377" width="148" height="54" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="4" />
+  </g>
+  <text x="485" y="399" fill="#385723" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="485" dy="0">Figures</tspan>
+    <tspan x="485" dy="12">(29 publication figures</tspan>
+    <tspan x="485" dy="12"> PNG + PDF)</tspan>
+  </text>
+  <g>
+    <rect x="584" y="377" width="148" height="54" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="4" />
+  </g>
+  <text x="658" y="399" fill="#385723" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="658" dy="0">Scoreboards</tspan>
+    <tspan x="658" dy="12">(assumptions +</tspan>
+    <tspan x="658" dy="12"> permitted claims)</tspan>
+  </text>
+  <g>
+    <rect x="757" y="377" width="148" height="54" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="4" />
+  </g>
+  <text x="831" y="399" fill="#385723" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="831" dy="0">Verified</tspan>
+    <tspan x="831" dy="12">(cross-checked</tspan>
+    <tspan x="831" dy="12"> Python↔R)</tspan>
+  </text>
+  <line x1="139" y1="440" x2="139" y2="470" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="312" y1="440" x2="312" y2="470" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="485" y1="440" x2="485" y2="470" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="658" y1="440" x2="658" y2="470" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="831" y1="440" x2="831" y2="470" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <g>
+    <rect x="40" y="475" width="880" height="80" fill="#F2F2F2" stroke="#666" stroke-width="2" rx="6" />
+    <text x="48" y="495" fill="#666" font-weight="bold" font-size="12">SERVING AND PUBLICATION OUTPUTS</text>
+  </g>
+  <text x="908" y="491" fill="#666" font-size="11" font-style="italic" text-anchor="end">RAG assets, validated report, diagrams, and quarantine</text>
+  <g>
+    <rect x="55" y="505" width="190" height="40" fill="#F2F2F2" stroke="#999" stroke-width="2" rx="4" />
+  </g>
+  <text x="150" y="525" fill="#444" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="150" dy="0">RAG Corpus +</tspan>
+    <tspan x="150" dy="12">Hybrid Vector Index</tspan>
+  </text>
+  <g>
+    <rect x="270" y="505" width="190" height="40" fill="#F2F2F2" stroke="#999" stroke-width="2" rx="4" />
+  </g>
+  <text x="365" y="525" fill="#444" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="365" dy="0">Citation Registry +</tspan>
+    <tspan x="365" dy="12">Evidence Graph</tspan>
+  </text>
+  <g>
+    <rect x="485" y="505" width="190" height="40" fill="#F2F2F2" stroke="#999" stroke-width="2" rx="4" />
+  </g>
+  <text x="580" y="525" fill="#444" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="580" dy="0">AI Report + Diagrams</tspan>
+    <tspan x="580" dy="12">PDF / PNG / DOCX</tspan>
+  </text>
+  <g>
+    <rect x="700" y="505" width="190" height="40" fill="#FCE4D6" stroke="#999" stroke-width="2" rx="4" />
+  </g>
+  <text x="795" y="525" fill="#444" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="795" dy="0">Quarantine</tspan>
+    <tspan x="795" dy="12">Invalid Artifacts</tspan>
+  </text>
+</svg>

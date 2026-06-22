@@ -1,0 +1,14 @@
+{
+  "model": "Restricted overlap-sample monthly return DiD",
+  "evidence_role": "diagnostic_only",
+  "causal_upgrade": false,
+  "attrition_counts": {
+    "initial_firms": 132,
+    "eligible_main_design": 72,
+    "core_covariates": 111,
+    "common_support": 0
+  },
+  "sample_rule": "eligible_for_main_design, at least two core covariates, and propensity common support",
+  "status": "not_estimated",
+  "failure_reason": "Restricted overlap sample does not contain treated and control observations in pre/post periods."
+}

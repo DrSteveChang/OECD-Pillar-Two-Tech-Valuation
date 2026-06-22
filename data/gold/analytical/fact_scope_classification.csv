@@ -1,0 +1,408 @@
+firm_id_x,Ticker,scope_year,revenue_eur,revenue_source,firm_id_y,ticker,four_year_scope_proxy,above_threshold_flag
+FIRM_APH,APH,2023,11550324000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APH,APH,1,True
+FIRM_INTU,INTU,2022,11707920000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTU,INTU,1,True
+FIRM_CSCO,CSCO,2022,47432440000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CSCO,CSCO,1,True
+FIRM_PANW,PANW,2022,5061380000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PANW,PANW,1,True
+FIRM_MU,MU,2022,28297360000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MU,MU,1,True
+FIRM_COUR,COUR,2023,584936000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_COUR,COUR,0,False
+FIRM_AAPL,AAPL,2022,362781760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AAPL,AAPL,1,True
+FIRM_LZ,LZ,2023,607868840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LZ,LZ,0,False
+FIRM_TEL,TEL,2022,14978520000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEL,TEL,1,True
+FIRM_DGII,DGII,2022,357167000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DGII,DGII,0,False
+FIRM_ADI,ADI,2022,11052836760.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ADI,ADI,1,True
+FIRM_FORM,FORM,2023,610053840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FORM,FORM,0,False
+FIRM_FIVN,FIVN,2023,837648960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FIVN,FIVN,0,True
+FIRM_RPD,RPD,2023,715490440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RPD,RPD,0,False
+FIRM_AMAT,AMAT,2022,23722200000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMAT,AMAT,1,True
+FIRM_MITK,MITK,2022,133219680.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MITK,MITK,0,False
+FIRM_LIVE,LIVE,2023,326757320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LIVE,LIVE,0,False
+FIRM_SNPS,SNPS,2022,4246456880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SNPS,SNPS,1,True
+FIRM_VNT,VNT,2022,2929648000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_VNT,VNT,1,True
+FIRM_ABNB,ABNB,2022,7727080000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ABNB,ABNB,1,True
+FIRM_AMZN,AMZN,2022,472864360000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMZN,AMZN,1,True
+FIRM_APH,APH,2022,11613160000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APH,APH,1,True
+FIRM_APPF,APPF,2022,434132360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPF,APPF,0,False
+FIRM_GOOGL,GOOGL,2022,260209120000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GOOGL,GOOGL,1,True
+FIRM_LRCX,LRCX,2022,15848875880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LRCX,LRCX,1,True
+FIRM_GOOGL,GOOGL,2023,282802480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GOOGL,GOOGL,1,True
+FIRM_INTC,INTC,2022,58009680000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTC,INTC,1,True
+FIRM_META,META,2022,107280280000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_META,META,1,True
+FIRM_NOW,NOW,2022,6665400000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NOW,NOW,1,True
+FIRM_WK,WK,2023,579635880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_WK,WK,0,False
+FIRM_AVGO,AVGO,2022,30546760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AVGO,AVGO,1,True
+FIRM_NXPI,NXPI,2023,12213920000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NXPI,NXPI,1,True
+FIRM_AMD,AMD,2022,21712920000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMD,AMD,1,True
+FIRM_SCSC,SCSC,2022,3247540200.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCSC,SCSC,1,True
+FIRM_QNST,QNST,2023,534174080.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_QNST,QNST,0,False
+FIRM_QNST,QNST,2022,535531080.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_QNST,QNST,0,False
+FIRM_AXTI,AXTI,2021,126401560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AXTI,AXTI,0,False
+FIRM_PD,PD,2022,258884320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PD,PD,0,False
+FIRM_SCOR,SCOR,2021,337651960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCOR,SCOR,0,False
+FIRM_DOCN,DOCN,2023,637453280.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DOCN,DOCN,0,False
+FIRM_ATEN,ATEN,2021,230038640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ATEN,ATEN,0,False
+FIRM_ENVX,ENVX,2022,0.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ENVX,ENVX,0,False
+FIRM_AXTI,AXTI,2022,129828560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AXTI,AXTI,0,False
+FIRM_XMTR,XMTR,2021,200869120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_XMTR,XMTR,0,False
+FIRM_BAND,BAND,2021,451634440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BAND,BAND,0,False
+FIRM_TENB,TENB,2021,497839600.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TENB,TENB,0,False
+FIRM_TWLO,TWLO,2021,2614491880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TWLO,TWLO,1,True
+FIRM_FTNT,FTNT,2021,3074824000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FTNT,FTNT,1,True
+FIRM_RPD,RPD,2021,492571680.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RPD,RPD,0,False
+FIRM_SMSI,SMSI,2022,44631960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SMSI,SMSI,0,False
+FIRM_LZ,LZ,2021,529073600.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LZ,LZ,0,False
+FIRM_MSI,MSI,2022,8383040000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSI,MSI,1,True
+FIRM_TLS,TLS,2022,199536040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TLS,TLS,0,False
+FIRM_GTLB,GTLB,2022,232440760.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GTLB,GTLB,0,False
+FIRM_TEAM,TEAM,2022,2578651440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEAM,TEAM,0,True
+FIRM_KLAC,KLAC,2022,8474932360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLAC,KLAC,1,True
+FIRM_MSFT,MSFT,2022,182408400000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSFT,MSFT,1,True
+FIRM_ORCL,ORCL,2022,39044800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ORCL,ORCL,1,True
+FIRM_MCHP,MCHP,2022,6275228000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MCHP,MCHP,1,True
+FIRM_RAMP,RAMP,2022,486364440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RAMP,RAMP,0,False
+FIRM_MITK,MITK,2021,110213240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MITK,MITK,0,False
+FIRM_AGYS,AGYS,2022,149625120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AGYS,AGYS,0,False
+FIRM_LOGI,LOGI,2022,5042612920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LOGI,LOGI,1,True
+FIRM_API,API,2021,154543440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_API,API,0,False
+FIRM_CHKP,CHKP,2021,1993456000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CHKP,CHKP,1,True
+FIRM_XMTR,XMTR,2023,426333520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_XMTR,XMTR,0,False
+FIRM_DSS,DSS,2022,43522440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DSS,DSS,0,False
+FIRM_ALIT,ALIT,2023,2195120000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ALIT,ALIT,0,True
+FIRM_EGHT,EGHT,2022,587079600.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_EGHT,EGHT,0,False
+FIRM_FORM,FORM,2021,708100080.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FORM,FORM,0,False
+FIRM_TXN,TXN,2022,18425760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TXN,TXN,1,True
+FIRM_SPSC,SPSC,2022,414805000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SPSC,SPSC,0,False
+FIRM_RAMP,RAMP,2023,548856360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RAMP,RAMP,0,False
+FIRM_EGHT,EGHT,2023,684422960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_EGHT,EGHT,0,False
+FIRM_AGYS,AGYS,2023,182219800.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AGYS,AGYS,0,False
+FIRM_LOGI,LOGI,2023,4175712560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LOGI,LOGI,1,True
+FIRM_MCHP,MCHP,2023,7763604000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MCHP,MCHP,1,True
+FIRM_ORCL,ORCL,2023,45957680000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ORCL,ORCL,1,True
+FIRM_MSFT,MSFT,2023,194961800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSFT,MSFT,1,True
+FIRM_KLAC,KLAC,2023,9656371520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLAC,KLAC,1,True
+FIRM_LRCX,LRCX,2023,16034234720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LRCX,LRCX,1,True
+FIRM_TEAM,TEAM,2023,3251875240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEAM,TEAM,0,True
+FIRM_SCSC,SCSC,2023,3484703320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCSC,SCSC,1,True
+FIRM_PANW,PANW,2023,6341284000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PANW,PANW,1,True
+FIRM_CSCO,CSCO,2023,52438160000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CSCO,CSCO,1,True
+FIRM_INTU,INTU,2023,13218560000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTU,INTU,1,True
+FIRM_MU,MU,2023,14296800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MU,MU,1,True
+FIRM_VNT,VNT,2023,2847584000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_VNT,VNT,1,True
+FIRM_AAPL,AAPL,2023,352622200000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AAPL,AAPL,1,True
+FIRM_NOW,NOW,2023,8253320000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NOW,NOW,1,True
+FIRM_META,META,2023,124109840000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_META,META,1,True
+FIRM_INTC,INTC,2023,49889760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTC,INTC,1,True
+FIRM_TXN,TXN,2023,16117480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TXN,TXN,1,True
+FIRM_SNPS,SNPS,2023,4892572880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SNPS,SNPS,1,True
+FIRM_AVGO,AVGO,2023,32953480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AVGO,AVGO,1,True
+FIRM_API,API,2022,147816400.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_API,API,0,False
+FIRM_AMAT,AMAT,2023,24395640000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMAT,AMAT,1,True
+FIRM_MITK,MITK,2023,158747840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MITK,MITK,0,False
+FIRM_ADI,ADI,2023,11321095880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ADI,ADI,1,True
+FIRM_ABNB,ABNB,2023,9123640000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ABNB,ABNB,1,True
+FIRM_DGII,DGII,2023,409261080.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DGII,DGII,0,False
+FIRM_TEL,TEL,2023,14751280000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEL,TEL,1,True
+FIRM_MSI,MSI,2023,9179760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSI,MSI,1,True
+FIRM_AMZN,AMZN,2023,528802200000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMZN,AMZN,1,True
+FIRM_DSS,DSS,2023,23858360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DSS,DSS,0,False
+FIRM_SPSC,SPSC,2023,493957200.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SPSC,SPSC,0,False
+FIRM_GTLB,GTLB,2023,390389120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GTLB,GTLB,0,False
+FIRM_WK,WK,2022,494845000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_WK,WK,0,False
+FIRM_TENB,TENB,2022,628535720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TENB,TENB,0,False
+FIRM_ROP,ROP,2022,4942056000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ROP,ROP,1,True
+FIRM_COUR,COUR,2022,481855520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_COUR,COUR,0,False
+FIRM_FTNT,FTNT,2022,4064008000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FTNT,FTNT,1,True
+FIRM_FORM,FORM,2022,688102040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FORM,FORM,0,False
+FIRM_ATEN,ATEN,2022,257910960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ATEN,ATEN,0,False
+FIRM_BL,BL,2022,481102960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BL,BL,0,False
+FIRM_FIVN,FIVN,2022,716538320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FIVN,FIVN,0,False
+FIRM_KLTR,KLTR,2022,155306120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLTR,KLTR,0,False
+FIRM_AMPL,AMPL,2022,219021640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMPL,AMPL,0,False
+FIRM_BAND,BAND,2022,527299840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BAND,BAND,0,False
+FIRM_LAW,LAW,2023,127042800.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LAW,LAW,0,False
+FIRM_NXPI,NXPI,2022,12148600000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NXPI,NXPI,1,True
+FIRM_CDNS,CDNS,2022,3276780560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CDNS,CDNS,0,True
+FIRM_APPN,APPN,2022,430551720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPN,APPN,0,False
+FIRM_BAND,BAND,2023,553027640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BAND,BAND,0,False
+FIRM_XMTR,XMTR,2022,350447320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_XMTR,XMTR,0,False
+FIRM_PD,PD,2023,341129560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PD,PD,0,False
+FIRM_CHKP,CHKP,2022,2143508000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CHKP,CHKP,1,True
+FIRM_CDNS,CDNS,2023,3762787120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CDNS,CDNS,0,True
+FIRM_AMPL,AMPL,2023,254181280.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMPL,AMPL,0,False
+FIRM_SMSI,SMSI,2023,37593040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SMSI,SMSI,0,False
+FIRM_TLS,TLS,2023,133747760.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TLS,TLS,0,False
+FIRM_DOCN,DOCN,2022,530216240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DOCN,DOCN,0,False
+FIRM_SCOR,SCOR,2022,346309160.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCOR,SCOR,0,False
+FIRM_ALIT,ALIT,2022,2030440000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ALIT,ALIT,0,True
+FIRM_STM,STM,2022,14837760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_STM,STM,1,True
+FIRM_DCO,DCO,2022,655534040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DCO,DCO,0,False
+FIRM_TWLO,TWLO,2022,3520215320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TWLO,TWLO,1,True
+FIRM_LZ,LZ,2022,570380680.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LZ,LZ,0,False
+FIRM_APPN,APPN,2023,501733960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPN,APPN,0,False
+FIRM_RPD,RPD,2022,630276360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RPD,RPD,0,False
+FIRM_AMD,AMD,2023,20865600000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMD,AMD,1,True
+FIRM_BL,BL,2021,391649520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BL,BL,0,False
+FIRM_FIVN,FIVN,2021,560823720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FIVN,FIVN,0,False
+FIRM_TXN,TXN,2020,13304120000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TXN,TXN,1,True
+FIRM_AMZN,AMZN,2020,355178880000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMZN,AMZN,1,True
+FIRM_GOOGL,GOOGL,2020,167924840000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GOOGL,GOOGL,1,True
+FIRM_APH,APH,2020,7910988000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APH,APH,1,True
+FIRM_APPF,APPF,2020,285251520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPF,APPF,0,False
+FIRM_CDNS,CDNS,2021,2468259720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CDNS,CDNS,0,True
+FIRM_DCO,DCO,2020,578625720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DCO,DCO,0,False
+FIRM_AMPL,AMPL,2020,94266880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMPL,AMPL,0,False
+FIRM_APPN,APPN,2020,280207160.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPN,APPN,0,False
+FIRM_MSI,MSI,2020,6820880000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSI,MSI,1,True
+FIRM_VNT,VNT,2020,2488232000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_VNT,VNT,1,True
+FIRM_ABNB,ABNB,2020,3107760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ABNB,ABNB,1,True
+FIRM_WK,WK,2020,323466480.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_WK,WK,0,False
+FIRM_SPSC,SPSC,2020,287619600.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SPSC,SPSC,0,False
+FIRM_DOCN,DOCN,2020,292909600.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DOCN,DOCN,0,False
+FIRM_STM,STM,2020,9401480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_STM,STM,1,True
+FIRM_BL,BL,2020,323598040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BL,BL,0,False
+FIRM_TENB,TENB,2023,734813200.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TENB,TENB,0,False
+FIRM_ATEN,ATEN,2020,207484840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ATEN,ATEN,0,False
+FIRM_ROP,ROP,2020,3700608000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ROP,ROP,1,True
+FIRM_TWLO,TWLO,2020,1620833920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TWLO,TWLO,1,True
+FIRM_AMD,AMD,2020,8981960000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMD,AMD,1,True
+FIRM_KLTR,KLTR,2020,110804800.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLTR,KLTR,0,False
+FIRM_META,META,2020,79087800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_META,META,1,True
+FIRM_TENB,TENB,2020,405003320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TENB,TENB,0,False
+FIRM_LAW,LAW,2021,105194640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LAW,LAW,0,False
+FIRM_FORM,FORM,2020,638126720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FORM,FORM,0,False
+FIRM_RPD,RPD,2020,378567120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RPD,RPD,0,False
+FIRM_FIVN,FIVN,2020,400115360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FIVN,FIVN,0,False
+FIRM_BAND,BAND,2020,315663960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BAND,BAND,0,False
+FIRM_COUR,COUR,2020,270030120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_COUR,COUR,0,False
+FIRM_FTNT,FTNT,2020,2386848000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FTNT,FTNT,1,True
+FIRM_NOW,NOW,2020,4157480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NOW,NOW,1,True
+FIRM_INTC,INTC,2020,71637640000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTC,INTC,1,True
+FIRM_KLTR,KLTR,2023,161158240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLTR,KLTR,0,False
+FIRM_KLAC,KLAC,2020,5341910080.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLAC,KLAC,1,True
+FIRM_MSFT,MSFT,2020,131573800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSFT,MSFT,1,True
+FIRM_ORCL,ORCL,2020,35942560000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ORCL,ORCL,1,True
+FIRM_EGHT,EGHT,2020,410538040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_EGHT,EGHT,0,False
+FIRM_RAMP,RAMP,2020,350126240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RAMP,RAMP,0,False
+FIRM_AGYS,AGYS,2020,147896440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AGYS,AGYS,0,False
+FIRM_QNST,QNST,2020,451111880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_QNST,QNST,0,False
+FIRM_MCHP,MCHP,2020,4852264000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MCHP,MCHP,1,True
+FIRM_GTLB,GTLB,2020,74728840.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GTLB,GTLB,0,False
+FIRM_DSS,DSS,2020,14136720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DSS,DSS,0,False
+FIRM_PD,PD,2020,153042920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PD,PD,0,False
+FIRM_SMSI,SMSI,2020,47196000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SMSI,SMSI,0,False
+FIRM_ALIT,ALIT,2020,2509760000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ALIT,ALIT,0,True
+FIRM_LAW,LAW,2020,62968480.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LAW,LAW,0,False
+FIRM_LOGI,LOGI,2020,2737782920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LOGI,LOGI,1,True
+FIRM_ENVX,ENVX,2020,0.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ENVX,ENVX,0,False
+FIRM_SCSC,SCSC,2020,2803915280.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCSC,SCSC,1,True
+FIRM_INTU,INTU,2020,7064680000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTU,INTU,1,True
+FIRM_AVGO,AVGO,2020,21976960000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AVGO,AVGO,1,True
+FIRM_AXTI,AXTI,2023,69731400.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AXTI,AXTI,0,False
+FIRM_AMAT,AMAT,2020,15825840000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMAT,AMAT,1,True
+FIRM_SCOR,SCOR,2023,341635560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCOR,SCOR,0,False
+FIRM_SNPS,SNPS,2020,3390458520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SNPS,SNPS,1,True
+FIRM_DGII,DGII,2020,256929320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DGII,DGII,0,False
+FIRM_LRCX,LRCX,2020,9241157120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LRCX,LRCX,1,True
+FIRM_ADI,ADI,2020,5154811520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ADI,ADI,1,True
+FIRM_CHKP,CHKP,2023,2221524000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CHKP,CHKP,1,True
+FIRM_AAPL,AAPL,2020,252553800000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AAPL,AAPL,1,True
+FIRM_API,API,2023,130214960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_API,API,0,False
+FIRM_MU,MU,2020,19720200000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MU,MU,1,True
+FIRM_CSCO,CSCO,2020,45356920000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CSCO,CSCO,1,True
+FIRM_PANW,PANW,2020,3135728000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PANW,PANW,1,True
+FIRM_TEL,TEL,2020,11198240000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEL,TEL,1,True
+FIRM_STM,STM,2021,11740120000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_STM,STM,1,True
+FIRM_NXPI,NXPI,2020,7923040000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NXPI,NXPI,1,True
+FIRM_SCOR,SCOR,2020,327553120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCOR,SCOR,0,False
+FIRM_DGII,DGII,2021,283941440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DGII,DGII,0,False
+FIRM_SNPS,SNPS,2021,3867857560.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SNPS,SNPS,1,True
+FIRM_AVGO,AVGO,2021,25254000000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AVGO,AVGO,1,True
+FIRM_FTNT,FTNT,2023,4880416000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_FTNT,FTNT,1,True
+FIRM_AMAT,AMAT,2021,21217960000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMAT,AMAT,1,True
+FIRM_ROP,ROP,2023,5683576000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ROP,ROP,1,True
+FIRM_LIVE,LIVE,2022,263959960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LIVE,LIVE,0,False
+FIRM_TWLO,TWLO,2023,3821629400.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TWLO,TWLO,1,True
+FIRM_NOW,NOW,2021,5424320000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NOW,NOW,1,True
+FIRM_INTC,INTC,2021,72702080000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTC,INTC,1,True
+FIRM_AMD,AMD,2021,15119280000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMD,AMD,1,True
+FIRM_GOOGL,GOOGL,2021,237026040000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GOOGL,GOOGL,1,True
+FIRM_APPF,APPF,2021,330620400.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPF,APPF,0,False
+FIRM_META,META,2021,108494680000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_META,META,1,True
+FIRM_AMZN,AMZN,2021,432236240000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMZN,AMZN,1,True
+FIRM_TXN,TXN,2021,16876480000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TXN,TXN,1,True
+FIRM_APH,APH,2021,10006196000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APH,APH,1,True
+FIRM_LAW,LAW,2022,124374800.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LAW,LAW,0,False
+FIRM_KLTR,KLTR,2021,151814720.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLTR,KLTR,0,False
+FIRM_COUR,COUR,2021,382064040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_COUR,COUR,0,False
+FIRM_DCO,DCO,2021,593779960.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DCO,DCO,0,False
+FIRM_NXPI,NXPI,2021,10177960000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_NXPI,NXPI,1,True
+FIRM_ROP,ROP,2021,4447096000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ROP,ROP,1,True
+FIRM_LZ,LZ,2020,432985120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LZ,LZ,0,False
+FIRM_SPSC,SPSC,2021,354453920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SPSC,SPSC,0,False
+FIRM_WK,WK,2021,407822200.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_WK,WK,0,False
+FIRM_AMPL,AMPL,2021,153880120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AMPL,AMPL,0,False
+FIRM_ABNB,ABNB,2021,5512640000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ABNB,ABNB,1,True
+FIRM_MSI,MSI,2021,7517320000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSI,MSI,1,True
+FIRM_APPN,APPN,2021,339718280.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPN,APPN,0,False
+FIRM_VNT,VNT,2021,2751444000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_VNT,VNT,1,True
+FIRM_DOCN,DOCN,2021,394276120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DOCN,DOCN,0,False
+FIRM_TEL,TEL,2021,13729160000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEL,TEL,1,True
+FIRM_ADI,ADI,2021,6732823120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ADI,ADI,1,True
+FIRM_ATEN,ATEN,2023,231564000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ATEN,ATEN,0,False
+FIRM_LOGI,LOGI,2021,4832096680.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LOGI,LOGI,1,True
+FIRM_CHKP,CHKP,2020,1899708000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CHKP,CHKP,1,True
+FIRM_API,API,2020,122878880.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_API,API,0,False
+FIRM_STM,STM,2023,15903120000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_STM,STM,1,True
+FIRM_DSS,DSS,2021,18653000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DSS,DSS,0,False
+FIRM_GTLB,GTLB,2021,140001920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_GTLB,GTLB,0,False
+FIRM_AGYS,AGYS,2021,126201920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AGYS,AGYS,0,False
+FIRM_SMSI,SMSI,2021,53748240.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SMSI,SMSI,0,False
+FIRM_DCO,DCO,2023,696432640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_DCO,DCO,0,False
+FIRM_TLS,TLS,2020,165523640.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TLS,TLS,0,False
+FIRM_PD,PD,2021,196471520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PD,PD,0,False
+FIRM_XMTR,XMTR,2020,130093520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_XMTR,XMTR,0,False
+FIRM_TLS,TLS,2021,223038360.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TLS,TLS,0,False
+FIRM_BL,BL,2023,542796320.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_BL,BL,0,False
+FIRM_AXTI,AXTI,2020,87732120.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AXTI,AXTI,0,False
+FIRM_AAPL,AAPL,2021,336551640000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_AAPL,AAPL,1,True
+FIRM_RAMP,RAMP,2021,407583920.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_RAMP,RAMP,0,False
+FIRM_MCHP,MCHP,2021,5003328000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MCHP,MCHP,1,True
+FIRM_ENVX,ENVX,2023,7032480.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ENVX,ENVX,0,False
+FIRM_MU,MU,2021,25488600000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MU,MU,1,True
+FIRM_CSCO,CSCO,2021,45832560000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_CSCO,CSCO,1,True
+FIRM_INTU,INTU,2021,8862360000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_INTU,INTU,1,True
+FIRM_PANW,PANW,2021,3915612000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_PANW,PANW,1,True
+FIRM_EGHT,EGHT,2021,489756480.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_EGHT,EGHT,0,False
+FIRM_SCSC,SCSC,2021,2898741520.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_SCSC,SCSC,1,True
+FIRM_TEAM,TEAM,2021,1922001440.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_TEAM,TEAM,0,True
+FIRM_LRCX,LRCX,2021,13456058000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_LRCX,LRCX,1,True
+FIRM_KLAC,KLAC,2021,6365235280.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_KLAC,KLAC,1,True
+FIRM_MITK,MITK,2020,93205200.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MITK,MITK,0,False
+FIRM_MSFT,MSFT,2021,154640960000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_MSFT,MSFT,1,True
+FIRM_ORCL,ORCL,2021,37240680000.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_ORCL,ORCL,1,True
+FIRM_QNST,QNST,2021,532208040.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_QNST,QNST,0,False
+FIRM_APPF,APPF,2023,570809400.0,SEC Company Facts:RevenueFromContractWithCustomerExcludingAssessedTax,FIRM_APPF,APPF,0,False
+FIRM_AUDC,AUDC,2023,224832360.0,SEC Company Facts:Revenues,FIRM_AUDC,AUDC,0,False
+FIRM_IBM,IBM,2023,56911200000.0,SEC Company Facts:Revenues,FIRM_IBM,IBM,1,True
+FIRM_CLSK,CLSK,2020,9226404.92,SEC Company Facts:Revenues,FIRM_CLSK,CLSK,0,False
+FIRM_CIEN,CIEN,2023,4035625080.0,SEC Company Facts:Revenues,FIRM_CIEN,CIEN,1,True
+FIRM_ADBE,ADBE,2021,14522200000.0,SEC Company Facts:Revenues,FIRM_ADBE,ADBE,1,True
+FIRM_CIEN,CIEN,2021,3331029280.0,SEC Company Facts:Revenues,FIRM_CIEN,CIEN,1,True
+FIRM_ASYS,ASYS,2021,78388600.0,SEC Company Facts:Revenues,FIRM_ASYS,ASYS,0,False
+FIRM_QCOM,QCOM,2021,30880720000.0,SEC Company Facts:Revenues,FIRM_QCOM,QCOM,1,True
+FIRM_ACN,ACN,2021,46490717880.0,SEC Company Facts:Revenues,FIRM_ACN,ACN,1,True
+FIRM_AUDC,AUDC,2020,203112080.0,SEC Company Facts:Revenues,FIRM_AUDC,AUDC,0,False
+FIRM_DBD,DBD,2020,3590116000.0,SEC Company Facts:Revenues,FIRM_DBD,DBD,0,True
+FIRM_TCX,TCX,2020,286305840.0,SEC Company Facts:Revenues,FIRM_TCX,TCX,0,False
+FIRM_IBM,IBM,2020,50764680000.0,SEC Company Facts:Revenues,FIRM_IBM,IBM,1,True
+FIRM_ADBE,ADBE,2020,11838560000.0,SEC Company Facts:Revenues,FIRM_ADBE,ADBE,1,True
+FIRM_CIEN,CIEN,2020,3249584440.0,SEC Company Facts:Revenues,FIRM_CIEN,CIEN,1,True
+FIRM_ASYS,ASYS,2020,60225960.0,SEC Company Facts:Revenues,FIRM_ASYS,ASYS,0,False
+FIRM_QCOM,QCOM,2020,21648520000.0,SEC Company Facts:Revenues,FIRM_QCOM,QCOM,1,True
+FIRM_ACN,ACN,2020,40780875880.0,SEC Company Facts:Revenues,FIRM_ACN,ACN,1,True
+FIRM_ADBE,ADBE,2023,17856280000.0,SEC Company Facts:Revenues,FIRM_ADBE,ADBE,1,True
+FIRM_IBM,IBM,2021,52762000000.0,SEC Company Facts:Revenues,FIRM_IBM,IBM,1,True
+FIRM_DBD,DBD,2021,3592784000.0,SEC Company Facts:Revenues,FIRM_DBD,DBD,0,True
+FIRM_CLSK,CLSK,2021,36144136.6,SEC Company Facts:Revenues,FIRM_CLSK,CLSK,0,False
+FIRM_TCX,TCX,2021,279990040.0,SEC Company Facts:Revenues,FIRM_TCX,TCX,0,False
+FIRM_AUDC,AUDC,2021,229006400.0,SEC Company Facts:Revenues,FIRM_AUDC,AUDC,0,False
+FIRM_CLSK,CLSK,2023,154935360.0,SEC Company Facts:Revenues,FIRM_CLSK,CLSK,0,False
+FIRM_QCOM,QCOM,2023,32954400000.0,SEC Company Facts:Revenues,FIRM_QCOM,QCOM,1,True
+FIRM_AUDC,AUDC,2022,253085560.0,SEC Company Facts:Revenues,FIRM_AUDC,AUDC,0,False
+FIRM_TCX,TCX,2022,295450640.0,SEC Company Facts:Revenues,FIRM_TCX,TCX,0,False
+FIRM_TCX,TCX,2023,312190040.0,SEC Company Facts:Revenues,FIRM_TCX,TCX,0,False
+FIRM_DBD,DBD,2022,3183844000.0,SEC Company Facts:Revenues,FIRM_DBD,DBD,0,True
+FIRM_ACN,ACN,2023,58982805400.0,SEC Company Facts:Revenues,FIRM_ACN,ACN,1,True
+FIRM_ADBE,ADBE,2022,16197520000.0,SEC Company Facts:Revenues,FIRM_ADBE,ADBE,1,True
+FIRM_CIEN,CIEN,2022,3342048120.0,SEC Company Facts:Revenues,FIRM_CIEN,CIEN,1,True
+FIRM_ASYS,ASYS,2022,97794160.0,SEC Company Facts:Revenues,FIRM_ASYS,ASYS,0,False
+FIRM_ASYS,ASYS,2023,104249800.0,SEC Company Facts:Revenues,FIRM_ASYS,ASYS,0,False
+FIRM_CLSK,CLSK,2022,121003000.0,SEC Company Facts:Revenues,FIRM_CLSK,CLSK,0,False
+FIRM_QCOM,QCOM,2022,40664000000.0,SEC Company Facts:Revenues,FIRM_QCOM,QCOM,1,True
+FIRM_IBM,IBM,2022,55687600000.0,SEC Company Facts:Revenues,FIRM_IBM,IBM,1,True
+FIRM_ACN,ACN,2022,56666760600.0,SEC Company Facts:Revenues,FIRM_ACN,ACN,1,True
+FIRM_PLTR,PLTR,2022,1753401320.0,Yahoo annual income statement,FIRM_PLTR,PLTR,0,True
+FIRM_PEGA,PEGA,2023,1318006720.0,Yahoo annual income statement,FIRM_PEGA,PEGA,0,True
+FIRM_PEGA,PEGA,2022,1212417400.0,Yahoo annual income statement,FIRM_PEGA,PEGA,0,True
+FIRM_PCTY,PCTY,2023,1080630160.0,Yahoo annual income statement,FIRM_PCTY,PCTY,0,True
+FIRM_PAYC,PAYC,2022,1265184000.0,Yahoo annual income statement,FIRM_PAYC,PAYC,0,True
+FIRM_PAYC,PAYC,2023,1558204000.0,Yahoo annual income statement,FIRM_PAYC,PAYC,0,True
+FIRM_PLTR,PLTR,2023,2047011040.0,Yahoo annual income statement,FIRM_PLTR,PLTR,0,True
+FIRM_PCTY,PCTY,2022,784438920.0,Yahoo annual income statement,FIRM_PCTY,PCTY,0,True
+FIRM_PRVA,PRVA,2023,1525118040.0,Yahoo annual income statement,FIRM_PRVA,PRVA,0,True
+FIRM_PYPL,PYPL,2022,25316560000.0,Yahoo annual income statement,FIRM_PYPL,PYPL,0,True
+FIRM_PYPL,PYPL,2023,27389320000.0,Yahoo annual income statement,FIRM_PYPL,PYPL,0,True
+FIRM_RNG,RNG,2022,1829263600.0,Yahoo annual income statement,FIRM_RNG,RNG,0,True
+FIRM_RNG,RNG,2023,2026234680.0,Yahoo annual income statement,FIRM_RNG,RNG,0,True
+FIRM_PRVA,PRVA,2022,1248127200.0,Yahoo annual income statement,FIRM_PRVA,PRVA,0,True
+FIRM_NVDA,NVDA,2023,24816080000.0,Yahoo annual income statement,FIRM_NVDA,NVDA,0,True
+FIRM_MCW,MCW,2022,806385520.0,Yahoo annual income statement,FIRM_MCW,MCW,0,True
+FIRM_MCW,MCW,2023,852904400.0,Yahoo annual income statement,FIRM_MCW,MCW,0,True
+FIRM_MDB,MDB,2023,1181316800.0,Yahoo annual income statement,FIRM_MDB,MDB,0,True
+FIRM_SAP,SAP,2022,29519000000.0,Yahoo annual income statement,FIRM_SAP,SAP,0,True
+FIRM_MNDY,MNDY,2022,477506680.0,Yahoo annual income statement,FIRM_MNDY,MNDY,0,False
+FIRM_MNDY,MNDY,2023,671319400.0,Yahoo annual income statement,FIRM_MNDY,MNDY,0,False
+FIRM_NCNO,NCNO,2023,375649800.0,Yahoo annual income statement,FIRM_NCNO,NCNO,0,False
+FIRM_NET,NET,2022,897221720.0,Yahoo annual income statement,FIRM_NET,NET,0,True
+FIRM_NET,NET,2023,1193005400.0,Yahoo annual income statement,FIRM_NET,NET,0,True
+FIRM_SAP,SAP,2023,31207000000.0,Yahoo annual income statement,FIRM_SAP,SAP,0,True
+FIRM_U,U,2023,2012331640.0,Yahoo annual income statement,FIRM_U,U,0,True
+FIRM_UBER,UBER,2022,29326840000.0,Yahoo annual income statement,FIRM_UBER,UBER,0,True
+FIRM_UBER,UBER,2023,34298520000.0,Yahoo annual income statement,FIRM_UBER,UBER,0,True
+FIRM_UDMY,UDMY,2022,578769240.0,Yahoo annual income statement,FIRM_UDMY,UDMY,0,False
+FIRM_UDMY,UDMY,2023,670622040.0,Yahoo annual income statement,FIRM_UDMY,UDMY,0,False
+FIRM_VRNS,VRNS,2022,435743280.0,Yahoo annual income statement,FIRM_VRNS,VRNS,0,False
+FIRM_VRNS,VRNS,2023,459227200.0,Yahoo annual income statement,FIRM_VRNS,VRNS,0,False
+FIRM_WDAY,WDAY,2023,5718720000.0,Yahoo annual income statement,FIRM_WDAY,WDAY,0,True
+FIRM_WIT,WIT,2023,9953636000.0,Yahoo annual income statement,FIRM_WIT,WIT,0,True
+FIRM_U,U,2022,1279742080.0,Yahoo annual income statement,FIRM_U,U,0,True
+FIRM_YEXT,YEXT,2023,368782000.0,Yahoo annual income statement,FIRM_YEXT,YEXT,0,False
+FIRM_ZS,ZS,2022,1003670320.0,Yahoo annual income statement,FIRM_ZS,ZS,0,True
+FIRM_ZS,ZS,2023,1487595840.0,Yahoo annual income statement,FIRM_ZS,ZS,0,True
+FIRM_TSM,TSM,2022,65652847700.0,Yahoo annual income statement,FIRM_TSM,TSM,0,True
+FIRM_TSM,TSM,2023,62690338200.0,Yahoo annual income statement,FIRM_TSM,TSM,0,True
+FIRM_WIT,WIT,2022,8700274000.0,Yahoo annual income statement,FIRM_WIT,WIT,0,True
+FIRM_CMBM,CMBM,2022,273147080.0,Yahoo annual income statement,FIRM_CMBM,CMBM,0,False
+FIRM_CMBM,CMBM,2023,202579400.0,Yahoo annual income statement,FIRM_CMBM,CMBM,0,False
+FIRM_SEAC,SEAC,2022,25125200.0,Yahoo annual income statement,FIRM_SEAC,SEAC,0,False
+FIRM_SEAC,SEAC,2023,29893560.0,Yahoo annual income statement,FIRM_SEAC,SEAC,0,False
+FIRM_SHOP,SHOP,2022,5152000000.0,Yahoo annual income statement,FIRM_SHOP,SHOP,0,True
+FIRM_SHOP,SHOP,2023,6495200000.0,Yahoo annual income statement,FIRM_SHOP,SHOP,0,True
+FIRM_SNOW,SNOW,2023,1900406280.0,Yahoo annual income statement,FIRM_SNOW,SNOW,0,True
+FIRM_GPRO,GPRO,2022,1006057720.0,Yahoo annual income statement,FIRM_GPRO,GPRO,0,True
+FIRM_ASAN,ASAN,2023,503435040.0,Yahoo annual income statement,FIRM_ASAN,ASAN,0,False
+FIRM_ASML,ASML,2022,21173400000.0,Yahoo annual income statement,FIRM_ASML,ASML,0,True
+FIRM_ASML,ASML,2023,27558500000.0,Yahoo annual income statement,FIRM_ASML,ASML,0,True
+FIRM_AWRE,AWRE,2022,14727360.0,Yahoo annual income statement,FIRM_AWRE,AWRE,0,False
+FIRM_AWRE,AWRE,2023,16784480.0,Yahoo annual income statement,FIRM_AWRE,AWRE,0,False
+FIRM_BIRD,BIRD,2022,273944720.0,Yahoo annual income statement,FIRM_BIRD,BIRD,0,False
+FIRM_BIRD,BIRD,2023,233739800.0,Yahoo annual income statement,FIRM_BIRD,BIRD,0,False
+FIRM_BOX,BOX,2023,911604080.0,Yahoo annual income statement,FIRM_BOX,BOX,0,True
+FIRM_CALX,CALX,2022,798400840.0,Yahoo annual income statement,FIRM_CALX,CALX,0,True
+FIRM_CALX,CALX,2023,956425560.0,Yahoo annual income statement,FIRM_CALX,CALX,0,True
+FIRM_CEVA,CEVA,2022,110936360.0,Yahoo annual income statement,FIRM_CEVA,CEVA,0,False
+FIRM_CEVA,CEVA,2023,89625480.0,Yahoo annual income statement,FIRM_CEVA,CEVA,0,False
+FIRM_ALRM,ALRM,2023,811147440.0,Yahoo annual income statement,FIRM_ALRM,ALRM,0,True
+FIRM_ALRM,ALRM,2022,775154280.0,Yahoo annual income statement,FIRM_ALRM,ALRM,0,True
+FIRM_ESTC,ESTC,2023,983469880.0,Yahoo annual income statement,FIRM_ESTC,ESTC,0,True
+FIRM_FSLY,FSLY,2022,398107000.0,Yahoo annual income statement,FIRM_FSLY,FSLY,0,False
+FIRM_FSLY,FSLY,2023,465508960.0,Yahoo annual income statement,FIRM_FSLY,FSLY,0,False
+FIRM_GPRO,GPRO,2023,925022280.0,Yahoo annual income statement,FIRM_GPRO,GPRO,0,True
+FIRM_HUBS,HUBS,2022,1592491480.0,Yahoo annual income statement,FIRM_HUBS,HUBS,0,True
+FIRM_HUBS,HUBS,2023,1996611600.0,Yahoo annual income statement,FIRM_HUBS,HUBS,0,True
+FIRM_INFY,INFY,2023,16755040000.0,Yahoo annual income statement,FIRM_INFY,INFY,0,True
+FIRM_INTT,INTT,2022,107481760.0,Yahoo annual income statement,FIRM_INTT,INTT,0,False
+FIRM_INTT,INTT,2023,113437840.0,Yahoo annual income statement,FIRM_INTT,INTT,0,False
+FIRM_DOMO,DOMO,2023,283953400.0,Yahoo annual income statement,FIRM_DOMO,DOMO,0,False
+FIRM_COGN,COGN,2021,0.0,Yahoo annual income statement,FIRM_COGN,COGN,0,False
+FIRM_COGN,COGN,2022,0.0,Yahoo annual income statement,FIRM_COGN,COGN,0,False
+FIRM_COHU,COHU,2022,747753000.0,Yahoo annual income statement,FIRM_COHU,COHU,0,False
+FIRM_COHU,COHU,2023,585416240.0,Yahoo annual income statement,FIRM_COHU,COHU,0,False
+FIRM_CRM,CRM,2023,28843840000.0,Yahoo annual income statement,FIRM_CRM,CRM,0,True
+FIRM_CRSR,CRSR,2022,1265090160.0,Yahoo annual income statement,FIRM_CRSR,CRSR,0,True
+FIRM_CRSR,CRSR,2023,1343085000.0,Yahoo annual income statement,FIRM_CRSR,CRSR,0,True
+FIRM_CRWD,CRWD,2023,2061937120.0,Yahoo annual income statement,FIRM_CRWD,CRWD,0,True
+FIRM_CXM,CXM,2023,568734800.0,Yahoo annual income statement,FIRM_CXM,CXM,0,False
+FIRM_DDOG,DDOG,2022,1541092000.0,Yahoo annual income statement,FIRM_DDOG,DDOG,0,True
+FIRM_DDOG,DDOG,2023,1958090280.0,Yahoo annual income statement,FIRM_DDOG,DDOG,0,True
+FIRM_DMRC,DMRC,2022,27781240.0,Yahoo annual income statement,FIRM_DMRC,DMRC,0,False
+FIRM_DMRC,DMRC,2023,32062920.0,Yahoo annual income statement,FIRM_DMRC,DMRC,0,False

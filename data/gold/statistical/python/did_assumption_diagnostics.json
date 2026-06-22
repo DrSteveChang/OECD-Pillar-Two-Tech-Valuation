@@ -1,0 +1,33 @@
+{
+  "parallel_trends": {
+    "status": "concern",
+    "reference_year": 2023,
+    "pre_period_years": [
+      2020,
+      2021,
+      2022
+    ],
+    "joint_pretrend_p_value": 6.394845789931367e-06,
+    "joint_pretrend_not_rejected_5pct": false,
+    "interpretation": "Failure to reject does not prove parallel trends; it only reports whether detectable annual pre-period differences are present."
+  },
+  "covariate_balance_and_overlap": {
+    "largest_absolute_standardized_difference": 3.787534606534454,
+    "covariates_with_abs_smd_above_0_25": [
+      "Firm_Size",
+      "RD_Intensity",
+      "ETR"
+    ],
+    "firm_size_common_support_share": 0.029411764705882353,
+    "overlap_status": "material_concern"
+  },
+  "no_anticipation": {
+    "status": "at_risk",
+    "reason": "Pillar Two announcements occurred in 2021-2022 before the January 2024 implementation indicator."
+  },
+  "no_time_varying_unobserved_confounding": {
+    "status": "untestable_assumption",
+    "reason": "Firm and month fixed effects do not absorb firm-specific time-varying shocks."
+  },
+  "robustness_specifications": 5
+}

@@ -1,0 +1,65 @@
+{
+  "method": "aggregate synthetic control on monthly abnormal returns",
+  "treated_firms": 36,
+  "donor_firms": 25,
+  "pre_rmspe": 0.035185274287541465,
+  "post_rmspe": 0.04667567976180698,
+  "post_mean_gap": 0.008089874159280317,
+  "post_pre_mspe_ratio": 1.7597842286059369,
+  "placebo_p_value": 0.28,
+  "placebo_count": 25,
+  "top_weights": [
+    {
+      "ticker": "FORM",
+      "weight": 0.2773466912946194
+    },
+    {
+      "ticker": "MITK",
+      "weight": 0.1630288308827578
+    },
+    {
+      "ticker": "ATEN",
+      "weight": 0.09252840536757245
+    },
+    {
+      "ticker": "AUDC",
+      "weight": 0.08144190554571325
+    },
+    {
+      "ticker": "APPF",
+      "weight": 0.07325856585919742
+    },
+    {
+      "ticker": "DCO",
+      "weight": 0.062251730590292514
+    },
+    {
+      "ticker": "TCX",
+      "weight": 0.05667799692234873
+    },
+    {
+      "ticker": "QNST",
+      "weight": 0.05123896084810342
+    },
+    {
+      "ticker": "DGII",
+      "weight": 0.04975263923820306
+    },
+    {
+      "ticker": "SPSC",
+      "weight": 0.04477411600093217
+    }
+  ],
+  "max_donor_weight": 0.2773466912946194,
+  "donor_weight_hhi": 0.13968289966932898,
+  "leave_one_out_post_gap_min": 0.008132441891977904,
+  "leave_one_out_post_gap_max": 0.014927497273723942,
+  "formal_causal_claim": false,
+  "assumptions_and_limitations": {
+    "pre_treatment_fit": "SCM credibility depends on the synthetic control reproducing the treated proxy before implementation.",
+    "no_spillovers": "Control firms may still be indirectly affected by Pillar Two or correlated regulatory shocks.",
+    "donor_pool": "Only firms with complete monthly abnormal-return histories are used; missing returns are not imputed as zero.",
+    "aggregate_treatment": "The treated outcome is a cohort average, which can conceal firm-level heterogeneity."
+  },
+  "limitation": "Treatment is a revenue-threshold exposure proxy, not observed top-up tax liability."
+}

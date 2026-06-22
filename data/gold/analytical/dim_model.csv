@@ -1,0 +1,12 @@
+model_id,model_family,model_name,outcome_variable,treatment_variable,standard_error_method,evidence_role,causal_claim_allowed
+exposure_event_study,event_study,Continuous exposure event study,car,pillar_two_exposure_intensity,HC3,main_model,False
+weighted_did,did,Overlap-weighted monthly return DiD,abnormal_return,DiD,clustered_firm,supplementary_validation,False
+binary_did,did,Binary monthly return DiD,abnormal_return,DiD,clustered_firm,legacy_sensitivity,False
+scm,scm,Synthetic control,abnormal_return,pillar_two_scope_proxy,placebo,complementary,False
+revenue_did,did,Revenue mechanism DiD,Log_Revenue,DiD,clustered_firm,exploratory,False
+cs_did,staggered_did,Callaway & Sant'Anna staggered DiD,abnormal_return,pillar_two_scope_proxy,clustered_firm,main_model,False
+sa_did,staggered_did,Sun & Abraham event study,abnormal_return,pillar_two_scope_proxy,clustered_firm,robustness,False
+gsynth,gscm,Generalized synthetic control,abnormal_return,pillar_two_scope_proxy,bootstrap,main_model,False
+grf_heterogeneity,causal_ml,Causal forest heterogeneity,Log_Revenue_change,pillar_two_scope_proxy,forest,heterogeneity,False
+bacon_decomposition,diagnostic,Bacon decomposition of TWFE,abnormal_return,pillar_two_scope_proxy,bacon,assumption_diagnostic,False
+honest_did,sensitivity,HonestDiD parallel trends sensitivity,abnormal_return,pillar_two_scope_proxy,sensitivity_bounds,assumption_diagnostic,False

@@ -1,0 +1,7 @@
+model_id,variable,smd_unweighted,smd_overlap_weighted,balance_threshold,balance_passed
+weighted_did,threshold_distance_log,4.427330400622797,4.304044033802808,0.1,False
+weighted_did,Firm_Size,4.216759475100345,3.935724788417929,0.1,False
+weighted_did,Leverage,0.8715344988659055,0.5885936056895713,0.1,False
+weighted_did,RD_Intensity,-0.2931693050133551,-0.0426293433253149,0.1,True
+weighted_did,ETR,0.5548003068124575,0.3686575812895605,0.1,False
+weighted_did,Intangible_Ratio,-0.0026058785056678,-0.1647757284581336,0.1,False

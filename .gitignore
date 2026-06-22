@@ -1,0 +1,43 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+.vscode/
+.kunsdd/
+.DS_Store
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Raw and canonical datasets are regenerated locally and are not published.
+data/bronze/
+data/silver/
+
+# Generated vector matrices and model caches are deliberately rebuildable.
+data/serving/ai/vector_store/
+.cache/
+
+# Generated reports, logs, document renders, and thesis source material.
+outputs/
+docs/TFM_*.pdf
+
+# Historical prototypes are retained locally for audit, not published.
+legacy/
+
+# Thesis-only generators and their artifact-layout tests remain local.
+scripts/build_tfm_thesis.py
+scripts/generate_architecture_diagrams.py
+scripts/render_ai_report_artifacts.py
+scripts/update_tfm_navigation_pages.py
+tests/test_tfm_*.py
+tests/test_ai_report_artifacts.py
+tests/test_architecture_diagrams.py

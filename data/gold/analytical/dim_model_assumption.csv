@@ -1,0 +1,9 @@
+assumption_id,assumption_name,interpretation_boundary
+parallel_trends,Parallel trends,Pre-policy outcome trends are comparable
+common_support,Common support,Treatment groups overlap on observed covariates
+event_exogeneity,Event exogeneity,No concurrent exposure-correlated news
+no_unobserved_confounding,No unobserved confounding,No omitted time-varying causes
+staggered_timing,Staggered treatment timing,Treatment timing heterogeneity is correctly modeled
+limited_anticipation,Limited anticipation,Firms do not change behavior before treatment
+correct_specification,Correct specification,Interactive fixed effects model is correctly specified
+parallel_trends_sensitivity,Parallel trends sensitivity,Conclusions are robust to bounded violations of parallel trends

@@ -1,0 +1,24 @@
+project:
+  policy_post_month: "2024-01"
+  price_start: "2020-01-01"
+  price_end: "2026-01-01"
+  benchmarks: ["SPY", "QQQ", "XLK"]
+  random_seed: 42
+events:
+  - id: inclusive_framework_agreement
+    date: "2021-10-08"
+    label: "OECD Inclusive Framework political agreement"
+    source_url: "https://www.oecd.org/tax/beps/statement-on-a-two-pillar-solution-to-address-the-tax-challenges-arising-from-the-digitalisation-of-the-economy-october-2021.htm"
+  - id: globe_model_rules
+    date: "2021-12-20"
+    label: "OECD GloBE Model Rules release"
+    source_url: "https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm"
+  - id: eu_directive
+    date: "2022-12-15"
+    label: "EU minimum taxation directive approval"
+    source_url: "https://www.consilium.europa.eu/en/press/press-releases/2022/12/12/international-taxation-council-reaches-agreement-on-a-minimum-level-of-taxation-for-largest-corporations/"
+  - id: initial_implementation
+    date: "2024-01-01"
+    label: "Initial Pillar Two implementation"
+    source_url: "https://www.oecd.org/tax/beps/pillar-two-model-rules-in-a-nutshell.htm"
+

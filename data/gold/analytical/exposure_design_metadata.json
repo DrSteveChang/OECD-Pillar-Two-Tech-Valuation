@@ -1,0 +1,13 @@
+{
+  "threshold_eur": 750000000,
+  "scope_years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "scope_rule": "At least EUR 750m in at least two of four years; all four years must be observed.",
+  "exposure_score": "Mean percentile rank of low-tax gap, R&D intensity, and intangible-asset ratio; minimum two components.",
+  "eligible_firms": 68,
+  "in_scope_firms": 37
+}

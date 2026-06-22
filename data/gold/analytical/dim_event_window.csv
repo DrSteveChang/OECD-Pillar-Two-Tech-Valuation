@@ -1,0 +1,13 @@
+event_window_id,event_id,window_start,window_end,benchmark
+inclusive_framework_agreement_m1_p1,inclusive_framework_agreement,-1,1,QQQ
+inclusive_framework_agreement_m3_p3,inclusive_framework_agreement,-3,3,QQQ
+inclusive_framework_agreement_m5_p5,inclusive_framework_agreement,-5,5,QQQ
+globe_model_rules_m1_p1,globe_model_rules,-1,1,QQQ
+globe_model_rules_m3_p3,globe_model_rules,-3,3,QQQ
+globe_model_rules_m5_p5,globe_model_rules,-5,5,QQQ
+eu_directive_m1_p1,eu_directive,-1,1,QQQ
+eu_directive_m3_p3,eu_directive,-3,3,QQQ
+eu_directive_m5_p5,eu_directive,-5,5,QQQ
+initial_implementation_m1_p1,initial_implementation,-1,1,QQQ
+initial_implementation_m3_p3,initial_implementation,-3,3,QQQ
+initial_implementation_m5_p5,initial_implementation,-5,5,QQQ

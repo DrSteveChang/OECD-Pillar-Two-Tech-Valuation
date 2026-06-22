@@ -1,0 +1,25 @@
+{
+  "model": "Overlap-weighted monthly abnormal-return DiD",
+  "term": "DiD",
+  "estimate": 0.0008338373668358512,
+  "std_error": 0.01650509307737885,
+  "p_value": 0.9597080089409027,
+  "ci_low": -0.03151555062630806,
+  "ci_high": 0.03318322535997976,
+  "nobs": 2788,
+  "statistically_significant_5pct": false,
+  "assumption_diagnostics": {
+    "overlap_status": "failed",
+    "common_support_share": 0.0,
+    "common_support_interval": [
+      0.8356268833184678,
+      0.2260473398539538
+    ],
+    "support_trim_applied": false,
+    "effective_sample_size": 16.445934637183175,
+    "max_absolute_smd_unweighted": 4.427330400622797,
+    "max_absolute_smd_weighted": 4.304044033802808,
+    "joint_pretrend_p_value": 0.263238524341171,
+    "limitations": "Weighting addresses observed baseline differences only; unobserved time-varying confounding, anticipation, and treatment misclassification remain. If strict common-support trimming removes one treatment arm, untrimmed overlap weights are retained and weak overlap is explicitly flagged."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": "Exploratory revenue mechanism DiD",
+  "term": "DiD",
+  "estimate": 0.022571293180974002,
+  "std_error": 0.06296735397275999,
+  "p_value": 0.7199989131694653,
+  "ci_low": -0.10084245280742066,
+  "ci_high": 0.14598503916936867,
+  "nobs": 285,
+  "statistically_significant_5pct": false,
+  "formal_causal_claim": false,
+  "limitation": "Only one well-populated pre-implementation fiscal year is available; parallel trends cannot be credibly assessed."
+}

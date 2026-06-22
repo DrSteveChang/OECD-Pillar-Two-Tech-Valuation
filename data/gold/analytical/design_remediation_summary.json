@@ -1,0 +1,21 @@
+{
+  "restricted_sample_firms": 0,
+  "restricted_sample_result_status": "not_estimated",
+  "high_volatility_event_windows": 1,
+  "applicable_modern_methods": [],
+  "adoption_reference_rows": 27,
+  "jurisdiction_policy_timing_rows": 13588,
+  "firm_level_staggered_exposure_generated": false,
+  "firm_jurisdiction_exposure_validation": {
+    "valid": false,
+    "failure_reason": "Missing firm-jurisdiction revenue/profit exposure needed for staggered cohorts.",
+    "required_columns": [
+      "FiscalYear",
+      "Ticker",
+      "exposure_weight",
+      "first_treat_year",
+      "jurisdiction_code",
+      "treated"
+    ]
+  }
+}

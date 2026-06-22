@@ -1,0 +1,13 @@
+method,assumption,diagnostic,status,limitation
+Exposure event study,Pre-determined exposure and isolated policy news,Exposure components are restricted to fiscal years no later than 2022; Holm adjustment is reported.,partially_addressed,Concurrent firm-specific news and proxy measurement error remain possible.
+Overlap-weighted DiD,Observed covariate balance and common support,Common-support share=0.000; weighted max |SMD|=4.304,concern,Balance on observed covariates does not establish balance on unobserved determinants.
+Overlap-weighted DiD,Parallel trends,Weighted joint annual pretrend p=0.263239,not_rejected_but_not_proven,A pretrend test has limited power and cannot prove the identifying assumption.
+DiD,Parallel trends,Joint annual pretrend p=6.39485e-06,concern,A diagnostic rejection indicates the baseline DiD cannot support a strong causal interpretation.
+DiD,Covariate overlap/common support,Firm-size common-support share=0.029; max |SMD|=3.788,material_concern,Treatment status is strongly associated with firm size and other baseline attributes.
+DiD,No anticipation,Pillar Two announcements occurred in 2021-2022 before the January 2024 implementation indicator.,at_risk,Announcements precede the implementation indicator.
+Event study,Isolated event and valid inference,Holm and BH adjusted p-values reported across 12 comparisons.,partially_addressed,Concurrent news and cross-firm dependence remain possible.
+SCM,"Good pre-fit, valid donor pool, no spillovers",Pre-RMSPE=0.0352; placebo p=0.2800; max donor weight=0.277,partially_addressed,Donor validity and spillovers cannot be fully tested.
+Revenue DiD,Sufficient pre-periods,Only one well-populated pre-implementation fiscal year.,failed,Exploratory descriptive mechanism only.
+Modern staggered estimators,Observed firm-jurisdiction exposure timing,fact_modern_method_applicability.csv records missing firm-jurisdiction revenue/profit exposure for CS DiD and SA DiD.,not_applicable,Jurisdiction adoption dates alone cannot identify firm-level Pillar Two treatment.
+Event study,No concurrent market-wide shocks,"fact_event_confound_screen.csv flags high-volatility [-3,+3] trading-day windows without deleting events.",diagnostic_only,"High-volatility flags support discussion of confounding risk, not event exclusion."
+R replication,Independent computational reproduction,"Estimate, standard error, p-value, sample size, and pretrend p-value compared.",computationally_replicated,Computational replication does not validate causal assumptions.

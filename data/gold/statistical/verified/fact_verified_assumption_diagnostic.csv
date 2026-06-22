@@ -1,0 +1,7 @@
+model_id,assumption_id,diagnostic_name,diagnostic_value,status
+binary_did,parallel_trends,joint_pretrend_p_value,6.394845789931367e-06,concern
+binary_did,common_support,firm_size_common_support_share,0.0294117647058823,material_concern
+weighted_did,common_support,common_support_share,0.0,failed
+weighted_did,parallel_trends,effective_sample_size,16.445934637183175,failed
+weighted_did,common_support,max_absolute_smd_weighted,4.304044033802808,failed
+weighted_did,parallel_trends,joint_pretrend_p_value,0.263238524341171,failed

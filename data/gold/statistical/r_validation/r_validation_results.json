@@ -1,0 +1,95 @@
+{
+  "status": "completed_with_modern_methods",
+  "data_validation": {
+    "status": "passed",
+    "firm_year_rows": 340,
+    "firm_count": 72,
+    "market_month_rows": 5032,
+    "duplicate_firm_years": 0,
+    "duplicate_firm_months": 0
+  },
+  "market_did": {
+    "specification": "baseline_qqq",
+    "estimate": -0.006425818699267,
+    "std_error": 0.007664960039686,
+    "p_value": 0.4018415275004,
+    "nobs": 5022,
+    "statistically_significant_5pct": false
+  },
+  "did_robustness": [
+    {
+      "specification": "baseline_qqq",
+      "estimate": -0.006425818699267,
+      "std_error": 0.007664960039686,
+      "p_value": 0.4018415275004,
+      "nobs": 5022,
+      "statistically_significant_5pct": false
+    },
+    {
+      "specification": "alternative_benchmark_spy",
+      "estimate": -0.006427675206092,
+      "std_error": 0.007664974314804,
+      "p_value": 0.4017064258911,
+      "nobs": 5022,
+      "statistically_significant_5pct": false
+    },
+    {
+      "specification": "alternative_benchmark_xlk",
+      "estimate": -0.006425279651426,
+      "std_error": 0.007664955980755,
+      "p_value": 0.4018807655371,
+      "nobs": 5022,
+      "statistically_significant_5pct": false
+    },
+    {
+      "specification": "group_linear_trend",
+      "estimate": -0.02085167036868,
+      "std_error": 0.009217238524732,
+      "p_value": 0.02368214582562,
+      "nobs": 5022,
+      "statistically_significant_5pct": true
+    },
+    {
+      "specification": "baseline_covariate_post_interactions",
+      "estimate": -0.002525679327681,
+      "std_error": 0.02054676938088,
+      "p_value": 0.9021677334142,
+      "nobs": 2932,
+      "statistically_significant_5pct": false
+    }
+  ],
+  "did_pretrend": {
+    "joint_pretrend_p_value": 6.394845789925e-06,
+    "joint_pretrend_not_rejected_5pct": false
+  },
+  "scm_validation": {
+    "status": "input_conditions_passed",
+    "genuine_pre_months": 48,
+    "genuine_post_months": 24,
+    "imputed_periods": 0,
+    "complete_case_only": true,
+    "sdid_estimate": -0.002027003015309,
+    "sdid_standard_error": 0.005258045742464,
+    "balanced_firms": 61
+  },
+  "heterogeneity_validation": {
+    "status": "exploratory_with_blp_and_rate",
+    "estimate": -0.1204902074687,
+    "std_error": 0.08344761109753,
+    "sample_size": 52,
+    "calibration_mean_pval": "NA",
+    "calibration_diff_pval": "NA"
+  },
+  "python_comparison": {
+    "market_did_estimate_difference": 3.72098185597e-16,
+    "market_did_standard_error_difference": 3.313321839116e-16,
+    "market_did_p_value_difference": 6.994405055138e-15,
+    "market_did_nobs_match": true,
+    "pretrend_p_value_difference": 5.872479423314e-18,
+    "robustness_max_estimate_difference": 1.174971578366e-14,
+    "robustness_max_standard_error_difference": 5.491093690857e-14,
+    "event_max_difference_difference": 2.125036258072e-17,
+    "event_max_bh_p_value_difference": 2.442490654175e-15,
+    "event_max_holm_p_value_difference": 8.881784197001e-16
+  }
+}

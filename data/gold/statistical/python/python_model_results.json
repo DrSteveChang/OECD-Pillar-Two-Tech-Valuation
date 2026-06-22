@@ -1,0 +1,583 @@
+{
+  "event_study": {
+    "method": "market-adjusted event study",
+    "events": [
+      {
+        "event_id": "eu_directive",
+        "window": "[-1,+1]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -0.003601907046861714,
+        "control_mean_car": 0.021141487571953225,
+        "difference": -0.02474339461881494,
+        "std_error": 0.012627828124403636,
+        "ci_low": -0.049493937742646064,
+        "ci_high": 7.148505016187079e-06,
+        "p_value": 0.05720002765092748,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.22880011060370992,
+        "p_value_holm": 0.5720002765092748,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "eu_directive",
+        "window": "[-3,+3]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.008969495045040042,
+        "control_mean_car": 0.018363656409083114,
+        "difference": -0.009394161364043072,
+        "std_error": 0.015190043516951319,
+        "ci_low": -0.039166646657267656,
+        "ci_high": 0.020378323929181513,
+        "p_value": 0.5398004022187044,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.5888731660567684,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "eu_directive",
+        "window": "[-5,+5]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.0136253232112411,
+        "control_mean_car": 0.04077558331016373,
+        "difference": -0.027150260098922633,
+        "std_error": 0.019531232844022296,
+        "ci_low": -0.06543147647320634,
+        "ci_high": 0.011130956275361068,
+        "p_value": 0.17118629057098528,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.29346221240740333,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-1,+1]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.0034198067473579187,
+        "control_mean_car": 0.03718457473194305,
+        "difference": -0.03376476798458514,
+        "std_error": 0.00829994845545848,
+        "ci_low": -0.050032666957283756,
+        "ci_high": -0.017496869011886518,
+        "p_value": 0.0001253768020590674,
+        "statistically_significant_5pct": true,
+        "p_value_bh": 0.0015045216247088088,
+        "p_value_holm": 0.0015045216247088088,
+        "statistically_significant_bh_5pct": true,
+        "statistically_significant_holm_5pct": true
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-3,+3]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.0067530993911695284,
+        "control_mean_car": 0.023199650336148202,
+        "difference": -0.016446550944978672,
+        "std_error": 0.010715615504803992,
+        "ci_low": -0.037449157334394495,
+        "ci_high": 0.00455605544443715,
+        "p_value": 0.1294790545098258,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.29346221240740333,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-5,+5]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.008453374185326717,
+        "control_mean_car": -0.010776116988865395,
+        "difference": 0.019229491174192113,
+        "std_error": 0.013594673508577217,
+        "ci_low": -0.007416068902619231,
+        "ci_high": 0.045875051251003454,
+        "p_value": 0.16184114729569776,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.29346221240740333,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-1,+1]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": 0.004341358212386214,
+        "control_mean_car": 0.0014948066769580326,
+        "difference": 0.002846551535428181,
+        "std_error": 0.006044415350126366,
+        "ci_low": -0.009000502550819498,
+        "ci_high": 0.014693605621675859,
+        "p_value": 0.6395981814376182,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.6395981814376182,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-3,+3]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -0.0027771602586943362,
+        "control_mean_car": 0.013176551337643286,
+        "difference": -0.015953711596337624,
+        "std_error": 0.0106329516572438,
+        "ci_low": -0.03679429684453547,
+        "ci_high": 0.004886873651860222,
+        "p_value": 0.13876541898671443,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.29346221240740333,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-5,+5]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -3.851786105669718e-05,
+        "control_mean_car": -0.009576806920255794,
+        "difference": 0.009538289059199097,
+        "std_error": 0.011400666404967149,
+        "ci_low": -0.012807017094536513,
+        "ci_high": 0.031883595212934705,
+        "p_value": 0.4061286988013695,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.48735443856164334,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-1,+1]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -0.009877275193816107,
+        "control_mean_car": -0.03597515698751927,
+        "difference": 0.026097881793703162,
+        "std_error": 0.012672999370921844,
+        "ci_low": 0.0012588030266963493,
+        "ci_high": 0.050936960560709975,
+        "p_value": 0.0457618339117366,
+        "statistically_significant_5pct": true,
+        "p_value_bh": 0.22880011060370992,
+        "p_value_holm": 0.5033801730291025,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-3,+3]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -0.014713995606888677,
+        "control_mean_car": -0.030267847246266515,
+        "difference": 0.015553851639377838,
+        "std_error": 0.01390945372007663,
+        "ci_low": -0.011708677651972357,
+        "ci_high": 0.04281638093072803,
+        "p_value": 0.2692208591284602,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.40383128869269036,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-5,+5]",
+        "treated_n": 38,
+        "control_n": 34,
+        "treated_mean_car": -0.01411135595460402,
+        "control_mean_car": -0.02986378240544992,
+        "difference": 0.0157524264508459,
+        "std_error": 0.015962556134095033,
+        "ci_low": -0.015534183571980362,
+        "ci_high": 0.04703903647367216,
+        "p_value": 0.32893723886198056,
+        "statistically_significant_5pct": false,
+        "p_value_bh": 0.4385829851493074,
+        "p_value_holm": 1.0,
+        "statistically_significant_bh_5pct": false,
+        "statistically_significant_holm_5pct": false
+      }
+    ],
+    "assumptions_and_limitations": {
+      "event_exogeneity": "Policy dates are externally dated, but concurrent market news within each window is not fully controlled.",
+      "benchmark_model": "Abnormal return is stock log return minus QQQ log return; alternative expected-return models may differ.",
+      "cross_firm_dependence": "Welch tests do not fully model cross-firm dependence from common shocks.",
+      "multiple_testing": "Benjamini-Hochberg and Holm adjusted p-values are reported across all event-window comparisons."
+    }
+  },
+  "exposure_event_study": {
+    "method": "Continuous pre-policy tax-exposure event study with HC3 inference",
+    "events": [
+      {
+        "event_id": "eu_directive",
+        "window": "[-1,+1]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.0017096055770854856,
+        "std_error": 0.028896977372179947,
+        "p_value": 0.9528230044950242,
+        "ci_low": -0.0549274293344561,
+        "ci_high": 0.058346640488627075,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "eu_directive",
+        "window": "[-3,+3]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.02507518455501888,
+        "std_error": 0.038661793070595356,
+        "p_value": 0.51661124406067,
+        "ci_low": -0.05070053744108825,
+        "ci_high": 0.10085090655112601,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "eu_directive",
+        "window": "[-5,+5]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": -0.05350698053981873,
+        "std_error": 0.058725966315562525,
+        "p_value": 0.3622269633087899,
+        "ci_low": -0.16860775947563367,
+        "ci_high": 0.0615937983959962,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-1,+1]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": -0.053756686793186514,
+        "std_error": 0.030965199726008818,
+        "p_value": 0.08255755315672403,
+        "ci_low": -0.11444736303025335,
+        "ci_high": 0.006933989443880316,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 0.9906906378806883,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-3,+3]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": -0.018402918313792364,
+        "std_error": 0.035933130607656245,
+        "p_value": 0.6085506009072512,
+        "ci_low": -0.08883056015657248,
+        "ci_high": 0.052024723528987744,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "globe_model_rules",
+        "window": "[-5,+5]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.013570920364553193,
+        "std_error": 0.045225198931035625,
+        "p_value": 0.7641204743848391,
+        "ci_low": -0.07506884073393598,
+        "ci_high": 0.10221068146304237,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-1,+1]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.005578823119193384,
+        "std_error": 0.02120619598142215,
+        "p_value": 0.7924926594629881,
+        "ci_low": -0.035984557253492054,
+        "ci_high": 0.047142203491878816,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-3,+3]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.01493842847622754,
+        "std_error": 0.040368096003040796,
+        "p_value": 0.7113412759132247,
+        "ci_low": -0.06418158581418773,
+        "ci_high": 0.0940584427666428,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "inclusive_framework_agreement",
+        "window": "[-5,+5]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.04461740381285301,
+        "std_error": 0.04295791504777148,
+        "p_value": 0.29897658248840964,
+        "ci_low": -0.039578562531710326,
+        "ci_high": 0.12881337015741634,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-1,+1]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.03775629351080883,
+        "std_error": 0.03154183369895227,
+        "p_value": 0.23129767526634581,
+        "ci_low": -0.024064564545489414,
+        "ci_high": 0.09957715156710707,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-3,+3]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.01702413294788869,
+        "std_error": 0.03279160045590246,
+        "p_value": 0.6036481995072172,
+        "ci_low": -0.04724622294110734,
+        "ci_high": 0.08129448883688473,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      },
+      {
+        "event_id": "initial_implementation",
+        "window": "[-5,+5]",
+        "model": "Continuous pre-policy tax-exposure event study",
+        "term": "pillar_two_exposure_intensity",
+        "estimate": 0.03151976264403684,
+        "std_error": 0.04286438978069996,
+        "p_value": 0.4621344096245008,
+        "ci_low": -0.05249289754542182,
+        "ci_high": 0.11553242283349549,
+        "nobs": 71,
+        "statistically_significant_5pct": false,
+        "p_value_holm": 1.0,
+        "statistically_significant_holm_5pct": false
+      }
+    ],
+    "assumptions_and_limitations": {
+      "exposure_pre_determined": "Exposure components use accounting observations no later than fiscal 2022.",
+      "conditional_event_exogeneity": "After included pre-policy covariates, exposure must be unrelated to concurrent firm-specific news; this is not fully testable.",
+      "functional_form": "The coefficient assumes a linear relation between the constructed exposure score and CAR.",
+      "measurement": "The score is a proxy based on ETR, R&D intensity, and intangible assets, not observed top-up tax.",
+      "multiple_testing": "Holm-adjusted p-values are reported across event-window specifications."
+    }
+  },
+  "weighted_did": {
+    "model": "Overlap-weighted monthly abnormal-return DiD",
+    "term": "DiD",
+    "estimate": 0.0008338373668358512,
+    "std_error": 0.01650509307737885,
+    "p_value": 0.9597080089409027,
+    "ci_low": -0.03151555062630806,
+    "ci_high": 0.03318322535997976,
+    "nobs": 2788,
+    "statistically_significant_5pct": false,
+    "assumption_diagnostics": {
+      "overlap_status": "failed",
+      "common_support_share": 0.0,
+      "common_support_interval": [
+        0.8356268833184678,
+        0.2260473398539538
+      ],
+      "support_trim_applied": false,
+      "effective_sample_size": 16.445934637183175,
+      "max_absolute_smd_unweighted": 4.427330400622797,
+      "max_absolute_smd_weighted": 4.304044033802808,
+      "joint_pretrend_p_value": 0.263238524341171,
+      "limitations": "Weighting addresses observed baseline differences only; unobserved time-varying confounding, anticipation, and treatment misclassification remain. If strict common-support trimming removes one treatment arm, untrimmed overlap weights are retained and weak overlap is explicitly flagged."
+    }
+  },
+  "market_did": {
+    "model": "Monthly abnormal return DiD with firm and month FE",
+    "term": "DiD",
+    "estimate": -0.0064258186992673105,
+    "std_error": 0.00766496003968605,
+    "p_value": 0.4018415275004231,
+    "ci_low": -0.02144886431999067,
+    "ci_high": 0.00859722692145605,
+    "nobs": 5022,
+    "statistically_significant_5pct": false,
+    "assumption_diagnostics": {
+      "parallel_trends": {
+        "status": "concern",
+        "reference_year": 2023,
+        "pre_period_years": [
+          2020,
+          2021,
+          2022
+        ],
+        "joint_pretrend_p_value": 6.394845789931367e-06,
+        "joint_pretrend_not_rejected_5pct": false,
+        "interpretation": "Failure to reject does not prove parallel trends; it only reports whether detectable annual pre-period differences are present."
+      },
+      "covariate_balance_and_overlap": {
+        "largest_absolute_standardized_difference": 3.787534606534454,
+        "covariates_with_abs_smd_above_0_25": [
+          "Firm_Size",
+          "RD_Intensity",
+          "ETR"
+        ],
+        "firm_size_common_support_share": 0.029411764705882353,
+        "overlap_status": "material_concern"
+      },
+      "no_anticipation": {
+        "status": "at_risk",
+        "reason": "Pillar Two announcements occurred in 2021-2022 before the January 2024 implementation indicator."
+      },
+      "no_time_varying_unobserved_confounding": {
+        "status": "untestable_assumption",
+        "reason": "Firm and month fixed effects do not absorb firm-specific time-varying shocks."
+      },
+      "robustness_specifications": 5
+    }
+  },
+  "revenue_mechanism": {
+    "model": "Exploratory revenue mechanism DiD",
+    "term": "DiD",
+    "estimate": 0.022571293180974002,
+    "std_error": 0.06296735397275999,
+    "p_value": 0.7199989131694653,
+    "ci_low": -0.10084245280742066,
+    "ci_high": 0.14598503916936867,
+    "nobs": 285,
+    "statistically_significant_5pct": false,
+    "formal_causal_claim": false,
+    "limitation": "Only one well-populated pre-implementation fiscal year is available; parallel trends cannot be credibly assessed."
+  },
+  "scm": {
+    "method": "aggregate synthetic control on monthly abnormal returns",
+    "treated_firms": 36,
+    "donor_firms": 25,
+    "pre_rmspe": 0.035185274287541465,
+    "post_rmspe": 0.04667567976180698,
+    "post_mean_gap": 0.008089874159280317,
+    "post_pre_mspe_ratio": 1.7597842286059369,
+    "placebo_p_value": 0.28,
+    "placebo_count": 25,
+    "top_weights": [
+      {
+        "ticker": "FORM",
+        "weight": 0.2773466912946194
+      },
+      {
+        "ticker": "MITK",
+        "weight": 0.1630288308827578
+      },
+      {
+        "ticker": "ATEN",
+        "weight": 0.09252840536757245
+      },
+      {
+        "ticker": "AUDC",
+        "weight": 0.08144190554571325
+      },
+      {
+        "ticker": "APPF",
+        "weight": 0.07325856585919742
+      },
+      {
+        "ticker": "DCO",
+        "weight": 0.062251730590292514
+      },
+      {
+        "ticker": "TCX",
+        "weight": 0.05667799692234873
+      },
+      {
+        "ticker": "QNST",
+        "weight": 0.05123896084810342
+      },
+      {
+        "ticker": "DGII",
+        "weight": 0.04975263923820306
+      },
+      {
+        "ticker": "SPSC",
+        "weight": 0.04477411600093217
+      }
+    ],
+    "max_donor_weight": 0.2773466912946194,
+    "donor_weight_hhi": 0.13968289966932898,
+    "leave_one_out_post_gap_min": 0.008132441891977904,
+    "leave_one_out_post_gap_max": 0.014927497273723942,
+    "formal_causal_claim": false,
+    "assumptions_and_limitations": {
+      "pre_treatment_fit": "SCM credibility depends on the synthetic control reproducing the treated proxy before implementation.",
+      "no_spillovers": "Control firms may still be indirectly affected by Pillar Two or correlated regulatory shocks.",
+      "donor_pool": "Only firms with complete monthly abnormal-return histories are used; missing returns are not imputed as zero.",
+      "aggregate_treatment": "The treated outcome is a cohort average, which can conceal firm-level heterogeneity."
+    },
+    "limitation": "Treatment is a revenue-threshold exposure proxy, not observed top-up tax liability."
+  },
+  "data_science_exploratory": {
+    "evidence_role": "exploratory_only",
+    "causal_claim_allowed": false,
+    "features": [
+      "threshold_distance_log",
+      "Firm_Size",
+      "Leverage",
+      "RD_Intensity",
+      "ETR",
+      "Intangible_Ratio",
+      "pre_policy_tax_exposure_score"
+    ],
+    "eligible_firms": 72,
+    "limitation": "Feature profiles and correlations describe observed attributes; they do not estimate causal effects."
+  }
+}

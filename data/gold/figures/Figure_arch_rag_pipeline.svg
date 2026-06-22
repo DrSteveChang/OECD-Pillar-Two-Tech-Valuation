@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#888" />
+    </marker>
+  </defs>
+  <text x="480" y="32" fill="#2F5597" font-size="17" font-weight="bold" text-anchor="middle">
+    <tspan x="480" dy="0">Evidence-Bound AI Platform: Active Retrieval and Report Controls</tspan>
+  </text>
+  <g>
+    <rect x="25" y="70" width="180" height="120" fill="#FFF2CC" stroke="#BF9000" stroke-width="2" rx="6" />
+  </g>
+  <text x="115.0" y="95" fill="#BF9000" font-size="12" font-weight="bold" text-anchor="middle">
+    <tspan x="115.0" dy="0">Evidence Sources</tspan>
+  </text>
+  <text x="115.0" y="120" fill="#BF9000" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="115.0" dy="0">Literature PDFs</tspan>
+    <tspan x="115.0" dy="12">Verified Gold results</tspan>
+    <tspan x="115.0" dy="12">Figures + scoreboards</tspan>
+  </text>
+  <g>
+    <rect x="225" y="70" width="180" height="120" fill="#D9E2F3" stroke="#2F5597" stroke-width="2" rx="6" />
+  </g>
+  <text x="315.0" y="95" fill="#2F5597" font-size="12" font-weight="bold" text-anchor="middle">
+    <tspan x="315.0" dy="0">Corpus Construction</tspan>
+  </text>
+  <text x="315.0" y="120" fill="#2F5597" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="315.0" dy="0">Chunk + metadata</tspan>
+    <tspan x="315.0" dy="12">893 corpus records</tspan>
+    <tspan x="315.0" dy="12">Citation IDs + SHA-256</tspan>
+  </text>
+  <g>
+    <rect x="425" y="70" width="220" height="120" fill="#E2EFDA" stroke="#548235" stroke-width="2" rx="6" />
+  </g>
+  <text x="535.0" y="95" fill="#548235" font-size="12" font-weight="bold" text-anchor="middle">
+    <tspan x="535.0" dy="0">Hybrid Retrieval Index</tspan>
+  </text>
+  <text x="535.0" y="120" fill="#548235" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="535.0" dy="0">893 indexed documents</tspan>
+    <tspan x="535.0" dy="12">all-MiniLM-L6-v2</tspan>
+    <tspan x="535.0" dy="12">Hybrid: TF-IDF + embedding</tspan>
+    <tspan x="535.0" dy="12">7 top-k queries</tspan>
+    <tspan x="535.0" dy="12">27 ranked positions</tspan>
+  </text>
+  <g>
+    <rect x="665" y="70" width="270" height="120" fill="#E8D5F5" stroke="#7B2D8E" stroke-width="2" rx="6" />
+  </g>
+  <text x="800.0" y="95" fill="#7B2D8E" font-size="12" font-weight="bold" text-anchor="middle">
+    <tspan x="800.0" dy="0">Evidence Controls</tspan>
+  </text>
+  <text x="800.0" y="120" fill="#7B2D8E" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="800.0" dy="0">Citation registry + evidence graph</tspan>
+    <tspan x="800.0" dy="12">54 nodes / 26 edges / 0 dangling</tspan>
+  </text>
+  <line x1="205" y1="130" x2="225" y2="130" stroke="#BF9000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="405" y1="130" x2="425" y2="130" stroke="#2F5597" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="645" y1="130" x2="665" y2="130" stroke="#548235" stroke-width="2" marker-end="url(#arrowhead)" />
+  <g>
+    <rect x="80" y="245" width="510" height="120" fill="#FCE4D6" stroke="#E65100" stroke-width="2" rx="7" />
+  </g>
+  <text x="335" y="273" fill="#E65100" font-size="14" font-weight="bold" text-anchor="middle">
+    <tspan x="335" dy="0">Deterministic Report Composer and Claim Gate</tspan>
+  </text>
+  <text x="335" y="301" fill="#7F3600" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="335" dy="0">Numbers resolve to verified_model_results.json</tspan>
+  </text>
+  <text x="335" y="321" fill="#7F3600" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="335" dy="0">Citations resolve to the registry; scoreboards govern wording</tspan>
+  </text>
+  <text x="335" y="341" fill="#7F3600" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="335" dy="0">Retrieved context cannot create new treatment effects</tspan>
+  </text>
+  <line x1="780" y1="190" x2="590" y2="270" stroke="#7B2D8E" stroke-width="2" marker-end="url(#arrowhead)" />
+  <g>
+    <rect x="630" y="245" width="270" height="120" fill="#F2F2F2" stroke="#777" stroke-width="2" rx="7" />
+  </g>
+  <text x="765" y="273" fill="#555" font-size="13" font-weight="bold" text-anchor="middle">
+    <tspan x="765" dy="0">Conditional Prompt Branch</tspan>
+  </text>
+  <text x="765" y="301" fill="#555" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="765" dy="0">External LLM rewrite: inactive</tspan>
+  </text>
+  <text x="765" y="321" fill="#555" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="765" dy="0">Prompt contract preserves citations</tspan>
+  </text>
+  <text x="765" y="340" fill="#555" font-size="10" font-weight="normal" text-anchor="middle">
+    <tspan x="765" dy="0">No upload without explicit authorization</tspan>
+  </text>
+  <line x1="590" y1="305" x2="630" y2="305" stroke="#777" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="6,4" />
+  <g>
+    <rect x="210" y="445" width="540" height="120" fill="#E3F2FD" stroke="#1565C0" stroke-width="2" rx="7" />
+  </g>
+  <text x="480" y="475" fill="#1565C0" font-size="14" font-weight="bold" text-anchor="middle">
+    <tspan x="480" dy="0">Validated Evidence-Bound AI Report</tspan>
+  </text>
+  <text x="480" y="502" fill="#0D477D" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="480" dy="0">Active local embedding + audited top-k retrieval</tspan>
+  </text>
+  <text x="480" y="522" fill="#0D477D" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="480" dy="0">Source paths, model boundaries, and provenance retained</tspan>
+  </text>
+  <text x="480" y="542" fill="#0D477D" font-size="11" font-weight="normal" text-anchor="middle">
+    <tspan x="480" dy="0">Evidence graph audits dependencies after report generation</tspan>
+  </text>
+  <line x1="335" y1="365" x2="430" y2="445" stroke="#E65100" stroke-width="2" marker-end="url(#arrowhead)" />
+  <line x1="765" y1="365" x2="530" y2="445" stroke="#777" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="6,4" />
+</svg>

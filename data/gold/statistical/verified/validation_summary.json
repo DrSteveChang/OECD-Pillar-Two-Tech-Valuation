@@ -1,0 +1,6 @@
+{
+  "verification_status": "computationally_replicated",
+  "causal_assumption_status": "material_concerns",
+  "verified_estimate_rows": 16,
+  "python_r_comparison_rows": 10
+}
